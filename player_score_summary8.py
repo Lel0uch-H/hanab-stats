@@ -35,9 +35,10 @@ def calcScore(row):
     if(row == ''):
         return 0
     variant,num_players,attempts,ignore=row.split(',')
-    return (100.0/float(attempts))/  \
+    score = (100.0/float(attempts))/  \
         ((1.0*global_stats[(variant+str(num_players))][0])
-            /(failed_attempts[variant+str(num_players)]+global_stats[(variant+str(num_players))][1]))
+            /(failed_attempts[variant+str(num_players)]+global_stats[(variant+str(num_players))][0]))
+    return score
 
 score_stats = []
 
