@@ -36,7 +36,7 @@ For a player P who has not won a game of type G, S(P,G) = 0.
 
 We define the score for a player S(P) as the average score for that player across all their attempted game types:
 
-    S(P) = Sum (S(P,G) for all G)) / (A(P)
+    S(P) = Sum (S(P,G) for all G)) / A(P)
 
 Note: Due to some outlier data points, S(P,G) is restricted to a maximum value of 300. The player\_score\_summary type 7 has this cap removed.
 
