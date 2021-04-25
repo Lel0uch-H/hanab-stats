@@ -49,5 +49,6 @@ for player in players:
 score_stats = sortBySecond(score_stats)
 
 output = open('output/player_score_summary8.csv', 'w')
+output.write('Player,Score\n')
 output.write(convertListOfListToCsv(score_stats))
 output.close()
