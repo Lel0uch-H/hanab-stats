@@ -44,7 +44,7 @@ score_stats = []
 
 for player in players:
     input=open('output/variant_wise_first_win/variant_wise_first_win_%s.csv'%(player)).read().split('\n')
-    score = sum([min(300,calcScore(row)) for row in input])/attempted_variants[player]
+    score = sum([min(500,calcScore(row)) for row in input])/attempted_variants[player]
     score_stats.append([player,score])
 
 score_stats = sortBySecond(score_stats)
