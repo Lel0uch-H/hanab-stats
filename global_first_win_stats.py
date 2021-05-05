@@ -22,6 +22,6 @@ for player in players:
 variant_stats = convertDictToList(variant_stats)
 variant_stats = sorted(variant_stats)
 
-output = open(argv[2], 'w')
+output = open('output/%s.csv'%argv[2], 'w')
 output.write('\n'.join([','.join(stringify(flatten(i))) for i in variant_stats]))
 output.close()
