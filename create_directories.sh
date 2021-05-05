@@ -1,0 +1,7 @@
+cd output
+mkdir difficulty_dump
+mkdir failed_variants
+mkdir first_win_faceoff
+mkdir individual_stats
+mkdir summary7_raw_scores
+mkdir variant_wise_first_win
