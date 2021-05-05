@@ -7,4 +7,4 @@ output_dir = argv[3]
 
 # print(players)
 for player in players:
-    system('python.exe .\%s.py %s .\output\%s\%s.csv'%(command,player,output_dir,player))
+    system('python3 ./%s.py %s ./output/%s/%s.csv'%(command,player,output_dir,player))
