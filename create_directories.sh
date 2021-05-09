@@ -1,7 +1,8 @@
+mkdir -p output
 cd output
-mkdir difficulty_dump
-mkdir failed_variants
-mkdir first_win_faceoff
-mkdir individual_stats
-mkdir summary7_raw_scores
-mkdir variant_wise_first_win
+mkdir -p difficulty_dump
+mkdir -p dfailed_variants
+mkdir -p dfirst_win_faceoff
+mkdir -p dindividual_stats
+mkdir -p dsummary7_raw_scores
+mkdir -p dvariant_wise_first_win
