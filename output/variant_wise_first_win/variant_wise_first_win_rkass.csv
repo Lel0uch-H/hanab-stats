@@ -1,0 +1,127 @@
+3 Suits,3,1,1
+4 Suits,3,1,1
+4 Suits,5,2,1
+6 Suits,2,6,1
+Ambiguous (6 Suits),6,1,1
+Black & Brown (5 Suits),3,1,1
+Black & Null (5 Suits),2,9,1
+Black & Prism (5 Suits),4,3,1
+Black & Rainbow (5 Suits),2,15,1
+Black & Rainbow (5 Suits),3,18,1
+Black & Rainbow (5 Suits),4,2,1
+Black & Rainbow (6 Suits),3,13,1
+Black & Rainbow (6 Suits),6,2,1
+Black & White (5 Suits),3,5,1
+Black (5 Suits),3,14,1
+Black (5 Suits),4,2,1
+Black (6 Suits),2,2,1
+Black (6 Suits),4,5,1
+Brown & Dark Rainbow (5 Suits),3,2,1
+Brown & Gray (5 Suits),3,3,1
+Brown & Muddy Rainbow (5 Suits),3,1,1
+Brown & Omni (6 Suits),5,2,1
+Brown (3 Suits),3,1,1
+Brown (5 Suits),3,2,1
+Brown (5 Suits),5,2,1
+Brown (6 Suits),3,5,1
+Clue Starved & White (5 Suits),4,2,1
+Clue Starved (5 Suits),5,2,1
+Cocoa Rainbow (5 Suits),4,4,1
+Dark Brown (5 Suits),3,3,1
+Dark Brown (5 Suits),6,1,1
+Dark Brown (6 Suits),6,1,1
+Dark Pink (5 Suits),3,2,1
+Dark Pink (5 Suits),6,1,1
+Dark Pink (6 Suits),3,1,1
+Dark Pink (6 Suits),6,2,1
+Dark Prism (5 Suits),3,2,1
+Dark Rainbow (5 Suits),4,3,1
+Dark Rainbow (6 Suits),4,4,1
+Dual-Color & Prism (6 Suits),6,1,1
+Dual-Color (6 Suits),3,4,1
+Dual-Color (6 Suits),5,1,1
+Dual-Color Mix,3,10,1
+Duck (5 Suits),3,20,1
+Gray (5 Suits),3,2,1
+Gray (5 Suits),4,12,1
+Gray (6 Suits),4,4,1
+Gray Pink (5 Suits),4,1,1
+Light Pink (4 Suits),3,1,1
+Light Pink (5 Suits),4,1,1
+Light Pink (6 Suits),5,1,1
+Muddy Rainbow & Prism (5 Suits),4,5,1
+Muddy Rainbow (3 Suits),3,1,1
+Muddy Rainbow (5 Suits),3,1,1
+Muddy Rainbow (5 Suits),5,1,1
+Muddy Rainbow (6 Suits),4,1,1
+No Variant,2,8,1
+No Variant,3,3,1
+No Variant,4,1,1
+No Variant,5,10,1
+No Variant,6,2,1
+Null (5 Suits),3,11,1
+Null (5 Suits),4,2,1
+Null (5 Suits),6,3,1
+Null (6 Suits),3,4,1
+Omni & Null (6 Suits),2,4,1
+Omni & Null (6 Suits),3,6,1
+Omni (4 Suits),4,2,1
+Omni (6 Suits),4,2,1
+Omni-Fives & Rainbow (6 Suits),3,1,1
+Omni-Ones & Pink (6 Suits),4,1,1
+Omni-Ones (5 Suits),4,1,1
+Pink & Omni (6 Suits),5,1,1
+Pink (4 Suits),5,1,1
+Pink (5 Suits),3,2,1
+Pink (5 Suits),4,1,1
+Pink (6 Suits),2,4,1
+Pink (6 Suits),3,1,1
+Pink-Ones & Black (5 Suits),4,1,1
+Pink-Ones & Gray (5 Suits),3,2,1
+Prism (4 Suits),3,1,1
+Prism (4 Suits),4,1,1
+Prism (5 Suits),3,3,1
+Prism (5 Suits),4,1,1
+Prism (5 Suits),5,1,1
+Prism (6 Suits),3,10,1
+Prism (6 Suits),4,1,1
+Rainbow & Brown (5 Suits),3,1,1
+Rainbow & Dark Brown (5 Suits),6,2,1
+Rainbow & Dark Prism (5 Suits),3,3,1
+Rainbow & Gray (5 Suits),3,1,1
+Rainbow & Muddy Rainbow (6 Suits),4,3,1
+Rainbow & Pink (5 Suits),4,3,1
+Rainbow & Pink (6 Suits),3,2,1
+Rainbow & Prism (5 Suits),3,2,1
+Rainbow & Prism (6 Suits),6,1,1
+Rainbow & White (5 Suits),3,1,1
+Rainbow & White (5 Suits),4,1,1
+Rainbow & White (5 Suits),5,1,1
+Rainbow & White (6 Suits),4,1,1
+Rainbow (6 Suits),2,1,1
+Rainbow (6 Suits),3,4,1
+Rainbow (6 Suits),4,4,1
+Rainbow (6 Suits),6,3,1
+Special Mix (5 Suits),3,2,1
+Throw It in a Hole & Rainbow (5 Suits),3,1,1
+Throw It in a Hole (4 Suits),2,2,1
+Throw It in a Hole (4 Suits),4,2,1
+Throw It in a Hole (5 Suits),3,3,1
+Throw It in a Hole (6 Suits),4,4,1
+Up or Down & Prism (6 Suits),3,1,1
+Up or Down & Rainbow (6 Suits),4,2,1
+Up or Down (5 Suits),3,1,1
+Up or Down (5 Suits),4,13,1
+Very Ambiguous (6 Suits),3,2,1
+White & Brown (5 Suits),4,1,1
+White & Brown (5 Suits),5,1,1
+White & Brown (6 Suits),6,1,1
+White & Muddy Rainbow (5 Suits),5,1,1
+White & Prism (6 Suits),6,1,1
+White (6 Suits),3,3,1
+White (6 Suits),4,1,1
+White (6 Suits),5,1,1
+White-Ones & Brown (5 Suits),4,1,1
+White-Ones & Brown (6 Suits),3,2,1
+White-Ones & Brown (6 Suits),4,1,1
+White-Ones & Pink (5 Suits),5,2,1
