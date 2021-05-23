@@ -1,5 +1,6 @@
 ADrone
 Aluap
+Amy2
 Anax
 Animex52
 anser
@@ -16,7 +17,6 @@ Bot-Fiora
 CaitlinSmith
 catula
 ChristopheAF
-cockdestroyer
 colton
 corys
 Cynas
