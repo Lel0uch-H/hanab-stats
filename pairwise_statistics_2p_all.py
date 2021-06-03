@@ -12,7 +12,8 @@ filters = [
     '6suits singledark',
     '5suits singledark',
     '4suits',
-    '3suits'
+    '3suits',
+    ''
 ]
 
 for pair in pairs:
