@@ -43,3 +43,29 @@ def sortByThird(tups):
 
 def sortByKth(tups, k):
     return sorted(tups, key=operator.itemgetter(k), reverse=True)
+
+dark_names = [
+    'Black',
+    'Gray',
+    'Dark',
+    'Cocoa',
+    'Mix',
+]
+
+def isNonDark(variant):
+    count = 0
+    for i in dark_names:
+        count+=variant.count(i)
+    return (count == 0)
+
+def isSingleDark(variant):
+    count = 0
+    for i in dark_names:
+        count+=variant.count(i)
+    return (count == 1)
+
+def isDoubleDark(variant):
+    count = 0
+    for i in dark_names:
+        count+=variant.count(i)
+    return (count == 2)
