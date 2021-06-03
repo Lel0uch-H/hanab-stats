@@ -69,5 +69,5 @@ attempts = sum(i[1] for i in variant_stats)
 won = sum(i[2] for i in variant_stats)
 
 output = open('output/pairwise_statistics/overall_%s.csv'%'_'.join(filters), 'a')
-output.write("%s,%s,%d,%d,%.2f\n"%(player1,player2,attempts,won,(attempts*1.0/won)))
+output.write("%s,%s,%d,%d,%s\n"%(player1,player2,attempts,won, ("%.2f"%(attempts*1.0/won) if won !=0 else 'NA')))
 output.close()
