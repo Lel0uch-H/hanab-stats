@@ -1,0 +1,7 @@
+4 Suits,6,1
+Rainbow (4 Suits),5,1
+Ambiguous (4 Suits),3,1
+Color Blind (4 Suits),3,0
+Dual-Color & Rainbow (4 Suits),2,0
+Rainbow & Pink (4 Suits),1,0
+White & Brown (4 Suits),1,0
