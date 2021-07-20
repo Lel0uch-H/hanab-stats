@@ -18,6 +18,6 @@ filters = [
 ]
 
 for pair in pairs:
-    player1,player2 = pair.split(',')
+    player1,player2,*ignore = pair.split(',')
     for f in filters:
         system('python3 pairwise_statistics.py %s %s %sp %s'%(player1,player2,k,f))
