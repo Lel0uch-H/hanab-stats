@@ -6,15 +6,15 @@ output = open('output/pairwise_statistics.md', 'w')
 output.write('# Pairwise statistics\n')
 
 filters = [
-    'doubledark',
-    '6suits',
-    '5suits',
-    '6suits_nondark',
-    '5suits_nondark',
-    '6suits_singledark',
-    '5suits_singledark',
-    '4suits',
-    '3suits',
+    '_doubledark',
+    '_6suits',
+    '_5suits',
+    '_6suits_nondark',
+    '_5suits_nondark',
+    '_6suits_singledark',
+    '_5suits_singledark',
+    '_4suits',
+    '_3suits',
     ''
 ]
 
@@ -25,7 +25,7 @@ for pair in pairs:
             output.write('[')
             output.write("%s,%s %dp %s"%(player1,player2,num_players,f))
             output.write(']')
-            output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp_%s.csv)<br/>\n'%
+            output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp%s.csv)<br/>\n'%
                 (player1,player2,num_players,f))
 
 output.close()
