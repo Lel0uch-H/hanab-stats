@@ -17,6 +17,11 @@ filters = [
     ''
 ]
 
+for f in filters:
+    output = open('output/pairwise_statistics/overall_%s.csv'%('_'.join(("%sp %s"%(k,f)).strip().split(' '))), 'w')
+    output.write('player1,player2,attempts,won_variants,attempts/win\n')
+    output.close()
+
 for pair in pairs:
     player1,player2,*ignore = pair.split(',')
     for f in filters:

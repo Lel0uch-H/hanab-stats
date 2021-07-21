@@ -62,6 +62,7 @@ variant_stats = sortByKth(variant_stats,1)
 variant_stats = sortByKth(variant_stats,2)
 
 output = open('output/pairwise_statistics/pairwise_statistics_%s_%s_%s.csv'%(player1,player2,'_'.join(filters)), 'w')
+output.write('variant,attempts,won\n')
 output.write('\n'.join([','.join(stringify(i)) for i in variant_stats]))
 output.close()
 
