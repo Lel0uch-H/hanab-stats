@@ -18,12 +18,20 @@ filters = [
     ''
 ]
 
+for num_players in range(2,7):
+    for f in filters:
+        output.write('[')
+        output.write("overall %dp%s"%(num_players,f))
+        output.write(']')
+        output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/overall_%dp%s.csv)<br/>\n'%
+            (num_players,f))
+
 for pair in pairs:
     player1,player2,*ignore = pair.split(',')
     for num_players in range(2,7):
         for f in filters:
             output.write('[')
-            output.write("%s,%s %dp %s"%(player1,player2,num_players,f))
+            output.write("%s,%s %dp%s"%(player1,player2,num_players,f))
             output.write(']')
             output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp%s.csv)<br/>\n'%
                 (player1,player2,num_players,f))
