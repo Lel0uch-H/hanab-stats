@@ -25,7 +25,7 @@ for pair in pairs:
             output.write('[')
             output.write("%s,%s %s"%(player1,player2,f))
             output.write(']')
-            output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp_%s.csv)\n'%
+            output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp_%s.csv)<br/>\n'%
                 (player1,player2,num_players,f))
 
 output.close()
