@@ -23,7 +23,7 @@ for pair in pairs:
     for num_players in range(2,7):
         for f in filters:
             output.write('[')
-            output.write("%s,%s %s"%(player1,player2,f))
+            output.write("%s,%s %dp %s"%(player1,player2,num_players,f))
             output.write(']')
             output.write('(https://github.com/Lel0uch-H/hanab-stats/blob/main/output/pairwise_statistics/pairwise_statistics_%s_%s_%dp_%s.csv)<br/>\n'%
                 (player1,player2,num_players,f))
