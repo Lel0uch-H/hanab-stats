@@ -1,0 +1,31 @@
+variant,attempts,won
+Up or Down (6 Suits),5,1
+Omni (5 Suits),5,1
+6 Suits,4,1
+No Variant,3,1
+Dual-Color & Rainbow (4 Suits),2,1
+Special Mix (5 Suits),2,1
+Null (5 Suits),2,1
+Rainbow (6 Suits),2,1
+Pink & Null (3 Suits),2,1
+Ambiguous & Rainbow (5 Suits),1,1
+Up or Down & Rainbow (5 Suits),1,1
+Rainbow & White (5 Suits),1,1
+White (6 Suits),1,1
+Muddy Rainbow (6 Suits),1,1
+Black & Dark Rainbow (6 Suits),8,0
+Dark Rainbow (6 Suits),6,0
+Black & Rainbow (6 Suits),6,0
+Up or Down & Rainbow (6 Suits),5,0
+4 Suits,4,0
+Black & Dark Brown (6 Suits),3,0
+Dual-Color (6 Suits),2,0
+Pink (3 Suits),2,0
+Rainbow (5 Suits),1,0
+Up or Down & Brown (6 Suits),1,0
+Dark Brown (5 Suits),1,0
+Gray (5 Suits),1,0
+Dark Brown (6 Suits),1,0
+Deceptive-Ones (5 Suits),1,0
+Black (6 Suits),1,0
+Pink (6 Suits),1,0

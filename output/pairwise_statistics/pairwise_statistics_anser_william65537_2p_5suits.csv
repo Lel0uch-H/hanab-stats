@@ -1,0 +1,10 @@
+variant,attempts,won
+No Variant,16,1
+Null-Ones & Pink (5 Suits),8,1
+Pink & Null (5 Suits),8,1
+Ambiguous & Rainbow (5 Suits),1,1
+White & Omni (5 Suits),1,1
+Rainbow & Prism (5 Suits),1,1
+White & Dark Prism (5 Suits),9,0
+Null & Gray (5 Suits),5,0
+Ambiguous & Omni (5 Suits),5,0

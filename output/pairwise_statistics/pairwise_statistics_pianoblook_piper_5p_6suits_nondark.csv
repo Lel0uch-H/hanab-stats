@@ -1,0 +1,17 @@
+variant,attempts,won
+Clue Starved (6 Suits),5,1
+Ambiguous (6 Suits),2,1
+Dual-Color & Pink (6 Suits),2,1
+Rainbow & Null (6 Suits),2,1
+Pink & White (6 Suits),1,1
+Null (6 Suits),1,1
+White (6 Suits),4,0
+Omni (6 Suits),4,0
+Rainbow & Brown (6 Suits),3,0
+Brown & Prism (6 Suits),3,0
+Brown (6 Suits),2,0
+Clue Starved & Brown (6 Suits),2,0
+White-Ones & Brown (6 Suits),1,0
+Up or Down (6 Suits),1,0
+Pink & Brown (6 Suits),1,0
+Dual-Color & Rainbow (6 Suits),1,0

@@ -1,0 +1,11 @@
+variant,attempts,won
+Null (3 Suits),8,1
+Rainbow & Brown (3 Suits),5,1
+Pink & Brown (3 Suits),5,1
+Muddy Rainbow (3 Suits),5,1
+Rainbow & White (3 Suits),12,0
+Pink (3 Suits),6,0
+Rainbow & Null (3 Suits),6,0
+Rainbow & Pink (3 Suits),1,0
+Very Ambiguous (3 Suits),1,0
+Pink & Null (3 Suits),1,0

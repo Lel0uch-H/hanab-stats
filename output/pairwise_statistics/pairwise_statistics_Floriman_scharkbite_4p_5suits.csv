@@ -1,0 +1,36 @@
+variant,attempts,won
+Black (5 Suits),5,1
+No Variant,4,1
+Ambiguous & Pink (5 Suits),4,1
+Up or Down (5 Suits),3,1
+Gray (5 Suits),3,1
+Null (5 Suits),3,1
+Black & Omni (5 Suits),3,1
+Black & White (5 Suits),2,1
+Pink (5 Suits),2,1
+White (5 Suits),2,1
+White & Brown (5 Suits),2,1
+Omni (5 Suits),2,1
+Clue Starved (5 Suits),2,1
+White-Ones & White (5 Suits),2,1
+Up or Down & Rainbow (5 Suits),1,1
+Dark Omni (5 Suits),1,1
+Dark Pink (5 Suits),1,1
+Rainbow (5 Suits),1,1
+Pink & Dark Rainbow (5 Suits),1,1
+Omni-Fives & Muddy Rainbow (5 Suits),1,1
+Rainbow & Light Pink (5 Suits),1,1
+Ambiguous & Brown (5 Suits),1,1
+Black & Rainbow (5 Suits),5,0
+Black & Light Pink (5 Suits),4,0
+Up or Down & Pink (5 Suits),3,0
+Gray Pink (5 Suits),3,0
+Rainbow & Gray (5 Suits),3,0
+Dark Brown (5 Suits),2,0
+Light-Pink-Ones & Gray (5 Suits),2,0
+Brown & Light Pink (5 Suits),2,0
+Black & Null (5 Suits),1,0
+Up or Down & Muddy Rainbow (5 Suits),1,0
+Omni-Fives & Omni (5 Suits),1,0
+Black & Pink (5 Suits),1,0
+Special Mix (5 Suits),1,0

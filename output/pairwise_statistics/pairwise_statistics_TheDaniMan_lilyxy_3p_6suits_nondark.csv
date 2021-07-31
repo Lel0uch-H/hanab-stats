@@ -1,0 +1,19 @@
+variant,attempts,won
+Very Ambiguous (6 Suits),10,1
+Rainbow (6 Suits),8,1
+Rainbow & White (6 Suits),7,1
+Ambiguous (6 Suits),4,1
+Deceptive-Ones (6 Suits),3,1
+Rainbow & Pink (6 Suits),2,1
+Rainbow & Omni (6 Suits),2,1
+6 Suits,1,1
+Omni (6 Suits),1,1
+Null (6 Suits),1,1
+Alternating Clues (6 Suits),1,1
+Light Pink (6 Suits),1,1
+Dual-Color & Rainbow (6 Suits),1,1
+Dual-Color & Pink (6 Suits),1,1
+Up or Down & Brown (6 Suits),1,1
+White & Brown (6 Suits),1,1
+Extremely Ambiguous (6 Suits),2,0
+Deceptive-Ones & Rainbow (6 Suits),1,0

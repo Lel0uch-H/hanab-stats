@@ -1,0 +1,19 @@
+variant,attempts,won
+White & Brown (5 Suits),5,1
+No Variant,2,1
+Omni (5 Suits),2,1
+Rainbow (5 Suits),1,1
+Reversed (5 Suits),1,1
+Pink-Ones (5 Suits),1,1
+Light Pink (5 Suits),4,0
+Pink & Omni (5 Suits),4,0
+Pink & White (5 Suits),3,0
+Ambiguous & Pink (5 Suits),3,0
+Totally Blind (5 Suits),2,0
+Clue Starved (5 Suits),2,0
+Brown & Prism (5 Suits),2,0
+Clue Starved & Prism (5 Suits),2,0
+Clue Starved & Light Pink (5 Suits),2,0
+Alternating Clues (5 Suits),1,0
+Pink & Brown (5 Suits),1,0
+Up or Down (5 Suits),1,0

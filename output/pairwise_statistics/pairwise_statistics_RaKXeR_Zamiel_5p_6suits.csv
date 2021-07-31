@@ -1,0 +1,20 @@
+variant,attempts,won
+Black (6 Suits),18,1
+Rainbow (6 Suits),8,1
+6 Suits,2,1
+Color Blind (6 Suits),2,1
+Dark Rainbow (6 Suits),13,0
+Black & Dark Rainbow (6 Suits),8,0
+Reversed (6 Suits),6,0
+Up or Down (6 Suits),5,0
+Ambiguous (6 Suits),2,0
+Pink-Fives & Rainbow (6 Suits),2,0
+Dark Pink (6 Suits),2,0
+Very Ambiguous (6 Suits),1,0
+Dual-Color & Rainbow (6 Suits),1,0
+Dual-Color (6 Suits),1,0
+Brown (6 Suits),1,0
+Pink (6 Suits),1,0
+Gray (6 Suits),1,0
+Dark Brown (6 Suits),1,0
+White & Omni (6 Suits),1,0

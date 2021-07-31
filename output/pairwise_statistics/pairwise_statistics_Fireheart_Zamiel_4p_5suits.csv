@@ -1,0 +1,25 @@
+variant,attempts,won
+Black & Brown (5 Suits),5,1
+Muddy-Rainbow-Fives (5 Suits),3,1
+Rainbow (5 Suits),2,1
+White & Dark Rainbow (5 Suits),2,1
+Alternating Clues (5 Suits),2,1
+No Variant,1,1
+Null-Ones (5 Suits),1,1
+Ambiguous & Brown (5 Suits),1,1
+Prism (5 Suits),1,1
+Black & Null (5 Suits),44,0
+Black & Omni (5 Suits),12,0
+Gray (5 Suits),7,0
+Black & Pink (5 Suits),6,0
+Pink & White (5 Suits),3,0
+Cow & Pig (5 Suits),3,0
+Ambiguous & Omni (5 Suits),3,0
+Rainbow & Omni (5 Suits),2,0
+Omni & Dark Rainbow (5 Suits),2,0
+Up or Down & Omni (5 Suits),2,0
+Dark Omni (5 Suits),2,0
+Light Pink (5 Suits),1,0
+Up or Down (5 Suits),1,0
+Rainbow-Ones (5 Suits),1,0
+Dark Pink (5 Suits),1,0

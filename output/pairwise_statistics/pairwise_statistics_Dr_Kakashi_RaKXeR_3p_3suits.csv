@@ -1,0 +1,9 @@
+variant,attempts,won
+3 Suits,4,1
+White (3 Suits),1,1
+Pink (3 Suits),4,0
+Brown (3 Suits),4,0
+Dual-Color (3 Suits),1,0
+Pink & Brown (3 Suits),1,0
+Rainbow & Brown (3 Suits),1,0
+Pink & White (3 Suits),1,0

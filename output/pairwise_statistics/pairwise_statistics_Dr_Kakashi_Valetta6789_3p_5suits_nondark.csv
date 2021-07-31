@@ -1,0 +1,12 @@
+variant,attempts,won
+Duck (5 Suits),9,1
+No Variant,4,1
+Extremely Ambiguous (5 Suits),4,1
+Reversed (5 Suits),3,1
+Throw It in a Hole (5 Suits),2,1
+Pink & Brown (5 Suits),1,1
+Up or Down & Rainbow (5 Suits),1,1
+Brown-Ones (5 Suits),1,1
+Up or Down & Brown (5 Suits),3,0
+Up or Down & Omni (5 Suits),1,0
+Rainbow-Fives & Pink (5 Suits),1,0

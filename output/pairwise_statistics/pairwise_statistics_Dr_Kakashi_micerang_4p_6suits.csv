@@ -1,0 +1,33 @@
+variant,attempts,won
+Rainbow (6 Suits),10,1
+6 Suits,5,1
+Ambiguous (6 Suits),5,1
+Black & White (6 Suits),4,1
+White & Brown (6 Suits),4,1
+Black (6 Suits),3,1
+Brown (6 Suits),3,1
+Omni (6 Suits),3,1
+White & Dark Rainbow (6 Suits),3,1
+Rainbow & Prism (6 Suits),3,1
+Pink (6 Suits),1,1
+Rainbow & Dark Pink (6 Suits),1,1
+Rainbow-Ones & Pink (6 Suits),1,1
+White-Fives (6 Suits),1,1
+Black & Omni (6 Suits),1,1
+White (6 Suits),7,0
+Up or Down (6 Suits),4,0
+Gray (6 Suits),4,0
+Null (6 Suits),4,0
+Pink & Dark Rainbow (6 Suits),4,0
+Black & Pink (6 Suits),4,0
+Pink-Fives (6 Suits),3,0
+Prism (6 Suits),3,0
+Pink & Brown (6 Suits),2,0
+Pink & White (6 Suits),2,0
+Cocoa Rainbow (6 Suits),2,0
+Dark Brown (6 Suits),2,0
+Dark Null (6 Suits),2,0
+Ambiguous Mix,2,0
+Rainbow-Ones & Brown (6 Suits),1,0
+Rainbow & Brown (6 Suits),1,0
+Dual-Color & Pink (6 Suits),1,0
