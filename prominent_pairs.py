@@ -20,7 +20,7 @@ for player in players:
                     player_freq[player2] = 0
                 player_freq[player2] += 1
     player_freq = convertDictToList(player_freq)
-    print(player, player_freq)
+    # print(player, player_freq)
     player_freq = [[player] + i for i in player_freq if i[1] >= 500]
     overall_freq.extend(player_freq)
 
