@@ -1,0 +1,17 @@
+variant,attempts,won
+White & Omni (5 Suits),5,1
+Extremely Ambiguous (5 Suits),4,1
+Null-Ones & Brown (5 Suits),3,1
+Rainbow (5 Suits),1,1
+White & Brown (5 Suits),1,1
+Rainbow & White (5 Suits),1,1
+Null (5 Suits),1,1
+Up or Down & Rainbow (5 Suits),1,1
+Rainbow & Omni (5 Suits),1,1
+Brown-Fives (5 Suits),1,1
+Up or Down (5 Suits),2,0
+Null-Ones & Muddy Rainbow (5 Suits),2,0
+No Variant,1,0
+Brown (5 Suits),1,0
+Ambiguous & Rainbow (5 Suits),1,0
+Alternating Clues (5 Suits),1,0

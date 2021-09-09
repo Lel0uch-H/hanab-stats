@@ -1,0 +1,3339 @@
+3 Suits,2,90,178
+3 Suits,3,93,279
+3 Suits,4,66,270
+3 Suits,5,9,34
+3 Suits,6,14,35
+4 Suits,2,87,208
+4 Suits,3,106,222
+4 Suits,4,88,167
+4 Suits,5,56,287
+4 Suits,6,40,109
+6 Suits,2,93,779
+6 Suits,3,108,394
+6 Suits,4,100,324
+6 Suits,5,87,330
+6 Suits,6,64,224
+Alternating Clues & Black (5 Suits),2,2,4
+Alternating Clues & Black (5 Suits),3,6,21
+Alternating Clues & Black (6 Suits),3,3,12
+Alternating Clues & Black (6 Suits),4,3,3
+Alternating Clues & Black (6 Suits),6,6,6
+Alternating Clues & Brown (3 Suits),2,2,26
+Alternating Clues & Brown (5 Suits),4,3,3
+Alternating Clues & Brown (6 Suits),2,2,8
+Alternating Clues & Cocoa Rainbow (5 Suits),2,2,12
+Alternating Clues & Cocoa Rainbow (6 Suits),2,2,8
+Alternating Clues & Dark Rainbow (5 Suits),2,2,20
+Alternating Clues & Dark Rainbow (6 Suits),2,2,66
+Alternating Clues & Light Pink (6 Suits),2,2,10
+Alternating Clues & Light Pink (6 Suits),3,3,6
+Alternating Clues & Pink (4 Suits),3,1,1
+Alternating Clues & Pink (5 Suits),2,2,2
+Alternating Clues & Prism (6 Suits),2,4,28
+Alternating Clues & Rainbow (4 Suits),3,3,3
+Alternating Clues & Rainbow (5 Suits),2,4,4
+Alternating Clues & Rainbow (5 Suits),3,2,2
+Alternating Clues & White (3 Suits),2,4,6
+Alternating Clues & White (4 Suits),2,6,8
+Alternating Clues & White (4 Suits),3,3,9
+Alternating Clues & White (4 Suits),4,4,4
+Alternating Clues & White (5 Suits),2,3,19
+Alternating Clues & White (5 Suits),3,1,2
+Alternating Clues & White (6 Suits),2,2,32
+Alternating Clues (3 Suits),2,6,12
+Alternating Clues (3 Suits),3,7,17
+Alternating Clues (4 Suits),2,16,70
+Alternating Clues (4 Suits),3,12,25
+Alternating Clues (5 Suits),2,17,62
+Alternating Clues (5 Suits),3,20,43
+Alternating Clues (5 Suits),4,5,13
+Alternating Clues (5 Suits),5,10,13
+Alternating Clues (6 Suits),2,10,59
+Alternating Clues (6 Suits),3,12,18
+Alternating Clues (6 Suits),4,4,12
+Ambiguous & Black (5 Suits),2,10,44
+Ambiguous & Black (5 Suits),3,3,10
+Ambiguous & Black (5 Suits),4,4,9
+Ambiguous & Brown (3 Suits),2,8,36
+Ambiguous & Brown (5 Suits),2,6,10
+Ambiguous & Brown (5 Suits),3,2,6
+Ambiguous & Brown (5 Suits),4,14,27
+Ambiguous & Brown (5 Suits),5,6,18
+Ambiguous & Cocoa Rainbow (5 Suits),2,3,4
+Ambiguous & Dark Brown (5 Suits),2,4,36
+Ambiguous & Dark Brown (5 Suits),3,3,9
+Ambiguous & Dark Brown (5 Suits),4,4,4
+Ambiguous & Dark Omni (5 Suits),2,1,15
+Ambiguous & Dark Pink (5 Suits),2,4,40
+Ambiguous & Dark Prism (5 Suits),2,2,21
+Ambiguous & Dark Rainbow (5 Suits),2,2,14
+Ambiguous & Dual-Color,2,10,90
+Ambiguous & Dual-Color,3,22,69
+Ambiguous & Dual-Color,4,11,32
+Ambiguous & Dual-Color,5,5,37
+Ambiguous & Gray (5 Suits),2,4,48
+Ambiguous & Gray Pink (5 Suits),2,2,6
+Ambiguous & Light Pink (3 Suits),2,1,4
+Ambiguous & Light Pink (3 Suits),3,1,3
+Ambiguous & Light Pink (5 Suits),2,3,16
+Ambiguous & Light Pink (5 Suits),3,5,8
+Ambiguous & Light Pink (5 Suits),4,5,5
+Ambiguous & Light Pink (5 Suits),5,4,4
+Ambiguous & Muddy Rainbow (3 Suits),2,4,6
+Ambiguous & Muddy Rainbow (5 Suits),2,4,24
+Ambiguous & Muddy Rainbow (5 Suits),3,1,4
+Ambiguous & Muddy Rainbow (5 Suits),4,2,3
+Ambiguous & Null (3 Suits),2,2,12
+Ambiguous & Null (5 Suits),3,3,3
+Ambiguous & Omni (3 Suits),2,3,7
+Ambiguous & Omni (5 Suits),2,2,10
+Ambiguous & Omni (5 Suits),3,2,5
+Ambiguous & Omni (5 Suits),4,3,9
+Ambiguous & Omni (5 Suits),5,3,4
+Ambiguous & Pink (3 Suits),2,8,17
+Ambiguous & Pink (5 Suits),2,8,16
+Ambiguous & Pink (5 Suits),3,5,8
+Ambiguous & Pink (5 Suits),4,10,27
+Ambiguous & Pink (5 Suits),5,8,20
+Ambiguous & Prism (5 Suits),2,6,14
+Ambiguous & Prism (5 Suits),3,3,3
+Ambiguous & Prism (5 Suits),4,2,4
+Ambiguous & Prism (5 Suits),5,4,12
+Ambiguous & Rainbow (5 Suits),2,17,51
+Ambiguous & Rainbow (5 Suits),3,17,49
+Ambiguous & Rainbow (5 Suits),4,16,30
+Ambiguous & Rainbow (5 Suits),5,9,28
+Ambiguous & White (3 Suits),2,9,11
+Ambiguous & White (3 Suits),3,3,3
+Ambiguous & White (5 Suits),2,19,117
+Ambiguous & White (5 Suits),3,18,50
+Ambiguous & White (5 Suits),4,19,31
+Ambiguous & White (5 Suits),5,9,10
+Ambiguous (4 Suits),2,41,89
+Ambiguous (4 Suits),3,29,69
+Ambiguous (4 Suits),4,22,48
+Ambiguous (4 Suits),5,2,6
+Ambiguous (6 Suits),2,28,201
+Ambiguous (6 Suits),3,41,134
+Ambiguous (6 Suits),4,29,60
+Ambiguous (6 Suits),5,22,105
+Ambiguous (6 Suits),6,8,14
+Ambiguous Mix,2,14,49
+Ambiguous Mix,3,10,40
+Ambiguous Mix,4,16,88
+Ambiguous Mix,5,9,46
+Black & Brown (5 Suits),2,37,335
+Black & Brown (5 Suits),3,49,195
+Black & Brown (5 Suits),4,34,167
+Black & Brown (6 Suits),2,35,283
+Black & Brown (6 Suits),3,40,201
+Black & Brown (6 Suits),4,33,142
+Black & Brown (6 Suits),5,18,70
+Black & Cocoa Rainbow (6 Suits),2,8,157
+Black & Cocoa Rainbow (6 Suits),3,3,28
+Black & Dark Brown (6 Suits),2,7,449
+Black & Dark Brown (6 Suits),3,3,37
+Black & Dark Brown (6 Suits),4,1,18
+Black & Dark Null (6 Suits),2,6,254
+Black & Dark Null (6 Suits),3,3,50
+Black & Dark Omni (6 Suits),2,8,196
+Black & Dark Omni (6 Suits),3,9,106
+Black & Dark Pink (6 Suits),2,16,619
+Black & Dark Pink (6 Suits),3,9,117
+Black & Dark Pink (6 Suits),4,4,137
+Black & Dark Prism (6 Suits),2,8,99
+Black & Dark Prism (6 Suits),3,6,78
+Black & Dark Rainbow (6 Suits),2,28,481
+Black & Dark Rainbow (6 Suits),3,21,252
+Black & Dark Rainbow (6 Suits),4,11,297
+Black & Gray (6 Suits),2,17,550
+Black & Gray (6 Suits),3,12,105
+Black & Gray (6 Suits),4,5,7
+Black & Gray Pink (6 Suits),2,8,105
+Black & Gray Pink (6 Suits),3,11,68
+Black & Light Pink (5 Suits),2,29,238
+Black & Light Pink (5 Suits),3,26,139
+Black & Light Pink (5 Suits),4,23,146
+Black & Light Pink (6 Suits),2,23,238
+Black & Light Pink (6 Suits),3,29,126
+Black & Light Pink (6 Suits),4,31,134
+Black & Light Pink (6 Suits),5,10,33
+Black & Muddy Rainbow (5 Suits),2,28,316
+Black & Muddy Rainbow (5 Suits),3,21,71
+Black & Muddy Rainbow (5 Suits),4,21,70
+Black & Muddy Rainbow (6 Suits),2,26,218
+Black & Muddy Rainbow (6 Suits),3,25,130
+Black & Muddy Rainbow (6 Suits),4,21,63
+Black & Muddy Rainbow (6 Suits),5,8,21
+Black & Null (5 Suits),2,18,76
+Black & Null (5 Suits),3,12,270
+Black & Null (5 Suits),4,11,46
+Black & Null (6 Suits),2,15,175
+Black & Null (6 Suits),3,14,125
+Black & Null (6 Suits),4,12,41
+Black & Null (6 Suits),5,5,14
+Black & Omni (5 Suits),2,29,394
+Black & Omni (5 Suits),3,29,95
+Black & Omni (5 Suits),4,23,127
+Black & Omni (5 Suits),5,4,12
+Black & Omni (6 Suits),2,27,316
+Black & Omni (6 Suits),3,23,178
+Black & Omni (6 Suits),4,26,136
+Black & Omni (6 Suits),5,4,24
+Black & Pink (5 Suits),2,44,465
+Black & Pink (5 Suits),3,52,147
+Black & Pink (5 Suits),4,41,312
+Black & Pink (6 Suits),2,40,376
+Black & Pink (6 Suits),3,44,158
+Black & Pink (6 Suits),4,34,188
+Black & Pink (6 Suits),5,19,142
+Black & Pink (6 Suits),6,6,8
+Black & Prism (5 Suits),2,35,255
+Black & Prism (5 Suits),3,38,122
+Black & Prism (5 Suits),4,31,90
+Black & Prism (5 Suits),6,5,13
+Black & Prism (6 Suits),2,32,247
+Black & Prism (6 Suits),3,39,157
+Black & Prism (6 Suits),4,32,98
+Black & Prism (6 Suits),5,12,57
+Black & Rainbow (5 Suits),2,53,542
+Black & Rainbow (5 Suits),3,55,551
+Black & Rainbow (5 Suits),4,37,258
+Black & Rainbow (5 Suits),6,6,6
+Black & Rainbow (6 Suits),2,46,346
+Black & Rainbow (6 Suits),3,46,431
+Black & Rainbow (6 Suits),4,38,147
+Black & Rainbow (6 Suits),5,17,70
+Black & Rainbow (6 Suits),6,10,17
+Black & White (5 Suits),2,47,211
+Black & White (5 Suits),3,61,279
+Black & White (5 Suits),4,45,205
+Black & White (5 Suits),5,5,11
+Black & White (6 Suits),2,42,387
+Black & White (6 Suits),3,45,259
+Black & White (6 Suits),4,37,204
+Black & White (6 Suits),5,25,62
+Black (5 Suits),2,88,443
+Black (5 Suits),3,92,1069
+Black (5 Suits),4,78,668
+Black (5 Suits),5,35,598
+Black (5 Suits),6,22,248
+Black (6 Suits),2,83,1166
+Black (6 Suits),3,98,706
+Black (6 Suits),4,83,760
+Black (6 Suits),5,57,740
+Black (6 Suits),6,39,264
+Black Reversed (5 Suits),2,16,87
+Black Reversed (5 Suits),3,18,55
+Black Reversed (5 Suits),4,14,61
+Black Reversed (5 Suits),5,4,4
+Black Reversed (6 Suits),2,14,87
+Black Reversed (6 Suits),3,9,18
+Black Reversed (6 Suits),4,16,35
+Black Reversed (6 Suits),5,5,31
+Brown & Cocoa Rainbow (5 Suits),2,8,137
+Brown & Cocoa Rainbow (5 Suits),4,6,22
+Brown & Cocoa Rainbow (6 Suits),2,7,114
+Brown & Cocoa Rainbow (6 Suits),3,3,8
+Brown & Cocoa Rainbow (6 Suits),4,1,3
+Brown & Dark Null (5 Suits),2,6,96
+Brown & Dark Null (6 Suits),2,6,54
+Brown & Dark Omni (5 Suits),2,10,84
+Brown & Dark Omni (5 Suits),3,3,6
+Brown & Dark Omni (5 Suits),4,4,18
+Brown & Dark Omni (6 Suits),2,12,59
+Brown & Dark Omni (6 Suits),3,6,24
+Brown & Dark Omni (6 Suits),4,1,7
+Brown & Dark Pink (5 Suits),2,13,210
+Brown & Dark Pink (5 Suits),3,13,24
+Brown & Dark Pink (5 Suits),4,8,36
+Brown & Dark Pink (6 Suits),2,17,70
+Brown & Dark Pink (6 Suits),3,6,13
+Brown & Dark Pink (6 Suits),4,8,20
+Brown & Dark Pink (6 Suits),5,5,12
+Brown & Dark Prism (5 Suits),2,14,59
+Brown & Dark Prism (5 Suits),3,3,6
+Brown & Dark Prism (5 Suits),4,7,25
+Brown & Dark Prism (6 Suits),2,10,91
+Brown & Dark Prism (6 Suits),3,5,34
+Brown & Dark Prism (6 Suits),4,4,13
+Brown & Dark Prism (6 Suits),5,4,8
+Brown & Dark Rainbow (5 Suits),2,14,63
+Brown & Dark Rainbow (5 Suits),3,15,41
+Brown & Dark Rainbow (5 Suits),4,5,19
+Brown & Dark Rainbow (6 Suits),2,14,186
+Brown & Dark Rainbow (6 Suits),3,11,68
+Brown & Dark Rainbow (6 Suits),4,15,64
+Brown & Gray (5 Suits),2,14,138
+Brown & Gray (5 Suits),3,8,47
+Brown & Gray (5 Suits),4,10,18
+Brown & Gray (6 Suits),2,14,149
+Brown & Gray (6 Suits),3,16,74
+Brown & Gray (6 Suits),4,13,18
+Brown & Gray Pink (5 Suits),2,10,59
+Brown & Gray Pink (5 Suits),3,3,8
+Brown & Gray Pink (5 Suits),4,3,4
+Brown & Gray Pink (6 Suits),2,9,93
+Brown & Gray Pink (6 Suits),3,3,5
+Brown & Gray Pink (6 Suits),4,7,13
+Brown & Light Pink (3 Suits),2,14,46
+Brown & Light Pink (3 Suits),3,3,3
+Brown & Light Pink (4 Suits),2,16,31
+Brown & Light Pink (4 Suits),3,10,13
+Brown & Light Pink (4 Suits),4,12,14
+Brown & Light Pink (5 Suits),2,19,60
+Brown & Light Pink (5 Suits),3,11,17
+Brown & Light Pink (5 Suits),4,21,37
+Brown & Light Pink (5 Suits),5,5,10
+Brown & Light Pink (5 Suits),6,3,3
+Brown & Light Pink (6 Suits),2,16,160
+Brown & Light Pink (6 Suits),3,9,25
+Brown & Light Pink (6 Suits),4,16,41
+Brown & Light Pink (6 Suits),5,10,19
+Brown & Muddy Rainbow (3 Suits),2,11,63
+Brown & Muddy Rainbow (4 Suits),2,16,129
+Brown & Muddy Rainbow (4 Suits),3,6,21
+Brown & Muddy Rainbow (4 Suits),4,4,8
+Brown & Muddy Rainbow (5 Suits),2,17,160
+Brown & Muddy Rainbow (5 Suits),3,16,68
+Brown & Muddy Rainbow (5 Suits),4,16,51
+Brown & Muddy Rainbow (5 Suits),5,5,22
+Brown & Muddy Rainbow (6 Suits),2,15,70
+Brown & Muddy Rainbow (6 Suits),3,7,37
+Brown & Muddy Rainbow (6 Suits),4,8,16
+Brown & Muddy Rainbow (6 Suits),5,16,31
+Brown & Null (3 Suits),2,13,140
+Brown & Null (3 Suits),3,3,53
+Brown & Null (4 Suits),2,10,46
+Brown & Null (5 Suits),2,11,32
+Brown & Null (5 Suits),3,3,6
+Brown & Null (5 Suits),6,6,12
+Brown & Null (6 Suits),2,10,63
+Brown & Null (6 Suits),3,7,9
+Brown & Null (6 Suits),4,4,16
+Brown & Omni (3 Suits),2,18,63
+Brown & Omni (3 Suits),3,4,18
+Brown & Omni (3 Suits),4,4,8
+Brown & Omni (4 Suits),2,16,42
+Brown & Omni (4 Suits),3,10,15
+Brown & Omni (4 Suits),4,7,21
+Brown & Omni (5 Suits),2,18,95
+Brown & Omni (5 Suits),3,10,31
+Brown & Omni (5 Suits),4,17,29
+Brown & Omni (5 Suits),5,5,5
+Brown & Omni (6 Suits),2,16,131
+Brown & Omni (6 Suits),3,15,35
+Brown & Omni (6 Suits),4,7,24
+Brown & Omni (6 Suits),5,9,57
+Brown & Prism (3 Suits),2,18,44
+Brown & Prism (4 Suits),2,20,72
+Brown & Prism (4 Suits),3,12,25
+Brown & Prism (4 Suits),4,7,8
+Brown & Prism (5 Suits),2,23,67
+Brown & Prism (5 Suits),3,21,42
+Brown & Prism (5 Suits),4,24,64
+Brown & Prism (5 Suits),5,24,58
+Brown & Prism (6 Suits),2,20,104
+Brown & Prism (6 Suits),3,14,25
+Brown & Prism (6 Suits),4,15,22
+Brown & Prism (6 Suits),5,21,65
+Brown & Prism (6 Suits),6,6,12
+Brown (3 Suits),2,60,204
+Brown (3 Suits),3,67,284
+Brown (3 Suits),4,43,115
+Brown (4 Suits),2,63,196
+Brown (4 Suits),3,79,139
+Brown (4 Suits),4,59,145
+Brown (4 Suits),5,34,108
+Brown (4 Suits),6,4,6
+Brown (5 Suits),2,74,262
+Brown (5 Suits),3,86,271
+Brown (5 Suits),4,78,216
+Brown (5 Suits),5,62,185
+Brown (5 Suits),6,39,112
+Brown (6 Suits),2,70,278
+Brown (6 Suits),3,83,309
+Brown (6 Suits),4,70,269
+Brown (6 Suits),5,56,203
+Brown (6 Suits),6,25,63
+Brown-Fives & Black (5 Suits),2,2,10
+Brown-Fives & Black (6 Suits),2,2,8
+Brown-Fives & Brown (3 Suits),2,2,4
+Brown-Fives & Brown (3 Suits),3,1,1
+Brown-Fives & Brown (5 Suits),5,1,2
+Brown-Fives & Brown (6 Suits),2,2,4
+Brown-Fives & Dark Brown (5 Suits),2,2,38
+Brown-Fives & Dark Brown (5 Suits),3,1,1
+Brown-Fives & Dark Prism (5 Suits),2,2,4
+Brown-Fives & Gray (5 Suits),2,2,4
+Brown-Fives & Gray (6 Suits),2,2,12
+Brown-Fives & Gray Pink (6 Suits),4,4,4
+Brown-Fives & Light Pink (3 Suits),3,3,3
+Brown-Fives & Light Pink (5 Suits),2,2,6
+Brown-Fives & Light Pink (5 Suits),3,2,4
+Brown-Fives & Light Pink (5 Suits),4,5,9
+Brown-Fives & Light Pink (6 Suits),4,1,4
+Brown-Fives & Muddy Rainbow (5 Suits),3,5,8
+Brown-Fives & Muddy Rainbow (5 Suits),4,1,1
+Brown-Fives & Omni (4 Suits),3,2,6
+Brown-Fives & Omni (5 Suits),4,4,4
+Brown-Fives & Omni (6 Suits),2,1,4
+Brown-Fives & Pink (3 Suits),2,4,28
+Brown-Fives & Pink (3 Suits),4,3,12
+Brown-Fives & Pink (4 Suits),3,5,10
+Brown-Fives & Pink (5 Suits),2,1,1
+Brown-Fives & Pink (5 Suits),3,4,5
+Brown-Fives & Pink (5 Suits),4,7,22
+Brown-Fives & Pink (6 Suits),2,2,2
+Brown-Fives & Pink (6 Suits),3,3,3
+Brown-Fives & Pink (6 Suits),4,1,1
+Brown-Fives & Prism (3 Suits),2,3,5
+Brown-Fives & Prism (4 Suits),2,2,6
+Brown-Fives & Prism (5 Suits),2,2,6
+Brown-Fives & Prism (5 Suits),4,4,4
+Brown-Fives & Prism (6 Suits),2,4,10
+Brown-Fives & Rainbow (3 Suits),2,2,2
+Brown-Fives & Rainbow (4 Suits),2,4,24
+Brown-Fives & Rainbow (5 Suits),3,1,1
+Brown-Fives & Rainbow (6 Suits),2,2,4
+Brown-Fives & Rainbow (6 Suits),4,8,8
+Brown-Fives & White (3 Suits),2,4,10
+Brown-Fives & White (4 Suits),2,7,7
+Brown-Fives & White (4 Suits),4,4,4
+Brown-Fives & White (5 Suits),2,4,14
+Brown-Fives & White (5 Suits),3,3,3
+Brown-Fives & White (5 Suits),4,4,6
+Brown-Fives & White (6 Suits),2,5,9
+Brown-Fives & White (6 Suits),4,1,9
+Brown-Fives (3 Suits),2,7,10
+Brown-Fives (3 Suits),3,3,5
+Brown-Fives (3 Suits),4,4,4
+Brown-Fives (4 Suits),2,10,14
+Brown-Fives (4 Suits),3,4,4
+Brown-Fives (4 Suits),4,4,8
+Brown-Fives (5 Suits),2,7,31
+Brown-Fives (5 Suits),3,7,9
+Brown-Fives (5 Suits),4,13,16
+Brown-Fives (5 Suits),5,5,10
+Brown-Fives (5 Suits),6,5,6
+Brown-Fives (6 Suits),2,6,10
+Brown-Fives (6 Suits),3,3,5
+Brown-Fives (6 Suits),4,7,14
+Brown-Fives (6 Suits),5,4,11
+Brown-Ones & Black (5 Suits),2,8,61
+Brown-Ones & Black (5 Suits),4,6,6
+Brown-Ones & Black (6 Suits),2,8,140
+Brown-Ones & Black (6 Suits),3,5,21
+Brown-Ones & Black (6 Suits),4,1,6
+Brown-Ones & Black (6 Suits),5,5,6
+Brown-Ones & Brown (3 Suits),2,4,6
+Brown-Ones & Brown (4 Suits),2,3,4
+Brown-Ones & Brown (4 Suits),4,4,9
+Brown-Ones & Brown (4 Suits),5,3,3
+Brown-Ones & Brown (5 Suits),2,6,9
+Brown-Ones & Brown (5 Suits),3,7,22
+Brown-Ones & Brown (5 Suits),5,5,6
+Brown-Ones & Brown (6 Suits),2,5,29
+Brown-Ones & Brown (6 Suits),3,7,11
+Brown-Ones & Brown (6 Suits),4,3,3
+Brown-Ones & Brown (6 Suits),5,4,16
+Brown-Ones & Cocoa Rainbow (5 Suits),3,3,6
+Brown-Ones & Cocoa Rainbow (6 Suits),2,2,4
+Brown-Ones & Cocoa Rainbow (6 Suits),3,3,7
+Brown-Ones & Dark Brown (5 Suits),2,2,56
+Brown-Ones & Dark Brown (5 Suits),3,3,6
+Brown-Ones & Dark Brown (5 Suits),4,5,14
+Brown-Ones & Dark Brown (6 Suits),2,4,55
+Brown-Ones & Dark Omni (5 Suits),3,3,3
+Brown-Ones & Dark Omni (6 Suits),2,4,34
+Brown-Ones & Dark Omni (6 Suits),5,5,30
+Brown-Ones & Dark Pink (6 Suits),2,2,28
+Brown-Ones & Dark Pink (6 Suits),4,1,5
+Brown-Ones & Dark Prism (5 Suits),2,4,8
+Brown-Ones & Dark Prism (6 Suits),2,4,19
+Brown-Ones & Dark Prism (6 Suits),3,6,6
+Brown-Ones & Dark Rainbow (5 Suits),2,6,53
+Brown-Ones & Dark Rainbow (5 Suits),4,9,28
+Brown-Ones & Dark Rainbow (6 Suits),2,2,10
+Brown-Ones & Dark Rainbow (6 Suits),4,4,8
+Brown-Ones & Gray (5 Suits),2,3,59
+Brown-Ones & Gray (5 Suits),4,4,12
+Brown-Ones & Gray (6 Suits),2,3,27
+Brown-Ones & Gray (6 Suits),3,3,3
+Brown-Ones & Gray Pink (6 Suits),2,2,22
+Brown-Ones & Gray Pink (6 Suits),4,4,8
+Brown-Ones & Gray Pink (6 Suits),6,5,5
+Brown-Ones & Light Pink (3 Suits),2,6,8
+Brown-Ones & Light Pink (4 Suits),2,4,6
+Brown-Ones & Light Pink (5 Suits),2,4,4
+Brown-Ones & Light Pink (5 Suits),4,7,7
+Brown-Ones & Light Pink (6 Suits),2,4,4
+Brown-Ones & Light Pink (6 Suits),3,3,3
+Brown-Ones & Muddy Rainbow (3 Suits),2,4,20
+Brown-Ones & Muddy Rainbow (3 Suits),3,3,3
+Brown-Ones & Muddy Rainbow (4 Suits),2,4,10
+Brown-Ones & Muddy Rainbow (5 Suits),2,6,12
+Brown-Ones & Muddy Rainbow (5 Suits),3,3,14
+Brown-Ones & Muddy Rainbow (5 Suits),4,4,11
+Brown-Ones & Muddy Rainbow (6 Suits),2,8,38
+Brown-Ones & Muddy Rainbow (6 Suits),3,3,3
+Brown-Ones & Null (3 Suits),2,2,16
+Brown-Ones & Null (3 Suits),3,3,9
+Brown-Ones & Null (4 Suits),2,2,2
+Brown-Ones & Null (5 Suits),2,2,4
+Brown-Ones & Omni (3 Suits),2,6,10
+Brown-Ones & Omni (4 Suits),2,4,10
+Brown-Ones & Omni (5 Suits),2,4,8
+Brown-Ones & Omni (5 Suits),3,3,3
+Brown-Ones & Omni (5 Suits),4,4,9
+Brown-Ones & Omni (6 Suits),2,7,18
+Brown-Ones & Omni (6 Suits),4,4,4
+Brown-Ones & Pink (3 Suits),2,8,18
+Brown-Ones & Pink (4 Suits),2,7,13
+Brown-Ones & Pink (4 Suits),3,4,7
+Brown-Ones & Pink (4 Suits),4,3,3
+Brown-Ones & Pink (5 Suits),2,13,41
+Brown-Ones & Pink (5 Suits),3,2,2
+Brown-Ones & Pink (5 Suits),4,8,8
+Brown-Ones & Pink (5 Suits),5,9,9
+Brown-Ones & Pink (6 Suits),2,10,22
+Brown-Ones & Pink (6 Suits),3,7,14
+Brown-Ones & Pink (6 Suits),4,3,6
+Brown-Ones & Pink (6 Suits),5,5,14
+Brown-Ones & Prism (3 Suits),2,3,4
+Brown-Ones & Prism (4 Suits),2,8,10
+Brown-Ones & Prism (4 Suits),3,3,5
+Brown-Ones & Prism (4 Suits),4,3,3
+Brown-Ones & Prism (5 Suits),2,5,18
+Brown-Ones & Prism (5 Suits),3,2,17
+Brown-Ones & Prism (5 Suits),4,8,9
+Brown-Ones & Prism (5 Suits),5,4,4
+Brown-Ones & Prism (5 Suits),6,3,3
+Brown-Ones & Prism (6 Suits),2,6,23
+Brown-Ones & Prism (6 Suits),3,2,2
+Brown-Ones & Prism (6 Suits),4,4,8
+Brown-Ones & Prism (6 Suits),5,5,14
+Brown-Ones & Rainbow (3 Suits),2,7,11
+Brown-Ones & Rainbow (3 Suits),3,3,12
+Brown-Ones & Rainbow (4 Suits),2,9,21
+Brown-Ones & Rainbow (4 Suits),3,6,21
+Brown-Ones & Rainbow (4 Suits),4,7,13
+Brown-Ones & Rainbow (5 Suits),2,10,33
+Brown-Ones & Rainbow (5 Suits),3,2,5
+Brown-Ones & Rainbow (5 Suits),4,5,7
+Brown-Ones & Rainbow (5 Suits),5,4,20
+Brown-Ones & Rainbow (6 Suits),2,8,12
+Brown-Ones & Rainbow (6 Suits),3,4,22
+Brown-Ones & Rainbow (6 Suits),4,6,11
+Brown-Ones & Rainbow (6 Suits),5,7,9
+Brown-Ones & White (3 Suits),2,8,16
+Brown-Ones & White (3 Suits),3,2,4
+Brown-Ones & White (4 Suits),2,6,10
+Brown-Ones & White (4 Suits),3,6,8
+Brown-Ones & White (4 Suits),4,6,12
+Brown-Ones & White (5 Suits),2,12,20
+Brown-Ones & White (5 Suits),3,11,12
+Brown-Ones & White (5 Suits),4,11,15
+Brown-Ones & White (5 Suits),5,4,6
+Brown-Ones & White (6 Suits),2,7,19
+Brown-Ones & White (6 Suits),3,3,9
+Brown-Ones & White (6 Suits),4,3,3
+Brown-Ones & White (6 Suits),5,9,36
+Brown-Ones & White (6 Suits),6,6,10
+Brown-Ones (3 Suits),2,14,25
+Brown-Ones (3 Suits),3,3,6
+Brown-Ones (4 Suits),2,15,30
+Brown-Ones (4 Suits),3,8,14
+Brown-Ones (4 Suits),4,9,13
+Brown-Ones (4 Suits),5,7,20
+Brown-Ones (5 Suits),2,18,55
+Brown-Ones (5 Suits),3,19,22
+Brown-Ones (5 Suits),4,16,22
+Brown-Ones (5 Suits),5,12,30
+Brown-Ones (5 Suits),6,7,18
+Brown-Ones (6 Suits),2,10,20
+Brown-Ones (6 Suits),3,10,13
+Brown-Ones (6 Suits),4,6,15
+Brown-Ones (6 Suits),5,17,20
+Brown-Ones (6 Suits),6,5,5
+Clue Starved & Brown (5 Suits),2,2,26
+Clue Starved & Brown (5 Suits),3,7,10
+Clue Starved & Brown (5 Suits),4,10,25
+Clue Starved & Brown (5 Suits),5,5,5
+Clue Starved & Brown (6 Suits),2,2,24
+Clue Starved & Brown (6 Suits),3,3,31
+Clue Starved & Brown (6 Suits),4,11,32
+Clue Starved & Light Pink (5 Suits),2,2,24
+Clue Starved & Light Pink (5 Suits),3,8,10
+Clue Starved & Light Pink (5 Suits),4,7,14
+Clue Starved & Light Pink (6 Suits),2,2,80
+Clue Starved & Light Pink (6 Suits),3,3,13
+Clue Starved & Light Pink (6 Suits),4,7,19
+Clue Starved & Muddy Rainbow (5 Suits),2,2,19
+Clue Starved & Muddy Rainbow (5 Suits),3,3,3
+Clue Starved & Muddy Rainbow (5 Suits),4,4,4
+Clue Starved & Muddy Rainbow (6 Suits),2,2,52
+Clue Starved & Muddy Rainbow (6 Suits),3,3,3
+Clue Starved & Muddy Rainbow (6 Suits),4,4,8
+Clue Starved & Null (5 Suits),2,2,30
+Clue Starved & Null (5 Suits),3,3,9
+Clue Starved & Null (5 Suits),4,4,8
+Clue Starved & Null (5 Suits),5,5,5
+Clue Starved & Null (6 Suits),2,2,40
+Clue Starved & Null (6 Suits),3,3,30
+Clue Starved & Null (6 Suits),4,4,8
+Clue Starved & Omni (5 Suits),2,2,16
+Clue Starved & Omni (5 Suits),3,4,9
+Clue Starved & Omni (5 Suits),4,3,6
+Clue Starved & Omni (6 Suits),2,2,22
+Clue Starved & Omni (6 Suits),3,3,13
+Clue Starved & Pink (5 Suits),2,4,22
+Clue Starved & Pink (5 Suits),3,7,26
+Clue Starved & Pink (5 Suits),4,7,37
+Clue Starved & Pink (6 Suits),2,2,46
+Clue Starved & Pink (6 Suits),3,3,21
+Clue Starved & Pink (6 Suits),4,16,48
+Clue Starved & Prism (5 Suits),2,5,66
+Clue Starved & Prism (5 Suits),3,5,16
+Clue Starved & Prism (5 Suits),4,6,17
+Clue Starved & Prism (6 Suits),2,2,44
+Clue Starved & Prism (6 Suits),3,6,20
+Clue Starved & Prism (6 Suits),4,10,40
+Clue Starved & Prism (6 Suits),6,4,4
+Clue Starved & Rainbow (5 Suits),2,9,38
+Clue Starved & Rainbow (5 Suits),3,13,24
+Clue Starved & Rainbow (5 Suits),4,8,14
+Clue Starved & Rainbow (6 Suits),2,2,40
+Clue Starved & Rainbow (6 Suits),3,6,49
+Clue Starved & Rainbow (6 Suits),4,10,15
+Clue Starved & White (5 Suits),2,2,6
+Clue Starved & White (5 Suits),3,14,70
+Clue Starved & White (5 Suits),4,7,12
+Clue Starved & White (6 Suits),2,2,8
+Clue Starved & White (6 Suits),3,5,19
+Clue Starved & White (6 Suits),4,9,34
+Clue Starved (5 Suits),2,14,116
+Clue Starved (5 Suits),3,38,165
+Clue Starved (5 Suits),4,10,34
+Clue Starved (5 Suits),5,14,46
+Clue Starved (5 Suits),6,10,36
+Clue Starved (6 Suits),2,20,247
+Clue Starved (6 Suits),3,23,120
+Clue Starved (6 Suits),4,6,40
+Clue Starved (6 Suits),5,7,31
+Cocoa Rainbow & Dark Prism (6 Suits),2,2,260
+Cocoa Rainbow & Gray Pink (6 Suits),2,4,90
+Cocoa Rainbow (5 Suits),2,43,269
+Cocoa Rainbow (5 Suits),3,48,269
+Cocoa Rainbow (5 Suits),4,34,230
+Cocoa Rainbow (5 Suits),5,4,36
+Cocoa Rainbow (6 Suits),2,39,605
+Cocoa Rainbow (6 Suits),3,40,272
+Cocoa Rainbow (6 Suits),4,34,163
+Cocoa Rainbow (6 Suits),5,18,113
+Cocoa Rainbow (6 Suits),6,5,7
+Color Blind (3 Suits),2,13,20
+Color Blind (3 Suits),3,4,25
+Color Blind (3 Suits),4,4,8
+Color Blind (4 Suits),2,13,30
+Color Blind (4 Suits),3,5,9
+Color Blind (4 Suits),4,4,6
+Color Blind (5 Suits),2,10,32
+Color Blind (5 Suits),3,8,20
+Color Blind (5 Suits),4,6,17
+Color Blind (5 Suits),5,3,19
+Color Blind (6 Suits),2,8,87
+Color Blind (6 Suits),3,12,68
+Color Blind (6 Suits),4,8,13
+Color Blind (6 Suits),5,5,18
+Color Mute (3 Suits),2,13,19
+Color Mute (3 Suits),3,5,8
+Color Mute (4 Suits),2,11,38
+Color Mute (4 Suits),3,8,15
+Color Mute (5 Suits),2,8,45
+Color Mute (5 Suits),3,7,28
+Color Mute (5 Suits),4,4,5
+Color Mute (6 Suits),2,4,41
+Color Mute (6 Suits),3,5,6
+Cow & Pig (3 Suits),2,17,54
+Cow & Pig (3 Suits),3,8,57
+Cow & Pig (4 Suits),2,16,63
+Cow & Pig (4 Suits),3,12,43
+Cow & Pig (4 Suits),4,7,13
+Cow & Pig (5 Suits),2,15,65
+Cow & Pig (5 Suits),3,11,27
+Cow & Pig (5 Suits),4,7,41
+Cow & Pig (6 Suits),2,12,56
+Cow & Pig (6 Suits),3,2,2
+Cow & Pig (6 Suits),6,6,6
+Dark Brown & Cocoa Rainbow (6 Suits),2,2,10
+Dark Brown & Dark Null (6 Suits),2,4,160
+Dark Brown & Dark Omni (6 Suits),2,7,139
+Dark Brown & Dark Prism (6 Suits),2,2,44
+Dark Brown & Dark Prism (6 Suits),3,3,27
+Dark Brown & Gray Pink (6 Suits),2,4,106
+Dark Brown (5 Suits),2,47,395
+Dark Brown (5 Suits),3,53,265
+Dark Brown (5 Suits),4,42,272
+Dark Brown (5 Suits),5,3,10
+Dark Brown (5 Suits),6,5,5
+Dark Brown (6 Suits),2,37,468
+Dark Brown (6 Suits),3,51,217
+Dark Brown (6 Suits),4,35,198
+Dark Brown (6 Suits),5,12,95
+Dark Brown (6 Suits),6,10,13
+Dark Null & Cocoa Rainbow (6 Suits),2,2,74
+Dark Null & Dark Prism (6 Suits),2,2,214
+Dark Null & Gray Pink (6 Suits),2,2,18
+Dark Null (5 Suits),2,22,300
+Dark Null (5 Suits),3,11,114
+Dark Null (5 Suits),4,9,59
+Dark Null (6 Suits),2,20,228
+Dark Null (6 Suits),3,17,93
+Dark Null (6 Suits),4,16,110
+Dark Omni & Cocoa Rainbow (6 Suits),2,2,114
+Dark Omni & Dark Null (6 Suits),2,4,248
+Dark Omni & Dark Null (6 Suits),3,3,69
+Dark Omni & Dark Prism (6 Suits),2,2,24
+Dark Omni & Gray Pink (6 Suits),2,2,16
+Dark Omni (5 Suits),2,50,216
+Dark Omni (5 Suits),3,45,149
+Dark Omni (5 Suits),4,36,165
+Dark Omni (5 Suits),5,5,19
+Dark Omni (6 Suits),2,45,358
+Dark Omni (6 Suits),3,43,151
+Dark Omni (6 Suits),4,32,248
+Dark Omni (6 Suits),5,21,143
+Dark Omni (6 Suits),6,12,27
+Dark Pink & Cocoa Rainbow (6 Suits),2,2,20
+Dark Pink & Cocoa Rainbow (6 Suits),3,3,6
+Dark Pink & Dark Brown (6 Suits),2,6,240
+Dark Pink & Dark Brown (6 Suits),3,3,36
+Dark Pink & Dark Null (6 Suits),2,4,46
+Dark Pink & Dark Null (6 Suits),3,3,54
+Dark Pink & Dark Omni (6 Suits),2,6,54
+Dark Pink & Dark Omni (6 Suits),3,3,39
+Dark Pink & Dark Omni (6 Suits),4,1,10
+Dark Pink & Dark Prism (6 Suits),2,4,138
+Dark Pink & Gray (6 Suits),2,4,157
+Dark Pink & Gray Pink (6 Suits),2,2,42
+Dark Pink & Gray Pink (6 Suits),4,1,3
+Dark Pink (5 Suits),2,54,158
+Dark Pink (5 Suits),3,54,297
+Dark Pink (5 Suits),4,41,327
+Dark Pink (5 Suits),5,10,103
+Dark Pink (5 Suits),6,6,21
+Dark Pink (6 Suits),2,45,295
+Dark Pink (6 Suits),3,50,224
+Dark Pink (6 Suits),4,42,179
+Dark Pink (6 Suits),5,28,172
+Dark Pink (6 Suits),6,5,12
+Dark Prism (5 Suits),2,52,340
+Dark Prism (5 Suits),3,55,210
+Dark Prism (5 Suits),4,40,242
+Dark Prism (5 Suits),5,4,4
+Dark Prism (5 Suits),6,11,15
+Dark Prism (6 Suits),2,41,483
+Dark Prism (6 Suits),3,51,219
+Dark Prism (6 Suits),4,43,167
+Dark Prism (6 Suits),5,16,91
+Dark Prism (6 Suits),6,10,14
+Dark Prism Reversed (5 Suits),2,16,113
+Dark Prism Reversed (5 Suits),3,9,55
+Dark Prism Reversed (5 Suits),4,12,32
+Dark Prism Reversed (6 Suits),2,13,179
+Dark Prism Reversed (6 Suits),3,11,27
+Dark Prism Reversed (6 Suits),4,8,71
+Dark Prism Reversed (6 Suits),5,5,32
+Dark Rainbow & Cocoa Rainbow (6 Suits),2,2,112
+Dark Rainbow & Dark Brown (6 Suits),2,4,40
+Dark Rainbow & Dark Brown (6 Suits),3,3,18
+Dark Rainbow & Dark Null (6 Suits),2,4,178
+Dark Rainbow & Dark Omni (6 Suits),2,9,451
+Dark Rainbow & Dark Pink (6 Suits),2,5,125
+Dark Rainbow & Dark Pink (6 Suits),3,3,3
+Dark Rainbow & Dark Prism (6 Suits),2,6,243
+Dark Rainbow & Gray (6 Suits),2,9,73
+Dark Rainbow & Gray (6 Suits),3,3,24
+Dark Rainbow & Gray Pink (6 Suits),2,4,26
+Dark Rainbow (5 Suits),2,60,263
+Dark Rainbow (5 Suits),3,59,555
+Dark Rainbow (5 Suits),4,52,305
+Dark Rainbow (5 Suits),5,9,59
+Dark Rainbow (6 Suits),2,52,473
+Dark Rainbow (6 Suits),3,64,408
+Dark Rainbow (6 Suits),4,62,405
+Dark Rainbow (6 Suits),5,33,363
+Dark Rainbow (6 Suits),6,12,45
+Dark Rainbow Reversed (5 Suits),2,14,77
+Dark Rainbow Reversed (5 Suits),3,9,27
+Dark Rainbow Reversed (5 Suits),4,15,38
+Dark Rainbow Reversed (6 Suits),2,11,75
+Dark Rainbow Reversed (6 Suits),3,8,33
+Dark Rainbow Reversed (6 Suits),4,14,19
+Dark Rainbow Reversed (6 Suits),5,9,38
+Deceptive-Fives & Black (6 Suits),2,2,12
+Deceptive-Fives & Brown (6 Suits),2,4,54
+Deceptive-Fives & Brown (6 Suits),4,1,2
+Deceptive-Fives & Cocoa Rainbow (6 Suits),2,2,10
+Deceptive-Fives & Dark Brown (5 Suits),2,2,8
+Deceptive-Fives & Dark Brown (6 Suits),2,2,86
+Deceptive-Fives & Dark Omni (6 Suits),2,2,56
+Deceptive-Fives & Dark Pink (6 Suits),2,2,66
+Deceptive-Fives & Dark Prism (6 Suits),2,2,10
+Deceptive-Fives & Dark Rainbow (6 Suits),2,2,38
+Deceptive-Fives & Gray (6 Suits),2,2,31
+Deceptive-Fives & Gray Pink (6 Suits),2,4,12
+Deceptive-Fives & Light Pink (6 Suits),2,2,44
+Deceptive-Fives & Muddy Rainbow (5 Suits),2,2,18
+Deceptive-Fives & Muddy Rainbow (5 Suits),3,3,3
+Deceptive-Fives & Muddy Rainbow (6 Suits),2,4,12
+Deceptive-Fives & Omni (6 Suits),2,2,10
+Deceptive-Fives & Pink (4 Suits),4,4,4
+Deceptive-Fives & Pink (5 Suits),2,2,2
+Deceptive-Fives & Pink (5 Suits),3,1,1
+Deceptive-Fives & Pink (6 Suits),2,2,20
+Deceptive-Fives & Pink (6 Suits),4,4,4
+Deceptive-Fives & Prism (3 Suits),2,1,6
+Deceptive-Fives & Prism (5 Suits),3,1,2
+Deceptive-Fives & Prism (6 Suits),2,2,4
+Deceptive-Fives & Rainbow (5 Suits),2,2,2
+Deceptive-Fives & Rainbow (5 Suits),3,4,6
+Deceptive-Fives & Rainbow (5 Suits),4,4,8
+Deceptive-Fives & Rainbow (6 Suits),2,4,20
+Deceptive-Fives & Rainbow (6 Suits),3,2,6
+Deceptive-Fives & White (5 Suits),2,2,22
+Deceptive-Fives & White (6 Suits),2,6,40
+Deceptive-Fives & White (6 Suits),3,2,2
+Deceptive-Fives (3 Suits),2,8,12
+Deceptive-Fives (4 Suits),2,6,14
+Deceptive-Fives (4 Suits),3,2,4
+Deceptive-Fives (5 Suits),2,12,29
+Deceptive-Fives (5 Suits),3,6,6
+Deceptive-Fives (5 Suits),4,6,12
+Deceptive-Fives (5 Suits),5,4,16
+Deceptive-Fives (5 Suits),6,6,12
+Deceptive-Fives (6 Suits),2,9,17
+Deceptive-Fives (6 Suits),3,3,3
+Deceptive-Fives (6 Suits),4,8,32
+Deceptive-Fives (6 Suits),5,5,7
+Deceptive-Ones & Black (5 Suits),2,2,30
+Deceptive-Ones & Black (6 Suits),2,2,16
+Deceptive-Ones & Brown (3 Suits),2,2,12
+Deceptive-Ones & Brown (4 Suits),2,3,7
+Deceptive-Ones & Brown (4 Suits),4,3,3
+Deceptive-Ones & Brown (5 Suits),2,3,11
+Deceptive-Ones & Brown (5 Suits),3,3,3
+Deceptive-Ones & Brown (6 Suits),2,2,8
+Deceptive-Ones & Brown (6 Suits),3,3,7
+Deceptive-Ones & Brown (6 Suits),4,3,3
+Deceptive-Ones & Dark Prism (5 Suits),2,2,12
+Deceptive-Ones & Dark Prism (5 Suits),3,2,12
+Deceptive-Ones & Light Pink (3 Suits),2,2,4
+Deceptive-Ones & Light Pink (4 Suits),2,2,2
+Deceptive-Ones & Light Pink (5 Suits),2,2,2
+Deceptive-Ones & Light Pink (5 Suits),3,5,10
+Deceptive-Ones & Light Pink (6 Suits),2,2,2
+Deceptive-Ones & Omni (3 Suits),2,4,8
+Deceptive-Ones & Omni (4 Suits),2,2,2
+Deceptive-Ones & Omni (5 Suits),2,2,2
+Deceptive-Ones & Omni (5 Suits),3,3,7
+Deceptive-Ones & Omni (6 Suits),2,2,8
+Deceptive-Ones & Pink (3 Suits),2,4,4
+Deceptive-Ones & Pink (4 Suits),2,2,12
+Deceptive-Ones & Pink (4 Suits),3,5,8
+Deceptive-Ones & Pink (4 Suits),4,3,6
+Deceptive-Ones & Pink (5 Suits),2,4,6
+Deceptive-Ones & Pink (5 Suits),3,1,1
+Deceptive-Ones & Pink (6 Suits),2,2,2
+Deceptive-Ones & Prism (3 Suits),2,3,4
+Deceptive-Ones & Prism (4 Suits),2,4,6
+Deceptive-Ones & Prism (5 Suits),2,2,4
+Deceptive-Ones & Prism (6 Suits),2,4,8
+Deceptive-Ones & Rainbow (3 Suits),2,2,2
+Deceptive-Ones & Rainbow (4 Suits),2,3,13
+Deceptive-Ones & Rainbow (5 Suits),2,2,6
+Deceptive-Ones & Rainbow (5 Suits),3,3,13
+Deceptive-Ones & Rainbow (5 Suits),4,3,3
+Deceptive-Ones & Rainbow (6 Suits),2,5,30
+Deceptive-Ones & White (3 Suits),2,2,4
+Deceptive-Ones & White (4 Suits),2,2,2
+Deceptive-Ones & White (5 Suits),2,2,16
+Deceptive-Ones & White (5 Suits),3,1,2
+Deceptive-Ones & White (5 Suits),4,4,11
+Deceptive-Ones & White (6 Suits),2,2,6
+Deceptive-Ones (3 Suits),2,8,10
+Deceptive-Ones (3 Suits),4,5,6
+Deceptive-Ones (4 Suits),2,6,12
+Deceptive-Ones (4 Suits),3,9,24
+Deceptive-Ones (4 Suits),4,5,5
+Deceptive-Ones (5 Suits),2,16,55
+Deceptive-Ones (5 Suits),3,13,32
+Deceptive-Ones (5 Suits),4,12,19
+Deceptive-Ones (5 Suits),5,9,19
+Deceptive-Ones (5 Suits),6,5,5
+Deceptive-Ones (6 Suits),2,11,28
+Deceptive-Ones (6 Suits),3,4,9
+Deceptive-Ones (6 Suits),4,5,10
+Deceptive-Ones (6 Suits),5,5,5
+Deceptive-Ones (6 Suits),6,6,6
+Dual-Color & Black (6 Suits),2,16,67
+Dual-Color & Black (6 Suits),3,18,78
+Dual-Color & Black (6 Suits),4,8,37
+Dual-Color & Brown (4 Suits),2,10,18
+Dual-Color & Brown (4 Suits),3,11,19
+Dual-Color & Brown (4 Suits),4,11,23
+Dual-Color & Brown (6 Suits),2,11,44
+Dual-Color & Brown (6 Suits),3,18,40
+Dual-Color & Brown (6 Suits),4,10,13
+Dual-Color & Brown (6 Suits),5,10,24
+Dual-Color & Cocoa Rainbow (6 Suits),2,5,65
+Dual-Color & Cocoa Rainbow (6 Suits),3,5,19
+Dual-Color & Cocoa Rainbow (6 Suits),4,5,21
+Dual-Color & Dark Brown (6 Suits),2,8,64
+Dual-Color & Dark Brown (6 Suits),3,3,10
+Dual-Color & Dark Brown (6 Suits),4,7,25
+Dual-Color & Dark Null (6 Suits),2,2,16
+Dual-Color & Dark Omni (6 Suits),2,6,28
+Dual-Color & Dark Omni (6 Suits),3,6,15
+Dual-Color & Dark Omni (6 Suits),4,6,31
+Dual-Color & Dark Omni (6 Suits),5,5,23
+Dual-Color & Dark Pink (6 Suits),2,8,139
+Dual-Color & Dark Pink (6 Suits),3,6,7
+Dual-Color & Dark Pink (6 Suits),4,7,9
+Dual-Color & Dark Prism (6 Suits),2,7,72
+Dual-Color & Dark Prism (6 Suits),3,5,17
+Dual-Color & Dark Prism (6 Suits),4,7,18
+Dual-Color & Dark Rainbow (6 Suits),2,8,69
+Dual-Color & Dark Rainbow (6 Suits),3,11,48
+Dual-Color & Dark Rainbow (6 Suits),4,7,23
+Dual-Color & Gray (6 Suits),2,10,12
+Dual-Color & Gray (6 Suits),3,7,35
+Dual-Color & Gray (6 Suits),4,5,11
+Dual-Color & Gray (6 Suits),5,5,9
+Dual-Color & Gray Pink (6 Suits),2,7,15
+Dual-Color & Gray Pink (6 Suits),3,2,11
+Dual-Color & Gray Pink (6 Suits),4,7,27
+Dual-Color & Light Pink (4 Suits),2,8,22
+Dual-Color & Light Pink (4 Suits),3,6,6
+Dual-Color & Light Pink (4 Suits),4,3,7
+Dual-Color & Light Pink (6 Suits),2,11,24
+Dual-Color & Light Pink (6 Suits),3,7,17
+Dual-Color & Light Pink (6 Suits),4,6,12
+Dual-Color & Light Pink (6 Suits),5,10,17
+Dual-Color & Muddy Rainbow (4 Suits),2,6,16
+Dual-Color & Muddy Rainbow (4 Suits),3,8,10
+Dual-Color & Muddy Rainbow (6 Suits),2,8,8
+Dual-Color & Muddy Rainbow (6 Suits),3,8,14
+Dual-Color & Muddy Rainbow (6 Suits),4,6,38
+Dual-Color & Muddy Rainbow (6 Suits),5,10,18
+Dual-Color & Muddy Rainbow (6 Suits),6,5,5
+Dual-Color & Null (4 Suits),2,4,16
+Dual-Color & Null (4 Suits),3,3,6
+Dual-Color & Null (6 Suits),2,4,8
+Dual-Color & Null (6 Suits),3,6,9
+Dual-Color & Omni (4 Suits),2,9,26
+Dual-Color & Omni (4 Suits),3,8,14
+Dual-Color & Omni (4 Suits),4,3,4
+Dual-Color & Omni (6 Suits),2,8,28
+Dual-Color & Omni (6 Suits),3,8,21
+Dual-Color & Omni (6 Suits),4,11,16
+Dual-Color & Omni (6 Suits),5,10,11
+Dual-Color & Pink (4 Suits),2,12,24
+Dual-Color & Pink (4 Suits),3,6,9
+Dual-Color & Pink (4 Suits),4,4,4
+Dual-Color & Pink (4 Suits),5,5,5
+Dual-Color & Pink (6 Suits),2,16,30
+Dual-Color & Pink (6 Suits),3,16,47
+Dual-Color & Pink (6 Suits),4,17,36
+Dual-Color & Pink (6 Suits),5,14,20
+Dual-Color & Prism (4 Suits),2,10,16
+Dual-Color & Prism (4 Suits),3,16,32
+Dual-Color & Prism (4 Suits),4,4,14
+Dual-Color & Prism (6 Suits),2,13,34
+Dual-Color & Prism (6 Suits),3,15,31
+Dual-Color & Prism (6 Suits),4,11,34
+Dual-Color & Prism (6 Suits),5,5,26
+Dual-Color & Prism (6 Suits),6,6,6
+Dual-Color & Rainbow (4 Suits),2,19,69
+Dual-Color & Rainbow (4 Suits),3,23,46
+Dual-Color & Rainbow (4 Suits),4,6,7
+Dual-Color & Rainbow (6 Suits),2,21,91
+Dual-Color & Rainbow (6 Suits),3,35,66
+Dual-Color & Rainbow (6 Suits),4,37,66
+Dual-Color & Rainbow (6 Suits),5,23,121
+Dual-Color & White (4 Suits),2,13,21
+Dual-Color & White (4 Suits),3,10,10
+Dual-Color & White (4 Suits),4,9,10
+Dual-Color & White (4 Suits),5,4,4
+Dual-Color & White (6 Suits),2,14,34
+Dual-Color & White (6 Suits),3,20,31
+Dual-Color & White (6 Suits),4,13,36
+Dual-Color & White (6 Suits),5,16,16
+Dual-Color (3 Suits),2,34,77
+Dual-Color (3 Suits),3,27,56
+Dual-Color (3 Suits),4,12,40
+Dual-Color (5 Suits),2,41,200
+Dual-Color (5 Suits),3,56,144
+Dual-Color (5 Suits),4,41,111
+Dual-Color (5 Suits),5,32,75
+Dual-Color (6 Suits),2,36,122
+Dual-Color (6 Suits),3,58,153
+Dual-Color (6 Suits),4,46,169
+Dual-Color (6 Suits),5,40,104
+Dual-Color (6 Suits),6,5,10
+Dual-Color Mix,2,23,187
+Dual-Color Mix,3,40,272
+Dual-Color Mix,4,17,95
+Dual-Color Mix,5,10,26
+Dual-Color Mix,6,6,8
+Duck (3 Suits),2,13,68
+Duck (3 Suits),3,14,28
+Duck (4 Suits),2,11,76
+Duck (4 Suits),3,15,92
+Duck (4 Suits),4,10,14
+Duck (5 Suits),2,17,113
+Duck (5 Suits),3,29,210
+Duck (5 Suits),4,4,21
+Duck (5 Suits),5,4,11
+Duck (6 Suits),2,11,169
+Duck (6 Suits),3,12,115
+Duck (6 Suits),4,3,19
+Extremely Ambiguous & Black (5 Suits),2,2,2
+Extremely Ambiguous & Black (6 Suits),2,2,32
+Extremely Ambiguous & Black (6 Suits),3,3,4
+Extremely Ambiguous & Dark Omni (6 Suits),2,2,16
+Extremely Ambiguous & Gray (5 Suits),4,4,8
+Extremely Ambiguous & Light Pink (6 Suits),2,2,14
+Extremely Ambiguous & Omni (6 Suits),2,2,4
+Extremely Ambiguous & Pink (5 Suits),3,3,3
+Extremely Ambiguous & White (6 Suits),3,3,3
+Extremely Ambiguous (4 Suits),2,13,28
+Extremely Ambiguous (4 Suits),3,8,32
+Extremely Ambiguous (4 Suits),4,9,27
+Extremely Ambiguous (5 Suits),2,9,76
+Extremely Ambiguous (5 Suits),3,11,51
+Extremely Ambiguous (5 Suits),4,18,77
+Extremely Ambiguous (6 Suits),2,11,204
+Extremely Ambiguous (6 Suits),3,9,24
+Extremely Ambiguous (6 Suits),4,4,10
+Gray & Cocoa Rainbow (6 Suits),2,2,200
+Gray & Cocoa Rainbow (6 Suits),4,4,8
+Gray & Dark Brown (6 Suits),2,5,106
+Gray & Dark Null (6 Suits),2,4,208
+Gray & Dark Omni (6 Suits),2,4,78
+Gray & Dark Prism (6 Suits),2,2,10
+Gray & Gray Pink (6 Suits),2,4,431
+Gray (5 Suits),2,59,316
+Gray (5 Suits),3,73,450
+Gray (5 Suits),4,59,373
+Gray (5 Suits),5,14,81
+Gray (6 Suits),2,52,747
+Gray (6 Suits),3,63,376
+Gray (6 Suits),4,47,291
+Gray (6 Suits),5,28,154
+Gray (6 Suits),6,5,5
+Gray Pink & Dark Prism (6 Suits),2,2,20
+Gray Pink (5 Suits),2,43,303
+Gray Pink (5 Suits),3,36,193
+Gray Pink (5 Suits),4,31,134
+Gray Pink (6 Suits),2,39,405
+Gray Pink (6 Suits),3,39,220
+Gray Pink (6 Suits),4,41,108
+Gray Pink (6 Suits),5,20,54
+Gray Reversed (5 Suits),2,10,63
+Gray Reversed (5 Suits),3,9,49
+Gray Reversed (5 Suits),4,11,88
+Gray Reversed (6 Suits),2,13,132
+Gray Reversed (6 Suits),3,8,19
+Gray Reversed (6 Suits),4,10,32
+Light Pink & Cocoa Rainbow (5 Suits),2,8,41
+Light Pink & Cocoa Rainbow (6 Suits),2,4,4
+Light Pink & Cocoa Rainbow (6 Suits),4,1,14
+Light Pink & Dark Brown (5 Suits),2,6,30
+Light Pink & Dark Brown (5 Suits),3,2,16
+Light Pink & Dark Brown (5 Suits),4,3,4
+Light Pink & Dark Brown (6 Suits),2,4,33
+Light Pink & Dark Brown (6 Suits),3,3,5
+Light Pink & Dark Brown (6 Suits),4,4,5
+Light Pink & Dark Null (5 Suits),2,4,36
+Light Pink & Dark Null (6 Suits),2,2,58
+Light Pink & Dark Omni (5 Suits),2,4,12
+Light Pink & Dark Omni (5 Suits),3,3,10
+Light Pink & Dark Omni (6 Suits),2,3,56
+Light Pink & Dark Omni (6 Suits),3,3,24
+Light Pink & Dark Omni (6 Suits),4,1,13
+Light Pink & Dark Pink (5 Suits),2,4,62
+Light Pink & Dark Pink (5 Suits),3,3,12
+Light Pink & Dark Pink (6 Suits),2,7,78
+Light Pink & Dark Pink (6 Suits),3,5,9
+Light Pink & Dark Pink (6 Suits),4,1,14
+Light Pink & Dark Prism (5 Suits),2,3,12
+Light Pink & Dark Prism (5 Suits),3,3,10
+Light Pink & Dark Prism (6 Suits),2,5,21
+Light Pink & Dark Prism (6 Suits),3,6,21
+Light Pink & Dark Prism (6 Suits),4,4,10
+Light Pink & Dark Rainbow (5 Suits),2,8,89
+Light Pink & Dark Rainbow (5 Suits),3,3,9
+Light Pink & Dark Rainbow (5 Suits),4,3,3
+Light Pink & Dark Rainbow (5 Suits),5,5,5
+Light Pink & Dark Rainbow (6 Suits),2,8,62
+Light Pink & Dark Rainbow (6 Suits),3,3,3
+Light Pink & Dark Rainbow (6 Suits),4,4,17
+Light Pink & Gray (5 Suits),2,5,50
+Light Pink & Gray (5 Suits),4,1,10
+Light Pink & Gray (6 Suits),2,4,27
+Light Pink & Gray (6 Suits),3,3,9
+Light Pink & Prism (3 Suits),2,14,32
+Light Pink & Prism (4 Suits),2,12,16
+Light Pink & Prism (4 Suits),3,3,7
+Light Pink & Prism (4 Suits),4,7,20
+Light Pink & Prism (4 Suits),5,5,10
+Light Pink & Prism (5 Suits),2,15,28
+Light Pink & Prism (5 Suits),3,10,14
+Light Pink & Prism (5 Suits),4,18,21
+Light Pink & Prism (5 Suits),5,9,12
+Light Pink & Prism (6 Suits),2,13,87
+Light Pink & Prism (6 Suits),3,16,52
+Light Pink & Prism (6 Suits),4,9,24
+Light Pink & Prism (6 Suits),5,9,29
+Light Pink (3 Suits),2,47,110
+Light Pink (3 Suits),3,34,129
+Light Pink (3 Suits),4,25,63
+Light Pink (4 Suits),2,55,113
+Light Pink (4 Suits),3,49,142
+Light Pink (4 Suits),4,50,82
+Light Pink (4 Suits),5,21,70
+Light Pink (4 Suits),6,4,4
+Light Pink (5 Suits),2,57,171
+Light Pink (5 Suits),3,72,155
+Light Pink (5 Suits),4,63,142
+Light Pink (5 Suits),5,41,124
+Light Pink (5 Suits),6,17,26
+Light Pink (6 Suits),2,49,208
+Light Pink (6 Suits),3,58,208
+Light Pink (6 Suits),4,52,110
+Light Pink (6 Suits),5,36,74
+Light Pink (6 Suits),6,15,25
+Light-Pink-Fives & Black (6 Suits),3,2,2
+Light-Pink-Fives & Brown (3 Suits),2,2,2
+Light-Pink-Fives & Brown (4 Suits),2,2,12
+Light-Pink-Fives & Brown (4 Suits),3,3,3
+Light-Pink-Fives & Brown (4 Suits),4,4,4
+Light-Pink-Fives & Brown (6 Suits),2,2,6
+Light-Pink-Fives & Brown (6 Suits),4,4,8
+Light-Pink-Fives & Cocoa Rainbow (6 Suits),3,3,3
+Light-Pink-Fives & Dark Brown (6 Suits),2,6,22
+Light-Pink-Fives & Dark Brown (6 Suits),3,4,6
+Light-Pink-Fives & Dark Null (5 Suits),2,2,12
+Light-Pink-Fives & Dark Omni (5 Suits),2,2,14
+Light-Pink-Fives & Dark Omni (6 Suits),2,4,33
+Light-Pink-Fives & Dark Pink (5 Suits),2,2,9
+Light-Pink-Fives & Dark Pink (6 Suits),2,2,2
+Light-Pink-Fives & Dark Rainbow (5 Suits),3,2,2
+Light-Pink-Fives & Gray (6 Suits),3,3,3
+Light-Pink-Fives & Light Pink (5 Suits),4,4,8
+Light-Pink-Fives & Light Pink (6 Suits),2,3,6
+Light-Pink-Fives & Light Pink (6 Suits),3,1,1
+Light-Pink-Fives & Muddy Rainbow (5 Suits),3,3,3
+Light-Pink-Fives & Muddy Rainbow (6 Suits),2,2,12
+Light-Pink-Fives & Muddy Rainbow (6 Suits),3,6,16
+Light-Pink-Fives & Null (3 Suits),2,2,4
+Light-Pink-Fives & Omni (6 Suits),3,3,9
+Light-Pink-Fives & Pink (4 Suits),2,2,2
+Light-Pink-Fives & Pink (6 Suits),2,2,4
+Light-Pink-Fives & Pink (6 Suits),3,3,3
+Light-Pink-Fives & Prism (3 Suits),2,2,2
+Light-Pink-Fives & Prism (4 Suits),2,2,2
+Light-Pink-Fives & Prism (4 Suits),3,3,6
+Light-Pink-Fives & Prism (5 Suits),3,2,2
+Light-Pink-Fives & Prism (6 Suits),2,2,14
+Light-Pink-Fives & Prism (6 Suits),4,3,3
+Light-Pink-Fives & Rainbow (3 Suits),2,2,2
+Light-Pink-Fives & Rainbow (5 Suits),3,4,6
+Light-Pink-Fives & Rainbow (6 Suits),2,2,2
+Light-Pink-Fives & Rainbow (6 Suits),3,3,3
+Light-Pink-Fives & White (4 Suits),2,2,4
+Light-Pink-Fives & White (5 Suits),3,3,5
+Light-Pink-Fives & White (5 Suits),4,4,8
+Light-Pink-Fives (3 Suits),2,5,6
+Light-Pink-Fives (4 Suits),2,5,11
+Light-Pink-Fives (4 Suits),4,4,4
+Light-Pink-Fives (5 Suits),2,7,17
+Light-Pink-Fives (5 Suits),4,7,7
+Light-Pink-Fives (5 Suits),5,9,14
+Light-Pink-Fives (6 Suits),2,6,14
+Light-Pink-Fives (6 Suits),4,6,17
+Light-Pink-Ones & Black (5 Suits),3,3,3
+Light-Pink-Ones & Black (6 Suits),3,6,9
+Light-Pink-Ones & Brown (4 Suits),2,4,16
+Light-Pink-Ones & Brown (5 Suits),3,2,8
+Light-Pink-Ones & Brown (5 Suits),5,9,10
+Light-Pink-Ones & Brown (6 Suits),2,2,29
+Light-Pink-Ones & Cocoa Rainbow (5 Suits),3,2,4
+Light-Pink-Ones & Dark Brown (6 Suits),4,1,4
+Light-Pink-Ones & Dark Omni (6 Suits),4,4,13
+Light-Pink-Ones & Dark Prism (5 Suits),2,2,6
+Light-Pink-Ones & Dark Prism (5 Suits),3,3,3
+Light-Pink-Ones & Gray (5 Suits),2,1,8
+Light-Pink-Ones & Gray (6 Suits),2,2,8
+Light-Pink-Ones & Gray (6 Suits),4,1,8
+Light-Pink-Ones & Gray Pink (5 Suits),3,3,9
+Light-Pink-Ones & Light Pink (3 Suits),2,2,2
+Light-Pink-Ones & Light Pink (4 Suits),2,2,4
+Light-Pink-Ones & Light Pink (4 Suits),4,3,6
+Light-Pink-Ones & Muddy Rainbow (3 Suits),2,2,6
+Light-Pink-Ones & Muddy Rainbow (4 Suits),2,2,6
+Light-Pink-Ones & Muddy Rainbow (4 Suits),3,2,4
+Light-Pink-Ones & Muddy Rainbow (4 Suits),4,3,6
+Light-Pink-Ones & Muddy Rainbow (5 Suits),2,3,3
+Light-Pink-Ones & Muddy Rainbow (5 Suits),3,2,2
+Light-Pink-Ones & Muddy Rainbow (5 Suits),4,3,3
+Light-Pink-Ones & Muddy Rainbow (6 Suits),2,2,2
+Light-Pink-Ones & Muddy Rainbow (6 Suits),5,5,5
+Light-Pink-Ones & Null (3 Suits),2,3,7
+Light-Pink-Ones & Omni (5 Suits),2,2,14
+Light-Pink-Ones & Omni (6 Suits),2,4,14
+Light-Pink-Ones & Pink (5 Suits),3,3,3
+Light-Pink-Ones & Pink (5 Suits),4,4,4
+Light-Pink-Ones & Pink (5 Suits),5,3,9
+Light-Pink-Ones & Pink (6 Suits),5,5,15
+Light-Pink-Ones & Prism (3 Suits),2,4,8
+Light-Pink-Ones & Prism (4 Suits),2,1,1
+Light-Pink-Ones & Prism (4 Suits),3,3,3
+Light-Pink-Ones & Prism (5 Suits),2,1,3
+Light-Pink-Ones & Prism (5 Suits),3,3,6
+Light-Pink-Ones & Prism (6 Suits),2,2,10
+Light-Pink-Ones & Prism (6 Suits),4,6,6
+Light-Pink-Ones & Rainbow (3 Suits),2,2,8
+Light-Pink-Ones & Rainbow (4 Suits),2,2,4
+Light-Pink-Ones & Rainbow (4 Suits),3,3,3
+Light-Pink-Ones & Rainbow (5 Suits),3,1,1
+Light-Pink-Ones & Rainbow (5 Suits),4,4,12
+Light-Pink-Ones & Rainbow (6 Suits),2,4,26
+Light-Pink-Ones & Rainbow (6 Suits),3,3,6
+Light-Pink-Ones & Rainbow (6 Suits),5,5,5
+Light-Pink-Ones & White (3 Suits),2,2,2
+Light-Pink-Ones & White (4 Suits),2,4,6
+Light-Pink-Ones & White (4 Suits),3,1,1
+Light-Pink-Ones & White (4 Suits),5,2,2
+Light-Pink-Ones & White (5 Suits),2,2,4
+Light-Pink-Ones & White (5 Suits),4,10,14
+Light-Pink-Ones & White (6 Suits),4,3,3
+Light-Pink-Ones (3 Suits),2,7,7
+Light-Pink-Ones (4 Suits),2,6,18
+Light-Pink-Ones (4 Suits),3,4,6
+Light-Pink-Ones (4 Suits),4,4,8
+Light-Pink-Ones (5 Suits),2,5,11
+Light-Pink-Ones (5 Suits),3,12,26
+Light-Pink-Ones (5 Suits),4,3,6
+Light-Pink-Ones (5 Suits),5,4,13
+Light-Pink-Ones (6 Suits),2,9,37
+Light-Pink-Ones (6 Suits),3,7,11
+Light-Pink-Ones (6 Suits),4,2,4
+Light-Pink-Ones (6 Suits),5,5,33
+Muddy Rainbow & Dark Brown (5 Suits),2,3,20
+Muddy Rainbow & Dark Brown (5 Suits),4,1,13
+Muddy Rainbow & Dark Brown (6 Suits),2,4,34
+Muddy Rainbow & Dark Brown (6 Suits),3,3,8
+Muddy Rainbow & Dark Brown (6 Suits),4,5,9
+Muddy Rainbow & Dark Brown (6 Suits),5,10,19
+Muddy Rainbow & Dark Null (6 Suits),2,4,14
+Muddy Rainbow & Dark Omni (5 Suits),2,4,19
+Muddy Rainbow & Dark Omni (5 Suits),3,3,9
+Muddy Rainbow & Dark Omni (6 Suits),2,4,87
+Muddy Rainbow & Dark Omni (6 Suits),3,2,2
+Muddy Rainbow & Dark Omni (6 Suits),4,4,4
+Muddy Rainbow & Dark Pink (5 Suits),2,5,20
+Muddy Rainbow & Dark Pink (5 Suits),3,6,43
+Muddy Rainbow & Dark Pink (6 Suits),2,6,36
+Muddy Rainbow & Dark Pink (6 Suits),3,6,16
+Muddy Rainbow & Dark Pink (6 Suits),4,7,11
+Muddy Rainbow & Dark Prism (5 Suits),2,6,34
+Muddy Rainbow & Dark Prism (5 Suits),5,3,3
+Muddy Rainbow & Dark Prism (6 Suits),2,6,34
+Muddy Rainbow & Dark Prism (6 Suits),3,3,14
+Muddy Rainbow & Dark Prism (6 Suits),4,7,17
+Muddy Rainbow & Dark Rainbow (5 Suits),2,6,36
+Muddy Rainbow & Dark Rainbow (5 Suits),3,3,3
+Muddy Rainbow & Dark Rainbow (6 Suits),2,8,31
+Muddy Rainbow & Dark Rainbow (6 Suits),4,4,13
+Muddy Rainbow & Gray (5 Suits),2,6,32
+Muddy Rainbow & Gray (5 Suits),3,2,12
+Muddy Rainbow & Gray (5 Suits),4,8,15
+Muddy Rainbow & Gray (6 Suits),2,7,39
+Muddy Rainbow & Gray (6 Suits),4,11,19
+Muddy Rainbow & Gray Pink (5 Suits),2,6,42
+Muddy Rainbow & Gray Pink (5 Suits),3,3,3
+Muddy Rainbow & Gray Pink (6 Suits),2,7,101
+Muddy Rainbow & Gray Pink (6 Suits),3,7,14
+Muddy Rainbow & Gray Pink (6 Suits),4,4,10
+Muddy Rainbow & Light Pink (3 Suits),2,10,32
+Muddy Rainbow & Light Pink (4 Suits),2,8,18
+Muddy Rainbow & Light Pink (4 Suits),3,5,10
+Muddy Rainbow & Light Pink (4 Suits),4,4,8
+Muddy Rainbow & Light Pink (5 Suits),2,10,39
+Muddy Rainbow & Light Pink (5 Suits),3,8,12
+Muddy Rainbow & Light Pink (5 Suits),4,14,23
+Muddy Rainbow & Light Pink (5 Suits),5,5,12
+Muddy Rainbow & Light Pink (6 Suits),2,10,98
+Muddy Rainbow & Light Pink (6 Suits),3,7,23
+Muddy Rainbow & Light Pink (6 Suits),4,7,31
+Muddy Rainbow & Light Pink (6 Suits),5,5,24
+Muddy Rainbow & Prism (3 Suits),2,14,20
+Muddy Rainbow & Prism (4 Suits),2,14,17
+Muddy Rainbow & Prism (4 Suits),3,6,6
+Muddy Rainbow & Prism (4 Suits),4,3,3
+Muddy Rainbow & Prism (5 Suits),2,18,78
+Muddy Rainbow & Prism (5 Suits),3,5,10
+Muddy Rainbow & Prism (5 Suits),4,15,29
+Muddy Rainbow & Prism (5 Suits),5,2,4
+Muddy Rainbow & Prism (6 Suits),2,13,52
+Muddy Rainbow & Prism (6 Suits),3,8,25
+Muddy Rainbow & Prism (6 Suits),4,15,19
+Muddy Rainbow & Prism (6 Suits),5,10,20
+Muddy Rainbow (3 Suits),2,45,159
+Muddy Rainbow (3 Suits),3,36,92
+Muddy Rainbow (3 Suits),4,20,44
+Muddy Rainbow (4 Suits),2,53,131
+Muddy Rainbow (4 Suits),3,56,147
+Muddy Rainbow (4 Suits),4,41,80
+Muddy Rainbow (4 Suits),5,9,19
+Muddy Rainbow (5 Suits),2,52,190
+Muddy Rainbow (5 Suits),3,75,192
+Muddy Rainbow (5 Suits),4,51,122
+Muddy Rainbow (5 Suits),5,42,128
+Muddy Rainbow (5 Suits),6,19,31
+Muddy Rainbow (6 Suits),2,44,165
+Muddy Rainbow (6 Suits),3,58,194
+Muddy Rainbow (6 Suits),4,53,151
+Muddy Rainbow (6 Suits),5,44,130
+Muddy Rainbow (6 Suits),6,25,31
+Muddy-Rainbow-Fives & Black (5 Suits),2,1,10
+Muddy-Rainbow-Fives & Black (6 Suits),4,5,8
+Muddy-Rainbow-Fives & Brown (4 Suits),2,2,2
+Muddy-Rainbow-Fives & Brown (4 Suits),3,3,6
+Muddy-Rainbow-Fives & Brown (6 Suits),2,2,16
+Muddy-Rainbow-Fives & Cocoa Rainbow (5 Suits),2,3,16
+Muddy-Rainbow-Fives & Dark Omni (5 Suits),3,2,2
+Muddy-Rainbow-Fives & Dark Pink (5 Suits),2,2,14
+Muddy-Rainbow-Fives & Dark Pink (6 Suits),2,2,2
+Muddy-Rainbow-Fives & Dark Prism (5 Suits),2,2,16
+Muddy-Rainbow-Fives & Dark Prism (6 Suits),2,3,6
+Muddy-Rainbow-Fives & Dark Prism (6 Suits),3,3,9
+Muddy-Rainbow-Fives & Dark Prism (6 Suits),4,4,12
+Muddy-Rainbow-Fives & Gray Pink (6 Suits),2,2,56
+Muddy-Rainbow-Fives & Light Pink (5 Suits),3,3,12
+Muddy-Rainbow-Fives & Light Pink (6 Suits),4,3,3
+Muddy-Rainbow-Fives & Muddy Rainbow (4 Suits),2,2,8
+Muddy-Rainbow-Fives & Muddy Rainbow (6 Suits),2,2,18
+Muddy-Rainbow-Fives & Omni (5 Suits),2,2,6
+Muddy-Rainbow-Fives & Omni (5 Suits),3,3,3
+Muddy-Rainbow-Fives & Pink (4 Suits),3,4,9
+Muddy-Rainbow-Fives & Pink (5 Suits),3,4,5
+Muddy-Rainbow-Fives & Pink (5 Suits),4,3,3
+Muddy-Rainbow-Fives & Pink (6 Suits),2,2,4
+Muddy-Rainbow-Fives & Pink (6 Suits),5,5,5
+Muddy-Rainbow-Fives & Prism (5 Suits),4,5,5
+Muddy-Rainbow-Fives & Rainbow (3 Suits),2,2,4
+Muddy-Rainbow-Fives & Rainbow (4 Suits),2,2,4
+Muddy-Rainbow-Fives & Rainbow (4 Suits),3,3,12
+Muddy-Rainbow-Fives & Rainbow (4 Suits),4,3,5
+Muddy-Rainbow-Fives & Rainbow (5 Suits),2,2,6
+Muddy-Rainbow-Fives & Rainbow (5 Suits),4,6,9
+Muddy-Rainbow-Fives & Rainbow (6 Suits),2,2,4
+Muddy-Rainbow-Fives & Rainbow (6 Suits),4,3,9
+Muddy-Rainbow-Fives & White (3 Suits),2,2,2
+Muddy-Rainbow-Fives & White (4 Suits),2,5,11
+Muddy-Rainbow-Fives & White (5 Suits),2,2,4
+Muddy-Rainbow-Fives & White (5 Suits),3,2,2
+Muddy-Rainbow-Fives & White (6 Suits),2,3,3
+Muddy-Rainbow-Fives & White (6 Suits),3,1,3
+Muddy-Rainbow-Fives & White (6 Suits),4,7,7
+Muddy-Rainbow-Fives (3 Suits),2,9,13
+Muddy-Rainbow-Fives (4 Suits),2,8,8
+Muddy-Rainbow-Fives (5 Suits),2,10,20
+Muddy-Rainbow-Fives (5 Suits),3,3,6
+Muddy-Rainbow-Fives (5 Suits),4,8,18
+Muddy-Rainbow-Fives (5 Suits),5,10,10
+Muddy-Rainbow-Fives (6 Suits),2,8,38
+Muddy-Rainbow-Fives (6 Suits),3,6,27
+Muddy-Rainbow-Fives (6 Suits),4,5,12
+Muddy-Rainbow-Fives (6 Suits),5,5,5
+Muddy-Rainbow-Ones & Black (5 Suits),2,6,34
+Muddy-Rainbow-Ones & Black (6 Suits),2,6,186
+Muddy-Rainbow-Ones & Brown (3 Suits),2,3,5
+Muddy-Rainbow-Ones & Brown (4 Suits),2,2,8
+Muddy-Rainbow-Ones & Brown (5 Suits),2,2,4
+Muddy-Rainbow-Ones & Brown (5 Suits),3,2,2
+Muddy-Rainbow-Ones & Brown (5 Suits),4,4,4
+Muddy-Rainbow-Ones & Brown (6 Suits),2,2,4
+Muddy-Rainbow-Ones & Dark Omni (5 Suits),2,2,12
+Muddy-Rainbow-Ones & Dark Pink (5 Suits),2,5,12
+Muddy-Rainbow-Ones & Dark Rainbow (6 Suits),2,2,12
+Muddy-Rainbow-Ones & Gray (6 Suits),2,2,12
+Muddy-Rainbow-Ones & Gray Pink (5 Suits),2,3,9
+Muddy-Rainbow-Ones & Gray Pink (6 Suits),2,2,8
+Muddy-Rainbow-Ones & Light Pink (4 Suits),2,2,2
+Muddy-Rainbow-Ones & Light Pink (4 Suits),4,8,28
+Muddy-Rainbow-Ones & Light Pink (5 Suits),4,4,8
+Muddy-Rainbow-Ones & Light Pink (5 Suits),5,4,18
+Muddy-Rainbow-Ones & Muddy Rainbow (4 Suits),2,2,18
+Muddy-Rainbow-Ones & Muddy Rainbow (4 Suits),3,3,3
+Muddy-Rainbow-Ones & Muddy Rainbow (5 Suits),2,2,2
+Muddy-Rainbow-Ones & Muddy Rainbow (5 Suits),3,2,2
+Muddy-Rainbow-Ones & Muddy Rainbow (6 Suits),4,4,8
+Muddy-Rainbow-Ones & Null (4 Suits),2,2,4
+Muddy-Rainbow-Ones & Null (6 Suits),2,2,2
+Muddy-Rainbow-Ones & Omni (4 Suits),2,1,2
+Muddy-Rainbow-Ones & Omni (5 Suits),2,2,4
+Muddy-Rainbow-Ones & Omni (5 Suits),4,4,7
+Muddy-Rainbow-Ones & Omni (6 Suits),2,4,12
+Muddy-Rainbow-Ones & Pink (3 Suits),2,2,3
+Muddy-Rainbow-Ones & Pink (4 Suits),2,2,2
+Muddy-Rainbow-Ones & Pink (4 Suits),4,3,3
+Muddy-Rainbow-Ones & Pink (5 Suits),3,4,8
+Muddy-Rainbow-Ones & Prism (4 Suits),2,2,2
+Muddy-Rainbow-Ones & Prism (4 Suits),4,3,3
+Muddy-Rainbow-Ones & Prism (5 Suits),2,1,1
+Muddy-Rainbow-Ones & Prism (6 Suits),2,1,2
+Muddy-Rainbow-Ones & Prism (6 Suits),3,7,13
+Muddy-Rainbow-Ones & Rainbow (3 Suits),2,3,5
+Muddy-Rainbow-Ones & Rainbow (3 Suits),4,3,3
+Muddy-Rainbow-Ones & Rainbow (4 Suits),2,2,2
+Muddy-Rainbow-Ones & Rainbow (5 Suits),2,1,1
+Muddy-Rainbow-Ones & Rainbow (6 Suits),3,3,8
+Muddy-Rainbow-Ones & White (3 Suits),2,3,5
+Muddy-Rainbow-Ones & White (4 Suits),2,2,2
+Muddy-Rainbow-Ones & White (4 Suits),3,1,2
+Muddy-Rainbow-Ones & White (5 Suits),2,2,6
+Muddy-Rainbow-Ones & White (5 Suits),3,3,6
+Muddy-Rainbow-Ones & White (5 Suits),4,1,1
+Muddy-Rainbow-Ones & White (6 Suits),2,2,4
+Muddy-Rainbow-Ones & White (6 Suits),3,3,3
+Muddy-Rainbow-Ones & White (6 Suits),4,3,3
+Muddy-Rainbow-Ones (3 Suits),2,7,11
+Muddy-Rainbow-Ones (3 Suits),4,4,4
+Muddy-Rainbow-Ones (4 Suits),2,6,8
+Muddy-Rainbow-Ones (4 Suits),4,3,12
+Muddy-Rainbow-Ones (4 Suits),5,3,9
+Muddy-Rainbow-Ones (5 Suits),2,6,14
+Muddy-Rainbow-Ones (5 Suits),3,3,3
+Muddy-Rainbow-Ones (5 Suits),4,6,20
+Muddy-Rainbow-Ones (5 Suits),5,4,5
+Muddy-Rainbow-Ones (6 Suits),2,8,18
+Muddy-Rainbow-Ones (6 Suits),4,6,7
+Muddy-Rainbow-Ones (6 Suits),5,1,1
+No Variant,2,115,764
+No Variant,3,124,510
+No Variant,4,122,567
+No Variant,5,117,884
+No Variant,6,93,437
+Null & Cocoa Rainbow (5 Suits),2,2,31
+Null & Cocoa Rainbow (6 Suits),2,3,49
+Null & Cocoa Rainbow (6 Suits),3,3,12
+Null & Dark Brown (5 Suits),2,2,4
+Null & Dark Brown (6 Suits),2,5,42
+Null & Dark Omni (5 Suits),2,2,10
+Null & Dark Omni (5 Suits),3,3,15
+Null & Dark Omni (6 Suits),2,4,48
+Null & Dark Pink (5 Suits),2,5,27
+Null & Dark Pink (6 Suits),2,6,44
+Null & Dark Prism (5 Suits),2,1,8
+Null & Dark Prism (6 Suits),2,2,6
+Null & Dark Rainbow (5 Suits),2,4,90
+Null & Dark Rainbow (6 Suits),2,6,45
+Null & Gray (5 Suits),2,6,28
+Null & Gray (5 Suits),3,3,6
+Null & Gray (6 Suits),2,4,38
+Null & Gray Pink (5 Suits),2,2,30
+Null & Gray Pink (6 Suits),2,4,33
+Null & Light Pink (3 Suits),2,7,15
+Null & Light Pink (4 Suits),2,6,28
+Null & Light Pink (5 Suits),2,6,68
+Null & Light Pink (5 Suits),3,6,9
+Null & Light Pink (6 Suits),2,8,30
+Null & Light Pink (6 Suits),3,3,9
+Null & Muddy Rainbow (3 Suits),2,5,78
+Null & Muddy Rainbow (4 Suits),2,6,25
+Null & Muddy Rainbow (4 Suits),3,3,3
+Null & Muddy Rainbow (5 Suits),2,7,29
+Null & Muddy Rainbow (5 Suits),3,5,5
+Null & Muddy Rainbow (5 Suits),4,4,12
+Null & Muddy Rainbow (6 Suits),2,8,59
+Null & Muddy Rainbow (6 Suits),3,3,3
+Null & Muddy Rainbow (6 Suits),4,3,3
+Null & Prism (3 Suits),2,7,17
+Null & Prism (4 Suits),2,5,38
+Null & Prism (5 Suits),2,7,28
+Null & Prism (5 Suits),3,3,6
+Null & Prism (5 Suits),4,8,16
+Null & Prism (6 Suits),2,9,28
+Null & Prism (6 Suits),5,4,16
+Null (3 Suits),2,37,142
+Null (3 Suits),3,28,182
+Null (3 Suits),4,15,20
+Null (4 Suits),2,37,332
+Null (4 Suits),3,34,94
+Null (4 Suits),4,19,68
+Null (4 Suits),5,5,15
+Null (5 Suits),2,42,278
+Null (5 Suits),3,66,334
+Null (5 Suits),4,46,203
+Null (5 Suits),5,8,18
+Null (5 Suits),6,15,22
+Null (6 Suits),2,43,395
+Null (6 Suits),3,41,115
+Null (6 Suits),4,31,94
+Null (6 Suits),5,30,137
+Null-Fives & Brown (3 Suits),2,3,4
+Null-Fives & Brown (3 Suits),3,3,15
+Null-Fives & Brown (4 Suits),2,4,6
+Null-Fives & Brown (4 Suits),3,3,11
+Null-Fives & Brown (5 Suits),2,4,10
+Null-Fives & Brown (6 Suits),2,4,48
+Null-Fives & Dark Brown (5 Suits),2,2,59
+Null-Fives & Dark Brown (6 Suits),2,2,30
+Null-Fives & Muddy Rainbow (4 Suits),2,3,8
+Null-Fives & Omni (4 Suits),4,4,4
+Null-Fives & Rainbow (3 Suits),2,2,2
+Null-Fives & Rainbow (4 Suits),2,2,2
+Null-Fives & Rainbow (5 Suits),2,2,8
+Null-Fives & Rainbow (6 Suits),2,2,22
+Null-Fives & White (3 Suits),2,5,7
+Null-Fives & White (4 Suits),2,6,14
+Null-Fives & White (5 Suits),2,5,38
+Null-Fives & White (6 Suits),2,6,74
+Null-Fives (3 Suits),2,5,8
+Null-Fives (3 Suits),4,1,4
+Null-Fives (4 Suits),2,2,2
+Null-Fives (5 Suits),2,4,20
+Null-Fives (5 Suits),4,4,8
+Null-Fives (6 Suits),2,5,13
+Null-Fives (6 Suits),4,4,8
+Null-Ones & Black (5 Suits),2,2,8
+Null-Ones & Black (6 Suits),2,1,2
+Null-Ones & Black (6 Suits),3,2,6
+Null-Ones & Brown (4 Suits),2,2,4
+Null-Ones & Brown (5 Suits),4,4,12
+Null-Ones & Brown (6 Suits),2,3,9
+Null-Ones & Brown (6 Suits),5,4,4
+Null-Ones & Dark Brown (5 Suits),2,2,10
+Null-Ones & Dark Brown (6 Suits),4,3,6
+Null-Ones & Dark Omni (5 Suits),2,2,8
+Null-Ones & Dark Pink (5 Suits),3,3,3
+Null-Ones & Dark Prism (6 Suits),2,2,40
+Null-Ones & Dark Rainbow (5 Suits),2,1,19
+Null-Ones & Gray (5 Suits),3,3,3
+Null-Ones & Light Pink (4 Suits),4,2,2
+Null-Ones & Light Pink (6 Suits),4,4,4
+Null-Ones & Muddy Rainbow (6 Suits),3,3,3
+Null-Ones & Null (3 Suits),2,3,16
+Null-Ones & Null (3 Suits),3,3,21
+Null-Ones & Null (4 Suits),3,2,2
+Null-Ones & Null (5 Suits),2,1,5
+Null-Ones & Null (5 Suits),4,3,6
+Null-Ones & Null (6 Suits),4,4,4
+Null-Ones & Omni (4 Suits),2,2,6
+Null-Ones & Omni (4 Suits),4,4,4
+Null-Ones & Omni (5 Suits),2,1,6
+Null-Ones & Pink (3 Suits),2,3,3
+Null-Ones & Pink (4 Suits),2,1,4
+Null-Ones & Pink (5 Suits),2,3,20
+Null-Ones & Pink (6 Suits),2,1,6
+Null-Ones & Pink (6 Suits),3,2,2
+Null-Ones & Pink (6 Suits),5,10,22
+Null-Ones & Prism (3 Suits),2,2,2
+Null-Ones & Prism (5 Suits),2,1,1
+Null-Ones & Prism (5 Suits),3,3,3
+Null-Ones & Prism (5 Suits),4,3,3
+Null-Ones & Prism (6 Suits),2,2,14
+Null-Ones & Prism (6 Suits),4,4,4
+Null-Ones & Rainbow (3 Suits),2,3,10
+Null-Ones & Rainbow (4 Suits),2,3,20
+Null-Ones & Rainbow (4 Suits),3,3,12
+Null-Ones & Rainbow (5 Suits),2,3,5
+Null-Ones & Rainbow (5 Suits),3,4,9
+Null-Ones & Rainbow (5 Suits),4,4,8
+Null-Ones & White (3 Suits),2,2,6
+Null-Ones & White (4 Suits),2,2,4
+Null-Ones & White (4 Suits),3,1,2
+Null-Ones & White (5 Suits),2,2,4
+Null-Ones & White (5 Suits),4,7,19
+Null-Ones & White (6 Suits),2,2,2
+Null-Ones (3 Suits),2,6,6
+Null-Ones (3 Suits),3,6,6
+Null-Ones (3 Suits),4,4,20
+Null-Ones (4 Suits),2,5,6
+Null-Ones (4 Suits),3,8,8
+Null-Ones (5 Suits),2,6,27
+Null-Ones (5 Suits),3,11,17
+Null-Ones (5 Suits),4,24,36
+Null-Ones (6 Suits),2,7,28
+Null-Ones (6 Suits),3,11,17
+Null-Ones (6 Suits),4,13,24
+Number Blind (3 Suits),2,6,18
+Number Blind (3 Suits),3,2,4
+Number Blind (3 Suits),4,4,8
+Number Blind (4 Suits),2,7,16
+Number Blind (4 Suits),4,4,4
+Number Blind (5 Suits),2,8,38
+Number Blind (5 Suits),3,1,6
+Number Blind (5 Suits),4,4,12
+Number Blind (6 Suits),2,8,57
+Number Blind (6 Suits),3,3,4
+Number Mute (3 Suits),2,4,19
+Number Mute (4 Suits),2,2,16
+Number Mute (5 Suits),2,2,62
+Number Mute (6 Suits),2,2,16
+Number Mute (6 Suits),4,3,30
+Omni & Cocoa Rainbow (5 Suits),2,3,17
+Omni & Cocoa Rainbow (5 Suits),4,5,13
+Omni & Cocoa Rainbow (6 Suits),2,4,32
+Omni & Cocoa Rainbow (6 Suits),3,3,13
+Omni & Dark Brown (5 Suits),2,7,96
+Omni & Dark Brown (6 Suits),2,7,102
+Omni & Dark Brown (6 Suits),3,5,19
+Omni & Dark Brown (6 Suits),4,4,12
+Omni & Dark Null (5 Suits),2,4,20
+Omni & Dark Null (6 Suits),2,6,60
+Omni & Dark Pink (5 Suits),2,9,25
+Omni & Dark Pink (5 Suits),3,3,15
+Omni & Dark Pink (6 Suits),2,8,24
+Omni & Dark Pink (6 Suits),3,6,17
+Omni & Dark Pink (6 Suits),4,4,16
+Omni & Dark Prism (5 Suits),2,6,100
+Omni & Dark Prism (6 Suits),2,6,161
+Omni & Dark Prism (6 Suits),3,6,22
+Omni & Dark Prism (6 Suits),4,3,14
+Omni & Dark Rainbow (5 Suits),2,8,42
+Omni & Dark Rainbow (5 Suits),3,2,2
+Omni & Dark Rainbow (6 Suits),2,9,186
+Omni & Dark Rainbow (6 Suits),3,9,31
+Omni & Dark Rainbow (6 Suits),4,9,33
+Omni & Gray (5 Suits),2,7,81
+Omni & Gray (5 Suits),4,6,6
+Omni & Gray (6 Suits),2,7,73
+Omni & Gray (6 Suits),3,5,5
+Omni & Gray (6 Suits),4,8,8
+Omni & Gray Pink (5 Suits),2,4,18
+Omni & Gray Pink (5 Suits),3,3,6
+Omni & Gray Pink (6 Suits),2,4,51
+Omni & Gray Pink (6 Suits),3,3,10
+Omni & Gray Pink (6 Suits),4,1,9
+Omni & Light Pink (3 Suits),2,10,44
+Omni & Light Pink (4 Suits),2,8,14
+Omni & Light Pink (4 Suits),3,3,6
+Omni & Light Pink (4 Suits),4,4,4
+Omni & Light Pink (5 Suits),2,12,81
+Omni & Light Pink (5 Suits),3,3,5
+Omni & Light Pink (5 Suits),4,4,6
+Omni & Light Pink (6 Suits),2,10,37
+Omni & Light Pink (6 Suits),3,8,21
+Omni & Light Pink (6 Suits),4,4,28
+Omni & Light Pink (6 Suits),5,5,9
+Omni & Muddy Rainbow (3 Suits),2,12,64
+Omni & Muddy Rainbow (3 Suits),3,1,10
+Omni & Muddy Rainbow (4 Suits),2,11,32
+Omni & Muddy Rainbow (4 Suits),3,2,13
+Omni & Muddy Rainbow (5 Suits),2,12,45
+Omni & Muddy Rainbow (5 Suits),3,5,23
+Omni & Muddy Rainbow (5 Suits),4,9,15
+Omni & Muddy Rainbow (6 Suits),2,12,37
+Omni & Muddy Rainbow (6 Suits),3,3,10
+Omni & Muddy Rainbow (6 Suits),4,8,10
+Omni & Muddy Rainbow (6 Suits),5,10,37
+Omni & Null (3 Suits),2,13,35
+Omni & Null (3 Suits),3,3,21
+Omni & Null (4 Suits),2,7,16
+Omni & Null (4 Suits),3,3,24
+Omni & Null (5 Suits),2,8,47
+Omni & Null (5 Suits),3,9,27
+Omni & Null (5 Suits),4,1,2
+Omni & Null (6 Suits),2,13,51
+Omni & Null (6 Suits),3,5,47
+Omni & Prism (3 Suits),2,11,13
+Omni & Prism (4 Suits),2,12,34
+Omni & Prism (4 Suits),3,5,8
+Omni & Prism (5 Suits),2,11,28
+Omni & Prism (5 Suits),3,6,11
+Omni & Prism (5 Suits),4,8,21
+Omni & Prism (5 Suits),5,4,9
+Omni & Prism (6 Suits),2,12,53
+Omni & Prism (6 Suits),3,5,11
+Omni & Prism (6 Suits),4,5,14
+Omni & Prism (6 Suits),5,5,8
+Omni (3 Suits),2,48,196
+Omni (3 Suits),3,37,106
+Omni (3 Suits),4,21,103
+Omni (4 Suits),2,51,128
+Omni (4 Suits),3,56,132
+Omni (4 Suits),4,42,96
+Omni (4 Suits),5,14,94
+Omni (4 Suits),6,6,13
+Omni (5 Suits),2,55,237
+Omni (5 Suits),3,70,235
+Omni (5 Suits),4,56,164
+Omni (5 Suits),5,42,128
+Omni (5 Suits),6,24,50
+Omni (6 Suits),2,51,258
+Omni (6 Suits),3,60,197
+Omni (6 Suits),4,48,141
+Omni (6 Suits),5,34,70
+Omni (6 Suits),6,23,69
+Omni-Fives & Black (6 Suits),2,3,9
+Omni-Fives & Black (6 Suits),3,3,12
+Omni-Fives & Black (6 Suits),4,1,2
+Omni-Fives & Brown (5 Suits),5,4,4
+Omni-Fives & Brown (6 Suits),2,2,14
+Omni-Fives & Brown (6 Suits),3,4,4
+Omni-Fives & Cocoa Rainbow (5 Suits),2,2,6
+Omni-Fives & Cocoa Rainbow (6 Suits),2,2,48
+Omni-Fives & Dark Omni (6 Suits),2,2,33
+Omni-Fives & Dark Omni (6 Suits),3,5,10
+Omni-Fives & Dark Pink (5 Suits),2,2,8
+Omni-Fives & Dark Pink (5 Suits),4,4,4
+Omni-Fives & Dark Pink (6 Suits),2,2,6
+Omni-Fives & Dark Prism (5 Suits),3,2,3
+Omni-Fives & Dark Rainbow (5 Suits),4,1,3
+Omni-Fives & Dark Rainbow (6 Suits),2,2,28
+Omni-Fives & Gray (6 Suits),2,1,1
+Omni-Fives & Gray (6 Suits),3,3,6
+Omni-Fives & Gray Pink (6 Suits),2,2,4
+Omni-Fives & Gray Pink (6 Suits),4,1,3
+Omni-Fives & Light Pink (3 Suits),2,2,4
+Omni-Fives & Light Pink (6 Suits),4,3,3
+Omni-Fives & Muddy Rainbow (3 Suits),2,2,6
+Omni-Fives & Muddy Rainbow (5 Suits),4,10,19
+Omni-Fives & Muddy Rainbow (6 Suits),2,1,1
+Omni-Fives & Omni (5 Suits),3,1,2
+Omni-Fives & Omni (5 Suits),4,3,3
+Omni-Fives & Pink (3 Suits),2,2,2
+Omni-Fives & Pink (4 Suits),2,2,12
+Omni-Fives & Pink (4 Suits),3,3,9
+Omni-Fives & Pink (4 Suits),4,1,2
+Omni-Fives & Pink (5 Suits),2,2,8
+Omni-Fives & Pink (5 Suits),3,1,10
+Omni-Fives & Pink (6 Suits),2,2,38
+Omni-Fives & Prism (3 Suits),2,2,6
+Omni-Fives & Prism (4 Suits),2,4,7
+Omni-Fives & Prism (4 Suits),3,2,4
+Omni-Fives & Prism (5 Suits),2,4,14
+Omni-Fives & Prism (5 Suits),3,1,1
+Omni-Fives & Prism (5 Suits),4,1,3
+Omni-Fives & Prism (6 Suits),2,2,26
+Omni-Fives & Rainbow (3 Suits),2,6,6
+Omni-Fives & Rainbow (4 Suits),2,3,3
+Omni-Fives & Rainbow (4 Suits),3,2,2
+Omni-Fives & Rainbow (5 Suits),2,3,7
+Omni-Fives & Rainbow (5 Suits),3,2,4
+Omni-Fives & Rainbow (6 Suits),2,4,20
+Omni-Fives & Rainbow (6 Suits),3,6,9
+Omni-Fives & White (3 Suits),2,4,14
+Omni-Fives & White (3 Suits),3,3,15
+Omni-Fives & White (4 Suits),2,4,14
+Omni-Fives & White (4 Suits),3,1,2
+Omni-Fives & White (4 Suits),4,4,4
+Omni-Fives & White (5 Suits),2,2,4
+Omni-Fives & White (5 Suits),3,4,7
+Omni-Fives & White (6 Suits),2,3,27
+Omni-Fives & White (6 Suits),3,3,6
+Omni-Fives (3 Suits),2,7,7
+Omni-Fives (4 Suits),2,10,22
+Omni-Fives (4 Suits),4,3,9
+Omni-Fives (5 Suits),2,15,37
+Omni-Fives (5 Suits),3,8,17
+Omni-Fives (5 Suits),4,4,9
+Omni-Fives (5 Suits),5,10,12
+Omni-Fives (6 Suits),2,6,18
+Omni-Fives (6 Suits),3,4,4
+Omni-Fives (6 Suits),4,5,11
+Omni-Ones & Black (5 Suits),2,2,8
+Omni-Ones & Brown (3 Suits),3,1,1
+Omni-Ones & Brown (3 Suits),4,4,4
+Omni-Ones & Brown (4 Suits),3,2,2
+Omni-Ones & Brown (5 Suits),2,2,4
+Omni-Ones & Brown (5 Suits),4,4,12
+Omni-Ones & Brown (5 Suits),5,4,10
+Omni-Ones & Brown (6 Suits),2,2,12
+Omni-Ones & Dark Rainbow (6 Suits),2,2,6
+Omni-Ones & Gray (5 Suits),2,4,34
+Omni-Ones & Light Pink (3 Suits),2,2,4
+Omni-Ones & Light Pink (4 Suits),4,4,4
+Omni-Ones & Light Pink (5 Suits),2,2,8
+Omni-Ones & Light Pink (5 Suits),4,2,6
+Omni-Ones & Light Pink (6 Suits),2,6,34
+Omni-Ones & Muddy Rainbow (6 Suits),2,1,1
+Omni-Ones & Null (3 Suits),2,2,2
+Omni-Ones & Null (4 Suits),2,1,3
+Omni-Ones & Null (5 Suits),5,5,10
+Omni-Ones & Null (6 Suits),2,2,8
+Omni-Ones & Omni (3 Suits),2,6,6
+Omni-Ones & Omni (4 Suits),2,2,4
+Omni-Ones & Omni (5 Suits),2,2,12
+Omni-Ones & Omni (5 Suits),3,2,4
+Omni-Ones & Omni (6 Suits),2,2,2
+Omni-Ones & Omni (6 Suits),5,5,12
+Omni-Ones & Pink (6 Suits),2,2,8
+Omni-Ones & Pink (6 Suits),4,4,4
+Omni-Ones & Prism (3 Suits),2,2,2
+Omni-Ones & Prism (4 Suits),2,2,2
+Omni-Ones & Prism (5 Suits),2,4,18
+Omni-Ones & Prism (5 Suits),3,3,6
+Omni-Ones & Rainbow (3 Suits),2,6,14
+Omni-Ones & Rainbow (4 Suits),2,6,12
+Omni-Ones & Rainbow (5 Suits),2,2,2
+Omni-Ones & Rainbow (5 Suits),4,8,10
+Omni-Ones & Rainbow (6 Suits),2,4,16
+Omni-Ones & Rainbow (6 Suits),5,5,5
+Omni-Ones & White (4 Suits),2,1,1
+Omni-Ones & White (5 Suits),2,4,32
+Omni-Ones & White (5 Suits),4,2,2
+Omni-Ones & White (5 Suits),5,4,8
+Omni-Ones (3 Suits),2,11,15
+Omni-Ones (4 Suits),2,8,16
+Omni-Ones (4 Suits),3,3,3
+Omni-Ones (5 Suits),2,10,21
+Omni-Ones (5 Suits),3,5,10
+Omni-Ones (5 Suits),4,16,29
+Omni-Ones (6 Suits),2,9,30
+Omni-Ones (6 Suits),3,2,4
+Omni-Ones (6 Suits),4,2,4
+Omni-Ones (6 Suits),5,4,4
+Pink & Brown (3 Suits),2,27,125
+Pink & Brown (3 Suits),3,15,59
+Pink & Brown (3 Suits),4,9,20
+Pink & Brown (4 Suits),2,35,138
+Pink & Brown (4 Suits),3,33,80
+Pink & Brown (4 Suits),4,17,39
+Pink & Brown (5 Suits),2,30,143
+Pink & Brown (5 Suits),3,38,83
+Pink & Brown (5 Suits),4,46,104
+Pink & Brown (5 Suits),5,30,49
+Pink & Brown (6 Suits),2,29,150
+Pink & Brown (6 Suits),3,38,96
+Pink & Brown (6 Suits),4,35,98
+Pink & Brown (6 Suits),5,21,71
+Pink & Cocoa Rainbow (5 Suits),2,14,124
+Pink & Cocoa Rainbow (5 Suits),3,8,23
+Pink & Cocoa Rainbow (5 Suits),4,10,26
+Pink & Cocoa Rainbow (6 Suits),2,16,145
+Pink & Cocoa Rainbow (6 Suits),3,3,5
+Pink & Cocoa Rainbow (6 Suits),4,12,14
+Pink & Dark Brown (5 Suits),2,20,40
+Pink & Dark Brown (5 Suits),3,18,45
+Pink & Dark Brown (5 Suits),4,6,30
+Pink & Dark Brown (6 Suits),2,12,89
+Pink & Dark Brown (6 Suits),3,16,43
+Pink & Dark Brown (6 Suits),4,8,17
+Pink & Dark Null (5 Suits),2,8,116
+Pink & Dark Null (6 Suits),2,6,162
+Pink & Dark Omni (5 Suits),2,16,157
+Pink & Dark Omni (5 Suits),3,4,26
+Pink & Dark Omni (5 Suits),4,1,10
+Pink & Dark Omni (6 Suits),2,13,185
+Pink & Dark Omni (6 Suits),3,9,24
+Pink & Dark Omni (6 Suits),4,13,49
+Pink & Dark Omni (6 Suits),5,5,57
+Pink & Dark Prism (5 Suits),2,15,130
+Pink & Dark Prism (5 Suits),3,8,47
+Pink & Dark Prism (5 Suits),4,5,33
+Pink & Dark Prism (6 Suits),2,12,121
+Pink & Dark Prism (6 Suits),3,16,57
+Pink & Dark Prism (6 Suits),4,5,32
+Pink & Dark Prism (6 Suits),5,7,18
+Pink & Dark Prism (6 Suits),6,4,4
+Pink & Dark Rainbow (5 Suits),2,21,55
+Pink & Dark Rainbow (5 Suits),3,20,99
+Pink & Dark Rainbow (5 Suits),4,16,102
+Pink & Dark Rainbow (6 Suits),2,17,204
+Pink & Dark Rainbow (6 Suits),3,18,84
+Pink & Dark Rainbow (6 Suits),4,18,76
+Pink & Dark Rainbow (6 Suits),5,5,10
+Pink & Gray (5 Suits),2,19,126
+Pink & Gray (5 Suits),3,20,60
+Pink & Gray (5 Suits),4,12,44
+Pink & Gray (6 Suits),2,20,280
+Pink & Gray (6 Suits),3,18,73
+Pink & Gray (6 Suits),4,4,20
+Pink & Gray (6 Suits),5,5,11
+Pink & Gray (6 Suits),6,6,12
+Pink & Gray Pink (5 Suits),2,10,62
+Pink & Gray Pink (5 Suits),3,2,8
+Pink & Gray Pink (5 Suits),4,4,13
+Pink & Gray Pink (6 Suits),2,10,60
+Pink & Gray Pink (6 Suits),3,9,84
+Pink & Gray Pink (6 Suits),4,4,24
+Pink & Light Pink (3 Suits),2,17,61
+Pink & Light Pink (3 Suits),3,6,15
+Pink & Light Pink (4 Suits),2,19,78
+Pink & Light Pink (4 Suits),3,9,29
+Pink & Light Pink (4 Suits),4,12,36
+Pink & Light Pink (5 Suits),2,21,60
+Pink & Light Pink (5 Suits),3,18,49
+Pink & Light Pink (5 Suits),4,14,42
+Pink & Light Pink (5 Suits),5,10,39
+Pink & Light Pink (5 Suits),6,6,6
+Pink & Light Pink (6 Suits),2,20,54
+Pink & Light Pink (6 Suits),3,14,34
+Pink & Light Pink (6 Suits),4,24,53
+Pink & Light Pink (6 Suits),5,10,17
+Pink & Muddy Rainbow (3 Suits),2,20,81
+Pink & Muddy Rainbow (3 Suits),3,3,9
+Pink & Muddy Rainbow (4 Suits),2,19,52
+Pink & Muddy Rainbow (4 Suits),3,11,12
+Pink & Muddy Rainbow (4 Suits),4,8,12
+Pink & Muddy Rainbow (5 Suits),2,24,105
+Pink & Muddy Rainbow (5 Suits),3,21,59
+Pink & Muddy Rainbow (5 Suits),4,21,47
+Pink & Muddy Rainbow (5 Suits),5,18,24
+Pink & Muddy Rainbow (5 Suits),6,6,6
+Pink & Muddy Rainbow (6 Suits),2,21,91
+Pink & Muddy Rainbow (6 Suits),3,18,77
+Pink & Muddy Rainbow (6 Suits),4,23,58
+Pink & Muddy Rainbow (6 Suits),5,25,73
+Pink & Null (3 Suits),2,16,50
+Pink & Null (3 Suits),3,6,35
+Pink & Null (3 Suits),4,9,15
+Pink & Null (4 Suits),2,15,31
+Pink & Null (4 Suits),3,8,21
+Pink & Null (4 Suits),4,4,4
+Pink & Null (5 Suits),2,13,125
+Pink & Null (5 Suits),3,13,35
+Pink & Null (5 Suits),4,12,23
+Pink & Null (6 Suits),2,13,89
+Pink & Null (6 Suits),3,11,51
+Pink & Null (6 Suits),4,12,31
+Pink & Omni (3 Suits),2,21,135
+Pink & Omni (3 Suits),3,9,29
+Pink & Omni (3 Suits),4,3,12
+Pink & Omni (4 Suits),2,22,67
+Pink & Omni (4 Suits),3,17,50
+Pink & Omni (4 Suits),4,13,108
+Pink & Omni (4 Suits),5,5,21
+Pink & Omni (5 Suits),2,28,148
+Pink & Omni (5 Suits),3,24,75
+Pink & Omni (5 Suits),4,16,46
+Pink & Omni (5 Suits),5,9,48
+Pink & Omni (5 Suits),6,6,8
+Pink & Omni (6 Suits),2,25,178
+Pink & Omni (6 Suits),3,19,62
+Pink & Omni (6 Suits),4,20,82
+Pink & Omni (6 Suits),5,15,33
+Pink & Prism (3 Suits),2,25,61
+Pink & Prism (3 Suits),3,9,15
+Pink & Prism (3 Suits),4,3,10
+Pink & Prism (4 Suits),2,26,123
+Pink & Prism (4 Suits),3,22,35
+Pink & Prism (4 Suits),4,13,19
+Pink & Prism (5 Suits),2,28,107
+Pink & Prism (5 Suits),3,23,74
+Pink & Prism (5 Suits),4,23,74
+Pink & Prism (5 Suits),5,21,39
+Pink & Prism (5 Suits),6,9,9
+Pink & Prism (6 Suits),2,27,92
+Pink & Prism (6 Suits),3,27,68
+Pink & Prism (6 Suits),4,28,59
+Pink & Prism (6 Suits),5,14,52
+Pink & Prism (6 Suits),6,5,5
+Pink & White (3 Suits),2,29,49
+Pink & White (3 Suits),3,23,57
+Pink & White (3 Suits),4,11,43
+Pink & White (4 Suits),2,31,82
+Pink & White (4 Suits),3,23,86
+Pink & White (4 Suits),4,31,86
+Pink & White (5 Suits),2,32,126
+Pink & White (5 Suits),3,43,96
+Pink & White (5 Suits),4,39,76
+Pink & White (5 Suits),5,24,79
+Pink & White (5 Suits),6,6,12
+Pink & White (6 Suits),2,34,147
+Pink & White (6 Suits),3,42,70
+Pink & White (6 Suits),4,34,76
+Pink & White (6 Suits),5,24,47
+Pink & White (6 Suits),6,6,35
+Pink (3 Suits),2,66,194
+Pink (3 Suits),3,61,243
+Pink (3 Suits),4,41,133
+Pink (3 Suits),6,5,5
+Pink (4 Suits),2,67,215
+Pink (4 Suits),3,77,137
+Pink (4 Suits),4,61,153
+Pink (4 Suits),5,34,135
+Pink (4 Suits),6,13,27
+Pink (5 Suits),2,79,205
+Pink (5 Suits),3,89,315
+Pink (5 Suits),4,74,202
+Pink (5 Suits),5,63,177
+Pink (5 Suits),6,24,46
+Pink (6 Suits),2,74,418
+Pink (6 Suits),3,78,278
+Pink (6 Suits),4,73,193
+Pink (6 Suits),5,55,150
+Pink (6 Suits),6,36,96
+Pink-Fives & Black (5 Suits),2,4,20
+Pink-Fives & Black (5 Suits),3,1,1
+Pink-Fives & Black (5 Suits),4,3,9
+Pink-Fives & Black (6 Suits),2,6,49
+Pink-Fives & Black (6 Suits),4,6,15
+Pink-Fives & Brown (3 Suits),2,2,4
+Pink-Fives & Brown (4 Suits),2,2,2
+Pink-Fives & Brown (4 Suits),3,5,10
+Pink-Fives & Brown (5 Suits),2,8,10
+Pink-Fives & Brown (5 Suits),3,6,6
+Pink-Fives & Brown (5 Suits),4,8,20
+Pink-Fives & Brown (6 Suits),2,4,8
+Pink-Fives & Brown (6 Suits),3,3,3
+Pink-Fives & Brown (6 Suits),4,3,3
+Pink-Fives & Brown (6 Suits),5,2,2
+Pink-Fives & Cocoa Rainbow (5 Suits),2,2,10
+Pink-Fives & Dark Brown (5 Suits),2,2,6
+Pink-Fives & Dark Brown (5 Suits),4,1,1
+Pink-Fives & Dark Brown (6 Suits),2,2,50
+Pink-Fives & Dark Null (5 Suits),2,2,46
+Pink-Fives & Dark Omni (6 Suits),2,2,4
+Pink-Fives & Dark Omni (6 Suits),4,1,10
+Pink-Fives & Dark Pink (5 Suits),3,3,6
+Pink-Fives & Dark Pink (6 Suits),4,1,1
+Pink-Fives & Gray (5 Suits),2,6,18
+Pink-Fives & Gray (5 Suits),3,2,2
+Pink-Fives & Gray (6 Suits),2,2,12
+Pink-Fives & Gray (6 Suits),3,2,2
+Pink-Fives & Gray (6 Suits),4,3,21
+Pink-Fives & Gray Pink (6 Suits),2,2,8
+Pink-Fives & Light Pink (4 Suits),2,2,6
+Pink-Fives & Light Pink (4 Suits),4,4,8
+Pink-Fives & Light Pink (5 Suits),3,2,2
+Pink-Fives & Light Pink (6 Suits),2,2,9
+Pink-Fives & Light Pink (6 Suits),4,3,3
+Pink-Fives & Light Pink (6 Suits),5,4,16
+Pink-Fives & Muddy Rainbow (4 Suits),2,2,2
+Pink-Fives & Muddy Rainbow (6 Suits),2,2,2
+Pink-Fives & Null (3 Suits),2,1,1
+Pink-Fives & Omni (6 Suits),3,6,10
+Pink-Fives & Pink (6 Suits),2,2,6
+Pink-Fives & Prism (3 Suits),2,4,10
+Pink-Fives & Prism (4 Suits),2,2,10
+Pink-Fives & Prism (5 Suits),2,1,4
+Pink-Fives & Prism (5 Suits),3,2,3
+Pink-Fives & Prism (5 Suits),4,1,1
+Pink-Fives & Prism (5 Suits),5,5,9
+Pink-Fives & Prism (6 Suits),3,3,3
+Pink-Fives & Rainbow (3 Suits),2,8,19
+Pink-Fives & Rainbow (3 Suits),3,6,37
+Pink-Fives & Rainbow (4 Suits),2,9,23
+Pink-Fives & Rainbow (4 Suits),3,6,6
+Pink-Fives & Rainbow (4 Suits),4,5,8
+Pink-Fives & Rainbow (5 Suits),2,13,16
+Pink-Fives & Rainbow (5 Suits),3,9,14
+Pink-Fives & Rainbow (5 Suits),4,2,6
+Pink-Fives & Rainbow (6 Suits),2,9,35
+Pink-Fives & Rainbow (6 Suits),3,7,18
+Pink-Fives & Rainbow (6 Suits),4,3,5
+Pink-Fives & Rainbow (6 Suits),5,5,5
+Pink-Fives & White (3 Suits),2,2,2
+Pink-Fives & White (4 Suits),2,4,8
+Pink-Fives & White (5 Suits),2,2,12
+Pink-Fives & White (5 Suits),3,5,6
+Pink-Fives & White (6 Suits),2,4,32
+Pink-Fives & White (6 Suits),3,8,23
+Pink-Fives & White (6 Suits),4,7,18
+Pink-Fives (3 Suits),2,18,21
+Pink-Fives (3 Suits),3,9,27
+Pink-Fives (3 Suits),4,7,25
+Pink-Fives (4 Suits),2,20,52
+Pink-Fives (4 Suits),3,13,20
+Pink-Fives (4 Suits),4,7,9
+Pink-Fives (4 Suits),6,6,6
+Pink-Fives (5 Suits),2,18,94
+Pink-Fives (5 Suits),3,13,38
+Pink-Fives (5 Suits),4,13,36
+Pink-Fives (5 Suits),5,4,4
+Pink-Fives (6 Suits),2,13,32
+Pink-Fives (6 Suits),3,9,18
+Pink-Fives (6 Suits),4,9,23
+Pink-Fives (6 Suits),5,11,25
+Pink-Fives (6 Suits),6,4,4
+Pink-Ones & Black (5 Suits),2,3,24
+Pink-Ones & Black (5 Suits),4,4,29
+Pink-Ones & Black (6 Suits),2,6,36
+Pink-Ones & Black (6 Suits),3,3,4
+Pink-Ones & Brown (3 Suits),2,6,6
+Pink-Ones & Brown (4 Suits),2,9,22
+Pink-Ones & Brown (4 Suits),3,5,8
+Pink-Ones & Brown (4 Suits),4,8,12
+Pink-Ones & Brown (5 Suits),2,8,33
+Pink-Ones & Brown (5 Suits),3,6,12
+Pink-Ones & Brown (5 Suits),4,8,17
+Pink-Ones & Brown (5 Suits),5,9,9
+Pink-Ones & Brown (5 Suits),6,4,4
+Pink-Ones & Brown (6 Suits),2,8,46
+Pink-Ones & Brown (6 Suits),3,3,3
+Pink-Ones & Brown (6 Suits),4,10,14
+Pink-Ones & Brown (6 Suits),5,10,16
+Pink-Ones & Cocoa Rainbow (5 Suits),2,2,12
+Pink-Ones & Cocoa Rainbow (5 Suits),3,2,4
+Pink-Ones & Cocoa Rainbow (6 Suits),2,2,4
+Pink-Ones & Dark Brown (6 Suits),2,2,18
+Pink-Ones & Dark Brown (6 Suits),3,3,3
+Pink-Ones & Dark Brown (6 Suits),4,3,5
+Pink-Ones & Dark Brown (6 Suits),5,5,10
+Pink-Ones & Dark Omni (5 Suits),3,6,6
+Pink-Ones & Dark Omni (6 Suits),3,3,3
+Pink-Ones & Dark Omni (6 Suits),4,3,16
+Pink-Ones & Dark Pink (6 Suits),2,2,4
+Pink-Ones & Dark Prism (5 Suits),2,2,17
+Pink-Ones & Dark Prism (6 Suits),3,3,6
+Pink-Ones & Dark Prism (6 Suits),4,1,3
+Pink-Ones & Dark Rainbow (5 Suits),2,4,24
+Pink-Ones & Dark Rainbow (5 Suits),4,3,3
+Pink-Ones & Dark Rainbow (6 Suits),2,2,10
+Pink-Ones & Gray (5 Suits),2,2,6
+Pink-Ones & Gray (5 Suits),3,5,25
+Pink-Ones & Gray (6 Suits),3,1,8
+Pink-Ones & Gray Pink (6 Suits),2,2,90
+Pink-Ones & Gray Pink (6 Suits),4,4,4
+Pink-Ones & Light Pink (3 Suits),2,4,12
+Pink-Ones & Light Pink (4 Suits),3,4,12
+Pink-Ones & Light Pink (5 Suits),2,4,20
+Pink-Ones & Light Pink (6 Suits),2,4,8
+Pink-Ones & Light Pink (6 Suits),4,3,9
+Pink-Ones & Muddy Rainbow (3 Suits),2,4,14
+Pink-Ones & Muddy Rainbow (4 Suits),3,5,5
+Pink-Ones & Muddy Rainbow (5 Suits),2,2,2
+Pink-Ones & Muddy Rainbow (6 Suits),2,4,20
+Pink-Ones & Muddy Rainbow (6 Suits),4,5,10
+Pink-Ones & Null (5 Suits),2,2,8
+Pink-Ones & Omni (3 Suits),2,1,8
+Pink-Ones & Omni (4 Suits),3,3,3
+Pink-Ones & Omni (5 Suits),2,4,6
+Pink-Ones & Omni (5 Suits),3,3,6
+Pink-Ones & Omni (5 Suits),4,3,5
+Pink-Ones & Omni (5 Suits),5,4,8
+Pink-Ones & Omni (6 Suits),2,2,18
+Pink-Ones & Pink (3 Suits),2,6,16
+Pink-Ones & Pink (4 Suits),2,6,20
+Pink-Ones & Pink (5 Suits),2,6,24
+Pink-Ones & Pink (5 Suits),3,3,6
+Pink-Ones & Pink (5 Suits),4,3,3
+Pink-Ones & Pink (6 Suits),2,6,19
+Pink-Ones & Pink (6 Suits),4,4,8
+Pink-Ones & Prism (3 Suits),2,6,10
+Pink-Ones & Prism (4 Suits),2,7,20
+Pink-Ones & Prism (4 Suits),3,1,1
+Pink-Ones & Prism (4 Suits),4,5,8
+Pink-Ones & Prism (5 Suits),2,9,22
+Pink-Ones & Prism (5 Suits),3,3,3
+Pink-Ones & Prism (6 Suits),2,8,26
+Pink-Ones & Prism (6 Suits),3,3,5
+Pink-Ones & Rainbow (3 Suits),2,12,12
+Pink-Ones & Rainbow (3 Suits),3,3,15
+Pink-Ones & Rainbow (3 Suits),4,3,3
+Pink-Ones & Rainbow (4 Suits),2,10,22
+Pink-Ones & Rainbow (4 Suits),3,3,3
+Pink-Ones & Rainbow (4 Suits),4,4,5
+Pink-Ones & Rainbow (5 Suits),2,9,11
+Pink-Ones & Rainbow (5 Suits),3,1,1
+Pink-Ones & Rainbow (5 Suits),4,4,4
+Pink-Ones & Rainbow (6 Suits),2,6,23
+Pink-Ones & Rainbow (6 Suits),3,2,2
+Pink-Ones & Rainbow (6 Suits),4,5,7
+Pink-Ones & White (3 Suits),2,8,18
+Pink-Ones & White (3 Suits),3,5,5
+Pink-Ones & White (4 Suits),2,8,14
+Pink-Ones & White (4 Suits),4,3,3
+Pink-Ones & White (5 Suits),2,11,21
+Pink-Ones & White (5 Suits),3,4,8
+Pink-Ones & White (5 Suits),4,8,18
+Pink-Ones & White (5 Suits),5,7,9
+Pink-Ones & White (6 Suits),2,8,24
+Pink-Ones & White (6 Suits),3,3,3
+Pink-Ones & White (6 Suits),4,4,12
+Pink-Ones & White (6 Suits),5,3,6
+Pink-Ones (3 Suits),2,15,23
+Pink-Ones (4 Suits),2,12,14
+Pink-Ones (4 Suits),3,12,23
+Pink-Ones (4 Suits),4,7,10
+Pink-Ones (5 Suits),2,13,25
+Pink-Ones (5 Suits),3,11,27
+Pink-Ones (5 Suits),4,20,26
+Pink-Ones (5 Suits),5,13,27
+Pink-Ones (6 Suits),2,11,70
+Pink-Ones (6 Suits),3,9,17
+Pink-Ones (6 Suits),4,10,22
+Pink-Ones (6 Suits),5,18,39
+Pink-Ones (6 Suits),6,3,4
+Prism & Cocoa Rainbow (5 Suits),2,6,54
+Prism & Cocoa Rainbow (5 Suits),3,3,6
+Prism & Cocoa Rainbow (5 Suits),4,4,8
+Prism & Cocoa Rainbow (6 Suits),2,8,61
+Prism & Cocoa Rainbow (6 Suits),3,3,3
+Prism & Cocoa Rainbow (6 Suits),4,4,4
+Prism & Dark Brown (5 Suits),2,9,97
+Prism & Dark Brown (5 Suits),3,3,25
+Prism & Dark Brown (5 Suits),4,5,17
+Prism & Dark Brown (6 Suits),2,12,60
+Prism & Dark Brown (6 Suits),3,4,9
+Prism & Dark Brown (6 Suits),4,8,15
+Prism & Dark Null (6 Suits),2,2,14
+Prism & Dark Omni (5 Suits),2,6,53
+Prism & Dark Omni (5 Suits),3,3,12
+Prism & Dark Omni (6 Suits),2,6,52
+Prism & Dark Omni (6 Suits),3,1,1
+Prism & Dark Omni (6 Suits),4,1,15
+Prism & Dark Omni (6 Suits),5,5,39
+Prism & Dark Pink (5 Suits),2,11,53
+Prism & Dark Pink (5 Suits),3,3,14
+Prism & Dark Pink (5 Suits),4,4,4
+Prism & Dark Pink (6 Suits),2,10,55
+Prism & Dark Pink (6 Suits),3,7,11
+Prism & Dark Pink (6 Suits),4,8,22
+Prism & Dark Rainbow (5 Suits),2,8,41
+Prism & Dark Rainbow (5 Suits),3,3,16
+Prism & Dark Rainbow (5 Suits),4,3,8
+Prism & Dark Rainbow (6 Suits),2,9,110
+Prism & Dark Rainbow (6 Suits),3,1,2
+Prism & Dark Rainbow (6 Suits),4,5,9
+Prism & Dark Rainbow (6 Suits),5,9,16
+Prism & Gray (5 Suits),2,11,135
+Prism & Gray (5 Suits),3,3,17
+Prism & Gray (5 Suits),4,8,13
+Prism & Gray (6 Suits),2,10,125
+Prism & Gray (6 Suits),3,5,21
+Prism & Gray (6 Suits),4,10,19
+Prism & Gray (6 Suits),5,4,4
+Prism & Gray Pink (5 Suits),2,12,48
+Prism & Gray Pink (5 Suits),3,3,3
+Prism & Gray Pink (5 Suits),4,4,12
+Prism & Gray Pink (6 Suits),2,6,26
+Prism & Gray Pink (6 Suits),3,6,11
+Prism & Gray Pink (6 Suits),4,4,10
+Prism (3 Suits),2,56,106
+Prism (3 Suits),3,50,105
+Prism (3 Suits),4,31,108
+Prism (4 Suits),2,58,118
+Prism (4 Suits),3,72,150
+Prism (4 Suits),4,64,100
+Prism (4 Suits),5,20,39
+Prism (4 Suits),6,10,10
+Prism (5 Suits),2,63,140
+Prism (5 Suits),3,87,202
+Prism (5 Suits),4,79,169
+Prism (5 Suits),5,54,181
+Prism (5 Suits),6,21,57
+Prism (6 Suits),2,61,219
+Prism (6 Suits),3,85,246
+Prism (6 Suits),4,71,203
+Prism (6 Suits),5,42,180
+Prism (6 Suits),6,32,59
+Prism Reversed (3 Suits),2,13,27
+Prism Reversed (3 Suits),3,3,10
+Prism Reversed (3 Suits),4,4,8
+Prism Reversed (4 Suits),2,12,50
+Prism Reversed (4 Suits),3,9,17
+Prism Reversed (4 Suits),4,12,31
+Prism Reversed (5 Suits),2,16,26
+Prism Reversed (5 Suits),3,18,31
+Prism Reversed (5 Suits),4,18,55
+Prism Reversed (5 Suits),5,19,42
+Prism Reversed (5 Suits),6,4,14
+Prism Reversed (6 Suits),2,13,61
+Prism Reversed (6 Suits),3,14,37
+Prism Reversed (6 Suits),4,22,31
+Prism Reversed (6 Suits),5,12,31
+Prism Reversed (6 Suits),6,5,9
+Rainbow & Brown (3 Suits),2,32,136
+Rainbow & Brown (3 Suits),3,12,39
+Rainbow & Brown (3 Suits),4,11,59
+Rainbow & Brown (4 Suits),2,39,127
+Rainbow & Brown (4 Suits),3,28,66
+Rainbow & Brown (4 Suits),4,31,60
+Rainbow & Brown (4 Suits),5,4,4
+Rainbow & Brown (5 Suits),2,39,209
+Rainbow & Brown (5 Suits),3,53,132
+Rainbow & Brown (5 Suits),4,40,86
+Rainbow & Brown (5 Suits),5,25,88
+Rainbow & Brown (5 Suits),6,15,30
+Rainbow & Brown (6 Suits),2,37,102
+Rainbow & Brown (6 Suits),3,47,179
+Rainbow & Brown (6 Suits),4,35,109
+Rainbow & Brown (6 Suits),5,30,77
+Rainbow & Brown (6 Suits),6,20,55
+Rainbow & Cocoa Rainbow (5 Suits),2,13,121
+Rainbow & Cocoa Rainbow (5 Suits),3,6,26
+Rainbow & Cocoa Rainbow (5 Suits),4,4,4
+Rainbow & Cocoa Rainbow (6 Suits),2,14,234
+Rainbow & Cocoa Rainbow (6 Suits),3,11,52
+Rainbow & Cocoa Rainbow (6 Suits),4,15,80
+Rainbow & Cocoa Rainbow (6 Suits),5,5,6
+Rainbow & Dark Brown (5 Suits),2,17,211
+Rainbow & Dark Brown (5 Suits),3,15,151
+Rainbow & Dark Brown (5 Suits),4,14,65
+Rainbow & Dark Brown (5 Suits),5,5,5
+Rainbow & Dark Brown (5 Suits),6,5,11
+Rainbow & Dark Brown (6 Suits),2,18,261
+Rainbow & Dark Brown (6 Suits),3,21,71
+Rainbow & Dark Brown (6 Suits),4,20,45
+Rainbow & Dark Brown (6 Suits),5,4,26
+Rainbow & Dark Null (5 Suits),2,10,64
+Rainbow & Dark Null (5 Suits),3,3,49
+Rainbow & Dark Null (6 Suits),2,10,174
+Rainbow & Dark Null (6 Suits),3,3,27
+Rainbow & Dark Omni (5 Suits),2,20,103
+Rainbow & Dark Omni (5 Suits),3,15,66
+Rainbow & Dark Omni (5 Suits),4,5,24
+Rainbow & Dark Omni (6 Suits),2,16,109
+Rainbow & Dark Omni (6 Suits),3,20,57
+Rainbow & Dark Omni (6 Suits),4,15,43
+Rainbow & Dark Omni (6 Suits),5,5,11
+Rainbow & Dark Pink (5 Suits),2,23,210
+Rainbow & Dark Pink (5 Suits),3,25,102
+Rainbow & Dark Pink (5 Suits),4,15,88
+Rainbow & Dark Pink (6 Suits),2,19,182
+Rainbow & Dark Pink (6 Suits),3,23,83
+Rainbow & Dark Pink (6 Suits),4,25,37
+Rainbow & Dark Pink (6 Suits),5,5,8
+Rainbow & Dark Prism (5 Suits),2,17,54
+Rainbow & Dark Prism (5 Suits),3,16,93
+Rainbow & Dark Prism (5 Suits),4,15,45
+Rainbow & Dark Prism (6 Suits),2,14,132
+Rainbow & Dark Prism (6 Suits),3,14,34
+Rainbow & Dark Prism (6 Suits),4,13,34
+Rainbow & Dark Prism (6 Suits),5,5,11
+Rainbow & Gray (5 Suits),2,25,140
+Rainbow & Gray (5 Suits),3,21,116
+Rainbow & Gray (5 Suits),4,24,129
+Rainbow & Gray (6 Suits),2,25,257
+Rainbow & Gray (6 Suits),3,22,113
+Rainbow & Gray (6 Suits),4,25,95
+Rainbow & Gray (6 Suits),5,2,36
+Rainbow & Gray Pink (5 Suits),2,14,77
+Rainbow & Gray Pink (5 Suits),3,15,63
+Rainbow & Gray Pink (5 Suits),4,13,22
+Rainbow & Gray Pink (6 Suits),2,16,107
+Rainbow & Gray Pink (6 Suits),3,17,59
+Rainbow & Gray Pink (6 Suits),4,11,39
+Rainbow & Gray Pink (6 Suits),5,5,6
+Rainbow & Light Pink (3 Suits),2,19,48
+Rainbow & Light Pink (3 Suits),3,6,12
+Rainbow & Light Pink (3 Suits),4,4,12
+Rainbow & Light Pink (4 Suits),2,26,50
+Rainbow & Light Pink (4 Suits),3,17,56
+Rainbow & Light Pink (4 Suits),4,11,24
+Rainbow & Light Pink (4 Suits),5,5,9
+Rainbow & Light Pink (5 Suits),2,29,70
+Rainbow & Light Pink (5 Suits),3,27,75
+Rainbow & Light Pink (5 Suits),4,27,63
+Rainbow & Light Pink (5 Suits),5,20,63
+Rainbow & Light Pink (6 Suits),2,26,162
+Rainbow & Light Pink (6 Suits),3,20,30
+Rainbow & Light Pink (6 Suits),4,16,41
+Rainbow & Light Pink (6 Suits),5,18,37
+Rainbow & Light Pink (6 Suits),6,11,12
+Rainbow & Muddy Rainbow (3 Suits),2,19,84
+Rainbow & Muddy Rainbow (3 Suits),3,3,10
+Rainbow & Muddy Rainbow (4 Suits),2,18,41
+Rainbow & Muddy Rainbow (4 Suits),3,18,49
+Rainbow & Muddy Rainbow (4 Suits),4,10,23
+Rainbow & Muddy Rainbow (5 Suits),2,21,27
+Rainbow & Muddy Rainbow (5 Suits),3,24,46
+Rainbow & Muddy Rainbow (5 Suits),4,32,61
+Rainbow & Muddy Rainbow (5 Suits),5,10,26
+Rainbow & Muddy Rainbow (6 Suits),2,19,57
+Rainbow & Muddy Rainbow (6 Suits),3,20,52
+Rainbow & Muddy Rainbow (6 Suits),4,20,55
+Rainbow & Muddy Rainbow (6 Suits),5,15,38
+Rainbow & Muddy Rainbow (6 Suits),6,4,4
+Rainbow & Null (3 Suits),2,17,78
+Rainbow & Null (3 Suits),3,8,62
+Rainbow & Null (4 Suits),2,10,38
+Rainbow & Null (4 Suits),3,10,37
+Rainbow & Null (4 Suits),4,4,12
+Rainbow & Null (5 Suits),2,12,85
+Rainbow & Null (5 Suits),3,14,23
+Rainbow & Null (5 Suits),4,11,30
+Rainbow & Null (6 Suits),2,12,114
+Rainbow & Null (6 Suits),3,14,53
+Rainbow & Null (6 Suits),4,9,49
+Rainbow & Null (6 Suits),5,5,23
+Rainbow & Omni (3 Suits),2,25,95
+Rainbow & Omni (3 Suits),3,8,22
+Rainbow & Omni (3 Suits),4,5,16
+Rainbow & Omni (4 Suits),2,26,55
+Rainbow & Omni (4 Suits),3,23,34
+Rainbow & Omni (4 Suits),4,15,42
+Rainbow & Omni (5 Suits),2,26,93
+Rainbow & Omni (5 Suits),3,25,78
+Rainbow & Omni (5 Suits),4,23,66
+Rainbow & Omni (5 Suits),5,18,41
+Rainbow & Omni (5 Suits),6,6,6
+Rainbow & Omni (6 Suits),2,30,173
+Rainbow & Omni (6 Suits),3,29,77
+Rainbow & Omni (6 Suits),4,19,73
+Rainbow & Omni (6 Suits),5,15,75
+Rainbow & Pink (3 Suits),2,37,95
+Rainbow & Pink (3 Suits),3,21,111
+Rainbow & Pink (3 Suits),4,7,36
+Rainbow & Pink (4 Suits),2,38,75
+Rainbow & Pink (4 Suits),3,46,106
+Rainbow & Pink (4 Suits),4,33,61
+Rainbow & Pink (4 Suits),5,9,17
+Rainbow & Pink (4 Suits),6,5,7
+Rainbow & Pink (5 Suits),2,42,81
+Rainbow & Pink (5 Suits),3,45,110
+Rainbow & Pink (5 Suits),4,39,125
+Rainbow & Pink (5 Suits),5,28,116
+Rainbow & Pink (5 Suits),6,17,53
+Rainbow & Pink (6 Suits),2,39,177
+Rainbow & Pink (6 Suits),3,37,134
+Rainbow & Pink (6 Suits),4,35,92
+Rainbow & Pink (6 Suits),5,34,90
+Rainbow & Pink (6 Suits),6,15,34
+Rainbow & Prism (3 Suits),2,27,42
+Rainbow & Prism (3 Suits),3,14,61
+Rainbow & Prism (3 Suits),4,4,8
+Rainbow & Prism (4 Suits),2,31,121
+Rainbow & Prism (4 Suits),3,35,70
+Rainbow & Prism (4 Suits),4,32,61
+Rainbow & Prism (4 Suits),5,9,27
+Rainbow & Prism (5 Suits),2,35,62
+Rainbow & Prism (5 Suits),3,47,97
+Rainbow & Prism (5 Suits),4,37,109
+Rainbow & Prism (5 Suits),5,15,38
+Rainbow & Prism (5 Suits),6,11,19
+Rainbow & Prism (6 Suits),2,32,78
+Rainbow & Prism (6 Suits),3,48,111
+Rainbow & Prism (6 Suits),4,34,75
+Rainbow & Prism (6 Suits),5,25,48
+Rainbow & Prism (6 Suits),6,23,26
+Rainbow & White (3 Suits),2,38,53
+Rainbow & White (3 Suits),3,23,108
+Rainbow & White (3 Suits),4,15,46
+Rainbow & White (4 Suits),2,39,72
+Rainbow & White (4 Suits),3,48,65
+Rainbow & White (4 Suits),4,43,93
+Rainbow & White (4 Suits),5,7,20
+Rainbow & White (4 Suits),6,4,8
+Rainbow & White (5 Suits),2,48,93
+Rainbow & White (5 Suits),3,58,160
+Rainbow & White (5 Suits),4,55,144
+Rainbow & White (5 Suits),5,39,127
+Rainbow & White (5 Suits),6,16,19
+Rainbow & White (6 Suits),2,43,180
+Rainbow & White (6 Suits),3,55,148
+Rainbow & White (6 Suits),4,46,151
+Rainbow & White (6 Suits),5,40,78
+Rainbow & White (6 Suits),6,21,35
+Rainbow (3 Suits),2,81,140
+Rainbow (3 Suits),3,65,267
+Rainbow (3 Suits),4,53,165
+Rainbow (4 Suits),2,76,127
+Rainbow (4 Suits),3,89,299
+Rainbow (4 Suits),4,78,237
+Rainbow (4 Suits),5,44,183
+Rainbow (4 Suits),6,21,41
+Rainbow (5 Suits),2,82,227
+Rainbow (5 Suits),3,100,381
+Rainbow (5 Suits),4,99,388
+Rainbow (5 Suits),5,79,334
+Rainbow (5 Suits),6,52,220
+Rainbow (6 Suits),2,89,442
+Rainbow (6 Suits),3,107,486
+Rainbow (6 Suits),4,102,533
+Rainbow (6 Suits),5,86,439
+Rainbow (6 Suits),6,60,175
+Rainbow Reversed (3 Suits),2,13,24
+Rainbow Reversed (3 Suits),3,7,19
+Rainbow Reversed (3 Suits),4,6,18
+Rainbow Reversed (4 Suits),2,17,35
+Rainbow Reversed (4 Suits),3,10,22
+Rainbow Reversed (4 Suits),4,10,13
+Rainbow Reversed (5 Suits),2,18,53
+Rainbow Reversed (5 Suits),3,13,38
+Rainbow Reversed (5 Suits),4,22,44
+Rainbow Reversed (5 Suits),5,8,10
+Rainbow Reversed (5 Suits),6,5,24
+Rainbow Reversed (6 Suits),2,18,23
+Rainbow Reversed (6 Suits),3,10,47
+Rainbow Reversed (6 Suits),4,15,45
+Rainbow Reversed (6 Suits),5,19,23
+Rainbow Reversed (6 Suits),6,6,7
+Rainbow-Fives & Black (5 Suits),2,2,4
+Rainbow-Fives & Black (6 Suits),2,6,22
+Rainbow-Fives & Black (6 Suits),4,7,24
+Rainbow-Fives & Black (6 Suits),5,5,5
+Rainbow-Fives & Brown (3 Suits),2,6,12
+Rainbow-Fives & Brown (4 Suits),2,4,8
+Rainbow-Fives & Brown (4 Suits),4,2,12
+Rainbow-Fives & Brown (5 Suits),2,5,12
+Rainbow-Fives & Brown (5 Suits),3,3,4
+Rainbow-Fives & Brown (5 Suits),4,3,3
+Rainbow-Fives & Brown (5 Suits),5,4,11
+Rainbow-Fives & Brown (6 Suits),2,7,27
+Rainbow-Fives & Brown (6 Suits),3,5,14
+Rainbow-Fives & Brown (6 Suits),4,5,5
+Rainbow-Fives & Brown (6 Suits),5,2,6
+Rainbow-Fives & Cocoa Rainbow (6 Suits),2,1,4
+Rainbow-Fives & Cocoa Rainbow (6 Suits),4,1,2
+Rainbow-Fives & Dark Brown (5 Suits),2,1,1
+Rainbow-Fives & Dark Brown (6 Suits),2,2,2
+Rainbow-Fives & Dark Brown (6 Suits),3,2,8
+Rainbow-Fives & Dark Brown (6 Suits),4,4,18
+Rainbow-Fives & Dark Pink (5 Suits),2,2,12
+Rainbow-Fives & Dark Prism (5 Suits),2,2,14
+Rainbow-Fives & Dark Prism (6 Suits),3,5,17
+Rainbow-Fives & Dark Rainbow (5 Suits),2,3,15
+Rainbow-Fives & Dark Rainbow (6 Suits),2,2,18
+Rainbow-Fives & Gray (5 Suits),2,2,4
+Rainbow-Fives & Gray (5 Suits),4,4,4
+Rainbow-Fives & Gray Pink (5 Suits),2,4,10
+Rainbow-Fives & Light Pink (3 Suits),4,3,15
+Rainbow-Fives & Light Pink (5 Suits),2,2,2
+Rainbow-Fives & Light Pink (5 Suits),3,1,2
+Rainbow-Fives & Light Pink (5 Suits),4,4,24
+Rainbow-Fives & Light Pink (5 Suits),5,4,5
+Rainbow-Fives & Light Pink (5 Suits),6,5,5
+Rainbow-Fives & Light Pink (6 Suits),2,3,8
+Rainbow-Fives & Light Pink (6 Suits),3,1,2
+Rainbow-Fives & Muddy Rainbow (4 Suits),2,4,16
+Rainbow-Fives & Muddy Rainbow (5 Suits),2,2,8
+Rainbow-Fives & Muddy Rainbow (5 Suits),4,3,3
+Rainbow-Fives & Muddy Rainbow (6 Suits),2,2,2
+Rainbow-Fives & Null (3 Suits),2,1,1
+Rainbow-Fives & Null (5 Suits),2,1,2
+Rainbow-Fives & Null (5 Suits),3,3,3
+Rainbow-Fives & Omni (3 Suits),2,2,8
+Rainbow-Fives & Omni (4 Suits),2,4,12
+Rainbow-Fives & Omni (4 Suits),3,1,2
+Rainbow-Fives & Omni (4 Suits),4,2,4
+Rainbow-Fives & Omni (5 Suits),2,2,4
+Rainbow-Fives & Omni (6 Suits),2,2,4
+Rainbow-Fives & Omni (6 Suits),3,3,6
+Rainbow-Fives & Omni (6 Suits),4,3,3
+Rainbow-Fives & Pink (3 Suits),2,2,10
+Rainbow-Fives & Pink (3 Suits),4,1,3
+Rainbow-Fives & Pink (4 Suits),2,2,2
+Rainbow-Fives & Pink (4 Suits),3,6,8
+Rainbow-Fives & Pink (4 Suits),4,4,4
+Rainbow-Fives & Pink (5 Suits),2,6,6
+Rainbow-Fives & Pink (6 Suits),2,3,17
+Rainbow-Fives & Pink (6 Suits),3,3,16
+Rainbow-Fives & Pink (6 Suits),4,3,6
+Rainbow-Fives & Pink (6 Suits),5,4,4
+Rainbow-Fives & Prism (3 Suits),2,3,3
+Rainbow-Fives & Prism (3 Suits),3,3,3
+Rainbow-Fives & Prism (4 Suits),2,2,2
+Rainbow-Fives & Prism (4 Suits),3,5,5
+Rainbow-Fives & Prism (4 Suits),4,2,7
+Rainbow-Fives & Prism (5 Suits),2,2,2
+Rainbow-Fives & Prism (5 Suits),3,1,1
+Rainbow-Fives & Prism (5 Suits),4,7,10
+Rainbow-Fives & Prism (5 Suits),5,3,8
+Rainbow-Fives & Prism (6 Suits),3,1,1
+Rainbow-Fives & Prism (6 Suits),4,7,10
+Rainbow-Fives & Prism (6 Suits),5,4,11
+Rainbow-Fives & Rainbow (3 Suits),2,2,4
+Rainbow-Fives & Rainbow (4 Suits),2,2,2
+Rainbow-Fives & Rainbow (4 Suits),3,1,3
+Rainbow-Fives & Rainbow (5 Suits),2,6,14
+Rainbow-Fives & Rainbow (5 Suits),3,4,9
+Rainbow-Fives & Rainbow (5 Suits),4,4,6
+Rainbow-Fives & Rainbow (5 Suits),5,4,4
+Rainbow-Fives & Rainbow (6 Suits),2,5,19
+Rainbow-Fives & Rainbow (6 Suits),3,1,1
+Rainbow-Fives & Rainbow (6 Suits),4,3,3
+Rainbow-Fives & Rainbow (6 Suits),5,5,9
+Rainbow-Fives & White (3 Suits),2,5,7
+Rainbow-Fives & White (3 Suits),3,3,3
+Rainbow-Fives & White (3 Suits),4,4,24
+Rainbow-Fives & White (4 Suits),2,4,10
+Rainbow-Fives & White (4 Suits),3,1,2
+Rainbow-Fives & White (4 Suits),4,4,4
+Rainbow-Fives & White (5 Suits),2,6,10
+Rainbow-Fives & White (5 Suits),3,4,9
+Rainbow-Fives & White (5 Suits),4,10,16
+Rainbow-Fives & White (5 Suits),5,7,12
+Rainbow-Fives & White (6 Suits),2,7,30
+Rainbow-Fives & White (6 Suits),3,7,14
+Rainbow-Fives & White (6 Suits),4,3,3
+Rainbow-Fives & White (6 Suits),5,7,15
+Rainbow-Fives (3 Suits),2,9,12
+Rainbow-Fives (3 Suits),3,3,3
+Rainbow-Fives (4 Suits),2,6,6
+Rainbow-Fives (4 Suits),3,6,9
+Rainbow-Fives (4 Suits),4,5,7
+Rainbow-Fives (4 Suits),5,5,5
+Rainbow-Fives (4 Suits),6,5,5
+Rainbow-Fives (5 Suits),2,10,20
+Rainbow-Fives (5 Suits),3,13,25
+Rainbow-Fives (5 Suits),4,8,9
+Rainbow-Fives (5 Suits),5,6,18
+Rainbow-Fives (5 Suits),6,8,8
+Rainbow-Fives (6 Suits),2,11,42
+Rainbow-Fives (6 Suits),3,10,17
+Rainbow-Fives (6 Suits),4,7,8
+Rainbow-Fives (6 Suits),5,9,9
+Rainbow-Fives (6 Suits),6,4,4
+Rainbow-Ones & Black (5 Suits),2,13,84
+Rainbow-Ones & Black (5 Suits),3,3,6
+Rainbow-Ones & Black (5 Suits),4,4,27
+Rainbow-Ones & Black (6 Suits),2,10,62
+Rainbow-Ones & Black (6 Suits),3,6,22
+Rainbow-Ones & Black (6 Suits),4,5,13
+Rainbow-Ones & Brown (3 Suits),2,8,12
+Rainbow-Ones & Brown (3 Suits),4,4,4
+Rainbow-Ones & Brown (4 Suits),2,8,24
+Rainbow-Ones & Brown (4 Suits),3,6,6
+Rainbow-Ones & Brown (4 Suits),4,8,8
+Rainbow-Ones & Brown (5 Suits),2,8,22
+Rainbow-Ones & Brown (5 Suits),3,5,9
+Rainbow-Ones & Brown (5 Suits),4,14,17
+Rainbow-Ones & Brown (5 Suits),5,4,12
+Rainbow-Ones & Brown (6 Suits),2,7,29
+Rainbow-Ones & Brown (6 Suits),3,7,14
+Rainbow-Ones & Brown (6 Suits),4,4,4
+Rainbow-Ones & Brown (6 Suits),5,2,6
+Rainbow-Ones & Cocoa Rainbow (5 Suits),2,3,11
+Rainbow-Ones & Cocoa Rainbow (6 Suits),2,4,86
+Rainbow-Ones & Cocoa Rainbow (6 Suits),3,3,12
+Rainbow-Ones & Dark Brown (5 Suits),2,5,29
+Rainbow-Ones & Dark Brown (6 Suits),2,3,63
+Rainbow-Ones & Dark Brown (6 Suits),4,4,9
+Rainbow-Ones & Dark Omni (5 Suits),2,3,17
+Rainbow-Ones & Dark Omni (6 Suits),2,7,12
+Rainbow-Ones & Dark Omni (6 Suits),3,2,5
+Rainbow-Ones & Dark Omni (6 Suits),4,1,2
+Rainbow-Ones & Dark Pink (5 Suits),2,4,8
+Rainbow-Ones & Dark Pink (5 Suits),3,3,6
+Rainbow-Ones & Dark Pink (5 Suits),4,3,3
+Rainbow-Ones & Dark Pink (6 Suits),2,6,45
+Rainbow-Ones & Dark Pink (6 Suits),4,1,6
+Rainbow-Ones & Dark Prism (5 Suits),2,5,9
+Rainbow-Ones & Dark Prism (6 Suits),2,5,61
+Rainbow-Ones & Dark Rainbow (5 Suits),2,4,12
+Rainbow-Ones & Dark Rainbow (5 Suits),4,4,17
+Rainbow-Ones & Dark Rainbow (6 Suits),2,7,29
+Rainbow-Ones & Dark Rainbow (6 Suits),3,1,2
+Rainbow-Ones & Dark Rainbow (6 Suits),5,5,10
+Rainbow-Ones & Gray (5 Suits),2,4,33
+Rainbow-Ones & Gray (6 Suits),2,5,30
+Rainbow-Ones & Gray (6 Suits),3,3,7
+Rainbow-Ones & Gray Pink (5 Suits),2,4,12
+Rainbow-Ones & Gray Pink (5 Suits),3,2,2
+Rainbow-Ones & Gray Pink (5 Suits),4,3,7
+Rainbow-Ones & Gray Pink (6 Suits),2,5,35
+Rainbow-Ones & Gray Pink (6 Suits),3,3,16
+Rainbow-Ones & Light Pink (3 Suits),2,9,20
+Rainbow-Ones & Light Pink (4 Suits),2,6,10
+Rainbow-Ones & Light Pink (4 Suits),3,2,2
+Rainbow-Ones & Light Pink (4 Suits),4,4,4
+Rainbow-Ones & Light Pink (5 Suits),2,7,15
+Rainbow-Ones & Light Pink (5 Suits),3,5,7
+Rainbow-Ones & Light Pink (5 Suits),4,1,6
+Rainbow-Ones & Light Pink (5 Suits),5,4,8
+Rainbow-Ones & Light Pink (6 Suits),2,8,26
+Rainbow-Ones & Light Pink (6 Suits),4,7,12
+Rainbow-Ones & Light Pink (6 Suits),5,3,4
+Rainbow-Ones & Muddy Rainbow (3 Suits),2,5,9
+Rainbow-Ones & Muddy Rainbow (4 Suits),2,5,17
+Rainbow-Ones & Muddy Rainbow (4 Suits),4,2,2
+Rainbow-Ones & Muddy Rainbow (5 Suits),2,5,36
+Rainbow-Ones & Muddy Rainbow (5 Suits),3,3,3
+Rainbow-Ones & Muddy Rainbow (5 Suits),4,5,5
+Rainbow-Ones & Muddy Rainbow (6 Suits),2,5,31
+Rainbow-Ones & Muddy Rainbow (6 Suits),6,3,3
+Rainbow-Ones & Null (3 Suits),2,2,2
+Rainbow-Ones & Null (4 Suits),2,2,10
+Rainbow-Ones & Null (5 Suits),2,2,6
+Rainbow-Ones & Null (6 Suits),2,1,8
+Rainbow-Ones & Omni (3 Suits),2,6,8
+Rainbow-Ones & Omni (4 Suits),2,4,10
+Rainbow-Ones & Omni (4 Suits),4,1,1
+Rainbow-Ones & Omni (5 Suits),2,10,33
+Rainbow-Ones & Omni (5 Suits),4,8,8
+Rainbow-Ones & Omni (6 Suits),2,7,35
+Rainbow-Ones & Omni (6 Suits),3,2,6
+Rainbow-Ones & Omni (6 Suits),5,5,5
+Rainbow-Ones & Pink (3 Suits),2,10,34
+Rainbow-Ones & Pink (3 Suits),3,3,10
+Rainbow-Ones & Pink (4 Suits),2,14,41
+Rainbow-Ones & Pink (4 Suits),3,2,2
+Rainbow-Ones & Pink (4 Suits),4,10,26
+Rainbow-Ones & Pink (5 Suits),2,13,34
+Rainbow-Ones & Pink (5 Suits),3,13,31
+Rainbow-Ones & Pink (5 Suits),4,20,28
+Rainbow-Ones & Pink (5 Suits),5,9,9
+Rainbow-Ones & Pink (6 Suits),2,11,58
+Rainbow-Ones & Pink (6 Suits),3,8,30
+Rainbow-Ones & Pink (6 Suits),4,11,37
+Rainbow-Ones & Pink (6 Suits),5,8,16
+Rainbow-Ones & Prism (3 Suits),2,8,12
+Rainbow-Ones & Prism (4 Suits),2,7,15
+Rainbow-Ones & Prism (4 Suits),3,7,13
+Rainbow-Ones & Prism (5 Suits),2,8,10
+Rainbow-Ones & Prism (5 Suits),3,3,4
+Rainbow-Ones & Prism (5 Suits),4,5,10
+Rainbow-Ones & Prism (5 Suits),5,4,4
+Rainbow-Ones & Prism (6 Suits),2,10,22
+Rainbow-Ones & Prism (6 Suits),3,10,21
+Rainbow-Ones & Prism (6 Suits),4,13,30
+Rainbow-Ones & Prism (6 Suits),5,4,16
+Rainbow-Ones & Rainbow (3 Suits),2,8,8
+Rainbow-Ones & Rainbow (3 Suits),3,2,4
+Rainbow-Ones & Rainbow (4 Suits),2,10,29
+Rainbow-Ones & Rainbow (4 Suits),3,7,8
+Rainbow-Ones & Rainbow (4 Suits),4,6,9
+Rainbow-Ones & Rainbow (5 Suits),2,14,14
+Rainbow-Ones & Rainbow (5 Suits),3,8,12
+Rainbow-Ones & Rainbow (5 Suits),4,9,26
+Rainbow-Ones & Rainbow (5 Suits),5,8,13
+Rainbow-Ones & Rainbow (6 Suits),2,12,18
+Rainbow-Ones & Rainbow (6 Suits),3,6,12
+Rainbow-Ones & Rainbow (6 Suits),4,7,15
+Rainbow-Ones & Rainbow (6 Suits),5,4,4
+Rainbow-Ones & Rainbow (6 Suits),6,6,11
+Rainbow-Ones & White (3 Suits),2,10,14
+Rainbow-Ones & White (3 Suits),3,2,2
+Rainbow-Ones & White (3 Suits),4,6,6
+Rainbow-Ones & White (4 Suits),2,10,12
+Rainbow-Ones & White (4 Suits),3,3,3
+Rainbow-Ones & White (4 Suits),4,4,4
+Rainbow-Ones & White (5 Suits),2,14,30
+Rainbow-Ones & White (5 Suits),3,13,19
+Rainbow-Ones & White (5 Suits),4,11,21
+Rainbow-Ones & White (5 Suits),5,17,24
+Rainbow-Ones & White (5 Suits),6,6,6
+Rainbow-Ones & White (6 Suits),2,11,55
+Rainbow-Ones & White (6 Suits),3,4,9
+Rainbow-Ones & White (6 Suits),4,11,17
+Rainbow-Ones & White (6 Suits),5,12,34
+Rainbow-Ones (3 Suits),2,20,32
+Rainbow-Ones (3 Suits),3,14,21
+Rainbow-Ones (3 Suits),4,9,14
+Rainbow-Ones (4 Suits),2,19,31
+Rainbow-Ones (4 Suits),3,23,36
+Rainbow-Ones (4 Suits),4,9,12
+Rainbow-Ones (4 Suits),6,5,5
+Rainbow-Ones (5 Suits),2,18,46
+Rainbow-Ones (5 Suits),3,32,71
+Rainbow-Ones (5 Suits),4,27,51
+Rainbow-Ones (5 Suits),5,15,43
+Rainbow-Ones (5 Suits),6,8,18
+Rainbow-Ones (6 Suits),2,21,74
+Rainbow-Ones (6 Suits),3,16,40
+Rainbow-Ones (6 Suits),4,19,36
+Rainbow-Ones (6 Suits),5,12,33
+Rainbow-Ones (6 Suits),6,11,12
+Reversed (3 Suits),2,23,28
+Reversed (3 Suits),3,17,35
+Reversed (3 Suits),4,13,33
+Reversed (4 Suits),2,28,74
+Reversed (4 Suits),3,29,36
+Reversed (4 Suits),4,22,47
+Reversed (4 Suits),5,10,21
+Reversed (5 Suits),2,26,156
+Reversed (5 Suits),3,36,62
+Reversed (5 Suits),4,47,107
+Reversed (5 Suits),5,13,23
+Reversed (5 Suits),6,14,19
+Reversed (6 Suits),2,22,125
+Reversed (6 Suits),3,23,51
+Reversed (6 Suits),4,38,69
+Reversed (6 Suits),5,23,50
+Reversed (6 Suits),6,13,14
+Special Mix (5 Suits),2,31,664
+Special Mix (5 Suits),3,34,441
+Special Mix (5 Suits),4,25,456
+Special Mix (5 Suits),5,6,421
+Special Mix (5 Suits),6,10,159
+Special Mix (6 Suits),2,4,301
+Special Mix (6 Suits),3,17,108
+Special Mix (6 Suits),4,5,61
+Special Mix (6 Suits),5,5,34
+Throw It in a Hole & Brown (4 Suits),2,3,13
+Throw It in a Hole & Brown (4 Suits),3,2,2
+Throw It in a Hole & Brown (4 Suits),4,4,7
+Throw It in a Hole & Brown (5 Suits),2,1,2
+Throw It in a Hole & Brown (5 Suits),3,3,3
+Throw It in a Hole & Brown (5 Suits),4,3,9
+Throw It in a Hole & Light Pink (4 Suits),2,2,4
+Throw It in a Hole & Light Pink (4 Suits),3,3,3
+Throw It in a Hole & Light Pink (5 Suits),4,3,9
+Throw It in a Hole & Muddy Rainbow (4 Suits),2,2,2
+Throw It in a Hole & Muddy Rainbow (5 Suits),2,2,6
+Throw It in a Hole & Muddy Rainbow (5 Suits),3,5,7
+Throw It in a Hole & Muddy Rainbow (6 Suits),2,2,8
+Throw It in a Hole & Null (4 Suits),2,2,28
+Throw It in a Hole & Null (5 Suits),3,3,6
+Throw It in a Hole & Omni (4 Suits),2,2,6
+Throw It in a Hole & Omni (4 Suits),3,3,3
+Throw It in a Hole & Pink (4 Suits),2,2,6
+Throw It in a Hole & Pink (4 Suits),3,3,6
+Throw It in a Hole & Pink (5 Suits),2,2,12
+Throw It in a Hole & Pink (5 Suits),4,2,4
+Throw It in a Hole & Pink (6 Suits),2,4,23
+Throw It in a Hole & Pink (6 Suits),3,3,4
+Throw It in a Hole & Prism (4 Suits),2,4,6
+Throw It in a Hole & Prism (4 Suits),3,3,3
+Throw It in a Hole & Prism (5 Suits),2,3,17
+Throw It in a Hole & Prism (5 Suits),3,6,8
+Throw It in a Hole & Prism (5 Suits),4,3,3
+Throw It in a Hole & Prism (6 Suits),2,1,1
+Throw It in a Hole & Prism (6 Suits),4,2,11
+Throw It in a Hole & Rainbow (4 Suits),2,3,31
+Throw It in a Hole & Rainbow (4 Suits),4,4,4
+Throw It in a Hole & Rainbow (5 Suits),2,6,23
+Throw It in a Hole & Rainbow (5 Suits),3,5,5
+Throw It in a Hole & Rainbow (5 Suits),4,8,10
+Throw It in a Hole & Rainbow (6 Suits),2,4,24
+Throw It in a Hole & Rainbow (6 Suits),3,10,14
+Throw It in a Hole & Rainbow (6 Suits),4,4,5
+Throw It in a Hole & White (4 Suits),2,6,19
+Throw It in a Hole & White (4 Suits),3,3,6
+Throw It in a Hole & White (5 Suits),2,3,40
+Throw It in a Hole & White (5 Suits),3,6,6
+Throw It in a Hole & White (5 Suits),4,2,4
+Throw It in a Hole & White (6 Suits),2,6,34
+Throw It in a Hole & White (6 Suits),3,3,51
+Throw It in a Hole & White (6 Suits),4,3,3
+Throw It in a Hole (4 Suits),2,29,89
+Throw It in a Hole (4 Suits),3,25,67
+Throw It in a Hole (4 Suits),4,21,56
+Throw It in a Hole (4 Suits),5,4,8
+Throw It in a Hole (5 Suits),2,22,125
+Throw It in a Hole (5 Suits),3,37,95
+Throw It in a Hole (5 Suits),4,38,72
+Throw It in a Hole (5 Suits),5,8,18
+Throw It in a Hole (5 Suits),6,15,26
+Throw It in a Hole (6 Suits),2,11,47
+Throw It in a Hole (6 Suits),3,16,42
+Throw It in a Hole (6 Suits),4,35,106
+Throw It in a Hole (6 Suits),5,12,57
+Throw It in a Hole (6 Suits),6,6,6
+Totally Blind (3 Suits),2,9,13
+Totally Blind (3 Suits),3,2,2
+Totally Blind (4 Suits),2,9,17
+Totally Blind (4 Suits),3,6,10
+Totally Blind (5 Suits),2,15,47
+Totally Blind (5 Suits),3,6,10
+Totally Blind (5 Suits),4,3,9
+Totally Blind (6 Suits),2,8,17
+Totally Blind (6 Suits),3,8,11
+Totally Blind (6 Suits),4,4,10
+Up or Down & Brown (5 Suits),2,21,51
+Up or Down & Brown (5 Suits),3,26,73
+Up or Down & Brown (5 Suits),4,21,43
+Up or Down & Brown (6 Suits),2,17,67
+Up or Down & Brown (6 Suits),3,18,47
+Up or Down & Brown (6 Suits),4,28,80
+Up or Down & Light Pink (5 Suits),2,14,50
+Up or Down & Light Pink (5 Suits),3,15,37
+Up or Down & Light Pink (5 Suits),4,10,18
+Up or Down & Light Pink (6 Suits),2,13,47
+Up or Down & Light Pink (6 Suits),3,18,30
+Up or Down & Light Pink (6 Suits),4,8,21
+Up or Down & Muddy Rainbow (5 Suits),2,11,86
+Up or Down & Muddy Rainbow (5 Suits),3,12,42
+Up or Down & Muddy Rainbow (5 Suits),4,11,61
+Up or Down & Muddy Rainbow (6 Suits),2,10,40
+Up or Down & Muddy Rainbow (6 Suits),3,15,58
+Up or Down & Muddy Rainbow (6 Suits),4,14,76
+Up or Down & Null (5 Suits),2,8,48
+Up or Down & Null (5 Suits),3,6,11
+Up or Down & Null (6 Suits),2,10,71
+Up or Down & Null (6 Suits),3,3,7
+Up or Down & Omni (5 Suits),2,14,68
+Up or Down & Omni (5 Suits),3,24,103
+Up or Down & Omni (5 Suits),4,11,34
+Up or Down & Omni (6 Suits),2,13,144
+Up or Down & Omni (6 Suits),3,19,74
+Up or Down & Omni (6 Suits),4,21,103
+Up or Down & Omni (6 Suits),5,10,21
+Up or Down & Pink (5 Suits),2,18,61
+Up or Down & Pink (5 Suits),3,28,78
+Up or Down & Pink (5 Suits),4,26,76
+Up or Down & Pink (6 Suits),2,15,77
+Up or Down & Pink (6 Suits),3,18,41
+Up or Down & Pink (6 Suits),4,22,56
+Up or Down & Pink (6 Suits),5,5,48
+Up or Down & Prism (5 Suits),2,18,90
+Up or Down & Prism (5 Suits),3,25,69
+Up or Down & Prism (5 Suits),4,26,43
+Up or Down & Prism (6 Suits),2,15,49
+Up or Down & Prism (6 Suits),3,20,68
+Up or Down & Prism (6 Suits),4,20,92
+Up or Down & Prism (6 Suits),5,5,67
+Up or Down & Prism (6 Suits),6,6,13
+Up or Down & Rainbow (5 Suits),2,39,105
+Up or Down & Rainbow (5 Suits),3,28,76
+Up or Down & Rainbow (5 Suits),4,22,63
+Up or Down & Rainbow (6 Suits),2,24,109
+Up or Down & Rainbow (6 Suits),3,28,110
+Up or Down & Rainbow (6 Suits),4,23,100
+Up or Down & Rainbow (6 Suits),5,5,56
+Up or Down & Rainbow (6 Suits),6,5,5
+Up or Down & White (5 Suits),2,23,84
+Up or Down & White (5 Suits),3,26,113
+Up or Down & White (5 Suits),4,26,49
+Up or Down & White (6 Suits),2,20,57
+Up or Down & White (6 Suits),3,28,119
+Up or Down & White (6 Suits),4,23,54
+Up or Down & White (6 Suits),5,5,7
+Up or Down (5 Suits),2,51,233
+Up or Down (5 Suits),3,66,255
+Up or Down (5 Suits),4,52,295
+Up or Down (5 Suits),5,5,20
+Up or Down (5 Suits),6,9,11
+Up or Down (6 Suits),2,38,177
+Up or Down (6 Suits),3,41,197
+Up or Down (6 Suits),4,41,202
+Up or Down (6 Suits),5,16,148
+Up or Down (6 Suits),6,20,36
+Very Ambiguous & Brown (4 Suits),2,4,16
+Very Ambiguous & Light Pink (4 Suits),2,2,4
+Very Ambiguous & Omni (4 Suits),2,2,2
+Very Ambiguous & Pink (4 Suits),2,4,4
+Very Ambiguous & White (4 Suits),2,4,12
+Very Ambiguous & White (4 Suits),3,6,6
+Very Ambiguous (3 Suits),2,17,25
+Very Ambiguous (3 Suits),3,9,29
+Very Ambiguous (3 Suits),4,9,21
+Very Ambiguous (6 Suits),2,12,161
+Very Ambiguous (6 Suits),3,18,80
+Very Ambiguous (6 Suits),4,10,31
+Very Ambiguous (6 Suits),5,7,32
+White & Brown (3 Suits),2,29,67
+White & Brown (3 Suits),3,8,14
+White & Brown (3 Suits),4,4,16
+White & Brown (4 Suits),2,28,67
+White & Brown (4 Suits),3,22,39
+White & Brown (4 Suits),4,30,53
+White & Brown (4 Suits),5,3,11
+White & Brown (5 Suits),2,31,40
+White & Brown (5 Suits),3,45,81
+White & Brown (5 Suits),4,38,102
+White & Brown (5 Suits),5,23,35
+White & Brown (5 Suits),6,6,8
+White & Brown (6 Suits),2,38,95
+White & Brown (6 Suits),3,30,79
+White & Brown (6 Suits),4,42,64
+White & Brown (6 Suits),5,16,40
+White & Brown (6 Suits),6,11,20
+White & Cocoa Rainbow (5 Suits),2,11,27
+White & Cocoa Rainbow (5 Suits),3,7,17
+White & Cocoa Rainbow (5 Suits),4,8,27
+White & Cocoa Rainbow (6 Suits),2,11,113
+White & Cocoa Rainbow (6 Suits),3,8,15
+White & Cocoa Rainbow (6 Suits),4,6,19
+White & Dark Brown (5 Suits),2,20,254
+White & Dark Brown (5 Suits),3,12,24
+White & Dark Brown (5 Suits),4,11,15
+White & Dark Brown (6 Suits),2,16,205
+White & Dark Brown (6 Suits),3,18,43
+White & Dark Brown (6 Suits),4,12,33
+White & Dark Null (5 Suits),2,4,20
+White & Dark Null (6 Suits),2,8,80
+White & Dark Omni (5 Suits),2,21,106
+White & Dark Omni (5 Suits),3,6,26
+White & Dark Omni (5 Suits),4,1,4
+White & Dark Omni (6 Suits),2,15,92
+White & Dark Omni (6 Suits),3,9,36
+White & Dark Omni (6 Suits),4,11,68
+White & Dark Omni (6 Suits),5,10,30
+White & Dark Pink (5 Suits),2,11,35
+White & Dark Pink (5 Suits),3,9,22
+White & Dark Pink (5 Suits),4,9,37
+White & Dark Pink (6 Suits),2,16,95
+White & Dark Pink (6 Suits),3,10,79
+White & Dark Pink (6 Suits),4,15,64
+White & Dark Pink (6 Suits),5,5,10
+White & Dark Prism (5 Suits),2,12,97
+White & Dark Prism (5 Suits),3,11,49
+White & Dark Prism (5 Suits),4,10,54
+White & Dark Prism (6 Suits),2,15,107
+White & Dark Prism (6 Suits),3,12,30
+White & Dark Prism (6 Suits),4,10,40
+White & Dark Prism (6 Suits),5,5,8
+White & Dark Rainbow (5 Suits),2,19,76
+White & Dark Rainbow (5 Suits),3,17,37
+White & Dark Rainbow (5 Suits),4,14,25
+White & Dark Rainbow (6 Suits),2,15,146
+White & Dark Rainbow (6 Suits),3,16,109
+White & Dark Rainbow (6 Suits),4,22,63
+White & Gray Pink (5 Suits),2,12,43
+White & Gray Pink (5 Suits),3,8,11
+White & Gray Pink (5 Suits),4,1,7
+White & Gray Pink (6 Suits),2,16,121
+White & Gray Pink (6 Suits),3,8,8
+White & Gray Pink (6 Suits),4,8,14
+White & Light Pink (3 Suits),2,14,36
+White & Light Pink (3 Suits),3,6,24
+White & Light Pink (3 Suits),4,4,16
+White & Light Pink (4 Suits),2,16,59
+White & Light Pink (4 Suits),3,11,23
+White & Light Pink (4 Suits),4,10,16
+White & Light Pink (5 Suits),2,19,43
+White & Light Pink (5 Suits),3,23,77
+White & Light Pink (5 Suits),4,18,33
+White & Light Pink (5 Suits),5,12,19
+White & Light Pink (6 Suits),2,21,125
+White & Light Pink (6 Suits),3,14,35
+White & Light Pink (6 Suits),4,9,19
+White & Light Pink (6 Suits),5,9,15
+White & Light Pink (6 Suits),6,4,5
+White & Muddy Rainbow (3 Suits),2,19,55
+White & Muddy Rainbow (3 Suits),4,3,3
+White & Muddy Rainbow (4 Suits),2,19,29
+White & Muddy Rainbow (4 Suits),3,6,8
+White & Muddy Rainbow (4 Suits),4,7,14
+White & Muddy Rainbow (5 Suits),2,23,48
+White & Muddy Rainbow (5 Suits),3,17,37
+White & Muddy Rainbow (5 Suits),4,21,59
+White & Muddy Rainbow (5 Suits),5,27,49
+White & Muddy Rainbow (6 Suits),2,22,89
+White & Muddy Rainbow (6 Suits),3,12,19
+White & Muddy Rainbow (6 Suits),4,16,45
+White & Muddy Rainbow (6 Suits),5,13,42
+White & Null (3 Suits),2,13,85
+White & Null (3 Suits),3,3,15
+White & Null (4 Suits),2,10,90
+White & Null (4 Suits),3,6,39
+White & Null (4 Suits),4,4,24
+White & Null (5 Suits),2,11,69
+White & Null (5 Suits),3,9,38
+White & Null (5 Suits),4,3,5
+White & Null (5 Suits),6,5,5
+White & Null (6 Suits),2,10,112
+White & Null (6 Suits),3,3,27
+White & Null (6 Suits),5,4,8
+White & Omni (3 Suits),2,19,38
+White & Omni (3 Suits),3,9,50
+White & Omni (3 Suits),4,4,18
+White & Omni (4 Suits),2,22,50
+White & Omni (4 Suits),3,17,56
+White & Omni (4 Suits),4,12,22
+White & Omni (5 Suits),2,22,119
+White & Omni (5 Suits),3,26,75
+White & Omni (5 Suits),4,18,57
+White & Omni (5 Suits),5,9,13
+White & Omni (5 Suits),6,6,7
+White & Omni (6 Suits),2,22,79
+White & Omni (6 Suits),3,18,54
+White & Omni (6 Suits),4,11,17
+White & Omni (6 Suits),5,7,17
+White & Omni (6 Suits),6,6,14
+White & Prism (3 Suits),2,24,50
+White & Prism (3 Suits),3,10,15
+White & Prism (3 Suits),4,1,6
+White & Prism (4 Suits),2,25,79
+White & Prism (4 Suits),3,13,22
+White & Prism (4 Suits),4,22,30
+White & Prism (5 Suits),2,36,100
+White & Prism (5 Suits),3,37,90
+White & Prism (5 Suits),4,33,57
+White & Prism (5 Suits),5,25,35
+White & Prism (5 Suits),6,6,13
+White & Prism (6 Suits),2,22,145
+White & Prism (6 Suits),3,38,85
+White & Prism (6 Suits),4,25,92
+White & Prism (6 Suits),5,19,78
+White & Prism (6 Suits),6,16,22
+White (3 Suits),2,65,140
+White (3 Suits),3,70,211
+White (3 Suits),4,52,90
+White (3 Suits),6,4,8
+White (4 Suits),2,72,141
+White (4 Suits),3,93,194
+White (4 Suits),4,70,139
+White (4 Suits),5,33,65
+White (4 Suits),6,19,20
+White (5 Suits),2,75,188
+White (5 Suits),3,101,215
+White (5 Suits),4,91,214
+White (5 Suits),5,69,185
+White (5 Suits),6,38,61
+White (6 Suits),2,73,195
+White (6 Suits),3,92,301
+White (6 Suits),4,85,419
+White (6 Suits),5,68,217
+White (6 Suits),6,33,75
+White Reversed (3 Suits),2,14,30
+White Reversed (3 Suits),3,8,27
+White Reversed (3 Suits),4,6,15
+White Reversed (4 Suits),2,23,46
+White Reversed (4 Suits),3,15,17
+White Reversed (4 Suits),4,25,44
+White Reversed (5 Suits),2,26,111
+White Reversed (5 Suits),3,23,27
+White Reversed (5 Suits),4,20,30
+White Reversed (5 Suits),5,17,34
+White Reversed (5 Suits),6,7,13
+White Reversed (6 Suits),2,36,339
+White Reversed (6 Suits),3,25,267
+White Reversed (6 Suits),4,23,133
+White Reversed (6 Suits),5,14,345
+White Reversed (6 Suits),6,6,6
+White-Fives & Black (6 Suits),2,1,1
+White-Fives & Black (6 Suits),3,3,6
+White-Fives & Black (6 Suits),4,4,11
+White-Fives & Brown (3 Suits),2,6,18
+White-Fives & Brown (4 Suits),2,2,4
+White-Fives & Brown (5 Suits),2,5,25
+White-Fives & Brown (5 Suits),4,5,5
+White-Fives & Brown (5 Suits),5,8,8
+White-Fives & Brown (6 Suits),2,2,6
+White-Fives & Brown (6 Suits),3,2,4
+White-Fives & Brown (6 Suits),5,4,5
+White-Fives & Cocoa Rainbow (5 Suits),3,3,12
+White-Fives & Cocoa Rainbow (6 Suits),2,2,36
+White-Fives & Dark Brown (5 Suits),3,3,3
+White-Fives & Dark Brown (6 Suits),2,2,8
+White-Fives & Dark Omni (5 Suits),2,1,10
+White-Fives & Dark Pink (6 Suits),2,2,10
+White-Fives & Dark Rainbow (5 Suits),3,3,3
+White-Fives & Dark Rainbow (6 Suits),2,2,40
+White-Fives & Dark Rainbow (6 Suits),3,3,3
+White-Fives & Gray (5 Suits),3,3,6
+White-Fives & Gray Pink (6 Suits),2,3,13
+White-Fives & Light Pink (3 Suits),2,2,2
+White-Fives & Light Pink (3 Suits),3,3,3
+White-Fives & Light Pink (3 Suits),4,4,4
+White-Fives & Light Pink (4 Suits),2,6,10
+White-Fives & Light Pink (5 Suits),3,2,4
+White-Fives & Light Pink (5 Suits),4,4,4
+White-Fives & Light Pink (6 Suits),4,3,3
+White-Fives & Light Pink (6 Suits),5,6,9
+White-Fives & Muddy Rainbow (4 Suits),4,2,2
+White-Fives & Muddy Rainbow (5 Suits),2,1,3
+White-Fives & Muddy Rainbow (5 Suits),3,3,3
+White-Fives & Muddy Rainbow (5 Suits),4,4,4
+White-Fives & Muddy Rainbow (6 Suits),4,4,4
+White-Fives & Omni (5 Suits),3,6,9
+White-Fives & Omni (5 Suits),4,2,2
+White-Fives & Omni (6 Suits),3,1,6
+White-Fives & Pink (3 Suits),2,4,12
+White-Fives & Pink (4 Suits),2,2,5
+White-Fives & Pink (4 Suits),4,5,10
+White-Fives & Pink (5 Suits),3,8,8
+White-Fives & Pink (5 Suits),4,3,6
+White-Fives & Pink (5 Suits),5,4,5
+White-Fives & Pink (6 Suits),2,1,4
+White-Fives & Pink (6 Suits),3,3,7
+White-Fives & Prism (3 Suits),2,7,8
+White-Fives & Prism (3 Suits),3,1,1
+White-Fives & Prism (3 Suits),4,2,4
+White-Fives & Prism (4 Suits),2,8,12
+White-Fives & Prism (4 Suits),3,2,2
+White-Fives & Prism (4 Suits),4,3,10
+White-Fives & Prism (5 Suits),2,7,22
+White-Fives & Prism (5 Suits),3,5,5
+White-Fives & Prism (5 Suits),4,3,9
+White-Fives & Prism (5 Suits),5,4,5
+White-Fives & Prism (6 Suits),2,1,7
+White-Fives & Prism (6 Suits),3,5,9
+White-Fives & Prism (6 Suits),4,7,10
+White-Fives & Prism (6 Suits),5,4,4
+White-Fives & Rainbow (3 Suits),2,8,8
+White-Fives & Rainbow (3 Suits),3,4,11
+White-Fives & Rainbow (4 Suits),2,7,28
+White-Fives & Rainbow (4 Suits),3,5,12
+White-Fives & Rainbow (4 Suits),4,4,5
+White-Fives & Rainbow (5 Suits),2,10,28
+White-Fives & Rainbow (5 Suits),3,5,9
+White-Fives & Rainbow (5 Suits),4,6,7
+White-Fives & Rainbow (5 Suits),5,2,2
+White-Fives & Rainbow (6 Suits),2,9,17
+White-Fives & Rainbow (6 Suits),3,2,11
+White-Fives & Rainbow (6 Suits),4,3,16
+White-Fives & Rainbow (6 Suits),5,6,10
+White-Fives & Rainbow (6 Suits),6,4,4
+White-Fives & White (3 Suits),2,4,8
+White-Fives & White (3 Suits),4,2,4
+White-Fives & White (4 Suits),2,6,6
+White-Fives & White (4 Suits),3,9,15
+White-Fives & White (4 Suits),4,4,11
+White-Fives & White (5 Suits),2,4,8
+White-Fives & White (5 Suits),3,2,7
+White-Fives & White (5 Suits),4,7,12
+White-Fives & White (6 Suits),2,3,11
+White-Fives & White (6 Suits),3,1,1
+White-Fives & White (6 Suits),4,4,6
+White-Fives & White (6 Suits),5,5,7
+White-Fives (3 Suits),2,12,14
+White-Fives (3 Suits),3,5,19
+White-Fives (3 Suits),4,2,2
+White-Fives (4 Suits),2,13,35
+White-Fives (4 Suits),3,9,10
+White-Fives (4 Suits),4,6,8
+White-Fives (5 Suits),2,13,59
+White-Fives (5 Suits),3,13,17
+White-Fives (5 Suits),4,10,17
+White-Fives (5 Suits),5,5,6
+White-Fives (6 Suits),2,7,44
+White-Fives (6 Suits),3,10,16
+White-Fives (6 Suits),4,12,18
+White-Fives (6 Suits),5,10,33
+White-Ones & Black (5 Suits),2,10,56
+White-Ones & Black (5 Suits),3,9,34
+White-Ones & Black (5 Suits),4,1,5
+White-Ones & Black (6 Suits),2,11,69
+White-Ones & Black (6 Suits),3,11,11
+White-Ones & Black (6 Suits),4,8,17
+White-Ones & Brown (3 Suits),2,9,18
+White-Ones & Brown (4 Suits),2,9,44
+White-Ones & Brown (4 Suits),4,4,10
+White-Ones & Brown (4 Suits),6,6,6
+White-Ones & Brown (5 Suits),2,13,27
+White-Ones & Brown (5 Suits),3,17,36
+White-Ones & Brown (5 Suits),4,16,25
+White-Ones & Brown (5 Suits),5,15,29
+White-Ones & Brown (5 Suits),6,15,25
+White-Ones & Brown (6 Suits),2,14,43
+White-Ones & Brown (6 Suits),3,8,15
+White-Ones & Brown (6 Suits),4,7,9
+White-Ones & Brown (6 Suits),5,4,16
+White-Ones & Brown (6 Suits),6,11,23
+White-Ones & Cocoa Rainbow (5 Suits),2,4,10
+White-Ones & Cocoa Rainbow (6 Suits),2,6,32
+White-Ones & Cocoa Rainbow (6 Suits),3,3,8
+White-Ones & Dark Brown (5 Suits),2,6,48
+White-Ones & Dark Brown (5 Suits),3,3,9
+White-Ones & Dark Brown (6 Suits),2,8,52
+White-Ones & Dark Brown (6 Suits),3,3,12
+White-Ones & Dark Brown (6 Suits),4,4,4
+White-Ones & Dark Null (5 Suits),2,2,26
+White-Ones & Dark Null (6 Suits),2,2,2
+White-Ones & Dark Omni (5 Suits),2,4,12
+White-Ones & Dark Omni (5 Suits),3,3,6
+White-Ones & Dark Omni (6 Suits),2,6,28
+White-Ones & Dark Omni (6 Suits),3,2,4
+White-Ones & Dark Pink (5 Suits),2,6,52
+White-Ones & Dark Pink (5 Suits),3,3,7
+White-Ones & Dark Pink (5 Suits),4,4,8
+White-Ones & Dark Pink (6 Suits),2,9,37
+White-Ones & Dark Pink (6 Suits),4,4,8
+White-Ones & Dark Prism (5 Suits),2,6,20
+White-Ones & Dark Prism (5 Suits),3,5,9
+White-Ones & Dark Prism (5 Suits),4,4,4
+White-Ones & Dark Prism (6 Suits),2,4,10
+White-Ones & Dark Prism (6 Suits),3,1,5
+White-Ones & Dark Prism (6 Suits),4,3,3
+White-Ones & Dark Rainbow (5 Suits),2,6,22
+White-Ones & Dark Rainbow (6 Suits),2,7,31
+White-Ones & Dark Rainbow (6 Suits),3,2,8
+White-Ones & Gray (5 Suits),2,8,24
+White-Ones & Gray (5 Suits),3,3,9
+White-Ones & Gray (5 Suits),4,3,10
+White-Ones & Gray (6 Suits),2,9,100
+White-Ones & Gray (6 Suits),4,4,4
+White-Ones & Gray Pink (5 Suits),2,4,12
+White-Ones & Gray Pink (6 Suits),2,6,56
+White-Ones & Gray Pink (6 Suits),4,1,1
+White-Ones & Light Pink (3 Suits),2,6,6
+White-Ones & Light Pink (4 Suits),2,12,16
+White-Ones & Light Pink (5 Suits),2,12,50
+White-Ones & Light Pink (5 Suits),3,6,14
+White-Ones & Light Pink (5 Suits),4,3,6
+White-Ones & Light Pink (5 Suits),5,10,10
+White-Ones & Light Pink (6 Suits),2,11,15
+White-Ones & Light Pink (6 Suits),4,2,4
+White-Ones & Muddy Rainbow (3 Suits),2,8,13
+White-Ones & Muddy Rainbow (3 Suits),3,3,30
+White-Ones & Muddy Rainbow (4 Suits),2,12,18
+White-Ones & Muddy Rainbow (5 Suits),2,10,22
+White-Ones & Muddy Rainbow (5 Suits),3,3,9
+White-Ones & Muddy Rainbow (5 Suits),4,4,9
+White-Ones & Muddy Rainbow (5 Suits),5,5,9
+White-Ones & Muddy Rainbow (6 Suits),2,8,20
+White-Ones & Muddy Rainbow (6 Suits),3,1,2
+White-Ones & Muddy Rainbow (6 Suits),4,4,4
+White-Ones & Muddy Rainbow (6 Suits),5,5,10
+White-Ones & Null (3 Suits),2,6,6
+White-Ones & Null (4 Suits),2,4,36
+White-Ones & Null (5 Suits),2,4,20
+White-Ones & Null (6 Suits),2,4,8
+White-Ones & Null (6 Suits),3,3,6
+White-Ones & Null (6 Suits),4,3,3
+White-Ones & Omni (3 Suits),2,8,22
+White-Ones & Omni (4 Suits),2,10,20
+White-Ones & Omni (4 Suits),3,3,4
+White-Ones & Omni (5 Suits),2,8,12
+White-Ones & Omni (5 Suits),4,4,11
+White-Ones & Omni (5 Suits),5,5,10
+White-Ones & Omni (6 Suits),2,10,34
+White-Ones & Omni (6 Suits),3,3,7
+White-Ones & Omni (6 Suits),4,4,4
+White-Ones & Omni (6 Suits),5,5,15
+White-Ones & Pink (3 Suits),2,8,16
+White-Ones & Pink (4 Suits),2,10,24
+White-Ones & Pink (4 Suits),3,2,6
+White-Ones & Pink (4 Suits),4,3,4
+White-Ones & Pink (4 Suits),5,4,4
+White-Ones & Pink (5 Suits),2,10,24
+White-Ones & Pink (5 Suits),3,4,8
+White-Ones & Pink (5 Suits),4,9,14
+White-Ones & Pink (5 Suits),5,8,16
+White-Ones & Pink (5 Suits),6,5,10
+White-Ones & Pink (6 Suits),2,8,28
+White-Ones & Pink (6 Suits),3,6,26
+White-Ones & Pink (6 Suits),4,4,7
+White-Ones & Pink (6 Suits),5,9,16
+White-Ones & Prism (3 Suits),2,10,12
+White-Ones & Prism (3 Suits),4,4,4
+White-Ones & Prism (4 Suits),2,10,14
+White-Ones & Prism (4 Suits),3,2,3
+White-Ones & Prism (4 Suits),4,4,9
+White-Ones & Prism (5 Suits),2,10,18
+White-Ones & Prism (5 Suits),3,10,16
+White-Ones & Prism (5 Suits),4,8,19
+White-Ones & Prism (5 Suits),5,9,17
+White-Ones & Prism (6 Suits),2,13,28
+White-Ones & Prism (6 Suits),3,8,18
+White-Ones & Prism (6 Suits),4,9,26
+White-Ones & Prism (6 Suits),5,9,14
+White-Ones & Rainbow (3 Suits),2,11,13
+White-Ones & Rainbow (3 Suits),3,3,6
+White-Ones & Rainbow (4 Suits),2,12,13
+White-Ones & Rainbow (4 Suits),3,5,9
+White-Ones & Rainbow (4 Suits),4,6,8
+White-Ones & Rainbow (5 Suits),2,13,25
+White-Ones & Rainbow (5 Suits),3,19,25
+White-Ones & Rainbow (5 Suits),4,20,41
+White-Ones & Rainbow (5 Suits),5,15,16
+White-Ones & Rainbow (5 Suits),6,4,8
+White-Ones & Rainbow (6 Suits),2,13,44
+White-Ones & Rainbow (6 Suits),3,11,13
+White-Ones & Rainbow (6 Suits),4,10,26
+White-Ones & Rainbow (6 Suits),5,5,7
+White-Ones & Rainbow (6 Suits),6,6,11
+White-Ones & White (3 Suits),2,8,8
+White-Ones & White (3 Suits),3,4,4
+White-Ones & White (4 Suits),2,13,13
+White-Ones & White (4 Suits),3,5,9
+White-Ones & White (4 Suits),4,9,15
+White-Ones & White (5 Suits),2,7,7
+White-Ones & White (5 Suits),3,11,11
+White-Ones & White (5 Suits),4,15,30
+White-Ones & White (5 Suits),5,12,25
+White-Ones & White (6 Suits),2,12,61
+White-Ones & White (6 Suits),3,12,31
+White-Ones & White (6 Suits),4,13,32
+White-Ones & White (6 Suits),5,4,7
+White-Ones (3 Suits),2,16,18
+White-Ones (3 Suits),3,6,13
+White-Ones (3 Suits),4,4,10
+White-Ones (4 Suits),2,21,42
+White-Ones (4 Suits),3,17,19
+White-Ones (4 Suits),4,8,8
+White-Ones (4 Suits),5,5,11
+White-Ones (4 Suits),6,5,10
+White-Ones (5 Suits),2,21,50
+White-Ones (5 Suits),3,36,59
+White-Ones (5 Suits),4,26,32
+White-Ones (5 Suits),5,16,25
+White-Ones (5 Suits),6,15,15
+White-Ones (6 Suits),2,18,47
+White-Ones (6 Suits),3,20,41
+White-Ones (6 Suits),4,27,37
+White-Ones (6 Suits),5,21,67
+White-Ones (6 Suits),6,3,3

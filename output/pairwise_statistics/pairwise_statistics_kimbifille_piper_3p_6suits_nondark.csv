@@ -1,0 +1,43 @@
+variant,attempts,won
+Duck (6 Suits),10,1
+Clue Starved & Null (6 Suits),10,1
+Clue Starved & Brown (6 Suits),10,1
+White (6 Suits),9,1
+Clue Starved & Pink (6 Suits),7,1
+Brown (6 Suits),6,1
+Clue Starved & White (6 Suits),5,1
+Rainbow & Null (6 Suits),4,1
+Ambiguous & Dual-Color,3,1
+Prism (6 Suits),3,1
+Null & Light Pink (6 Suits),3,1
+Clue Starved & Rainbow (6 Suits),3,1
+Clue Starved & Light Pink (6 Suits),3,1
+Dual-Color & Brown (6 Suits),3,1
+Dual-Color (6 Suits),2,1
+Rainbow & White (6 Suits),2,1
+Rainbow & Brown (6 Suits),2,1
+Deceptive-Ones (6 Suits),2,1
+Dual-Color & White (6 Suits),2,1
+Null (6 Suits),2,1
+Dual-Color & Null (6 Suits),2,1
+Clue Starved & Prism (6 Suits),2,1
+Dual-Color & Omni (6 Suits),2,1
+Dual-Color & Light Pink (6 Suits),2,1
+Dual-Color & Muddy Rainbow (6 Suits),2,1
+Pink-Ones & White (6 Suits),1,1
+Light Pink (6 Suits),1,1
+Pink & White (6 Suits),1,1
+Dual-Color & Rainbow (6 Suits),1,1
+Dual-Color & Pink (6 Suits),1,1
+Pink & Null (6 Suits),1,1
+Pink & Brown (6 Suits),1,1
+Null & Muddy Rainbow (6 Suits),1,1
+Clue Starved & Muddy Rainbow (6 Suits),1,1
+Clue Starved (6 Suits),1,1
+Dual-Color & Prism (6 Suits),1,1
+Light-Pink-Fives & Rainbow (6 Suits),3,0
+White & Null (6 Suits),2,0
+Pink & Muddy Rainbow (6 Suits),2,0
+Clue Starved & Omni (6 Suits),1,0
+Reversed (6 Suits),1,0
+Throw It in a Hole & Pink (6 Suits),1,0

@@ -1,0 +1,7 @@
+variant,attempts,won
+4 Suits,7,1
+Ambiguous (4 Suits),4,1
+White (4 Suits),1,1
+Number Blind (4 Suits),1,1
+Color Blind (4 Suits),1,0
+Pink & Brown (4 Suits),1,0

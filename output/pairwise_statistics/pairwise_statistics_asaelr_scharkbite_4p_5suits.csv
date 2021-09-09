@@ -1,0 +1,22 @@
+variant,attempts,won
+Black (5 Suits),5,1
+Up or Down (5 Suits),5,1
+Black Reversed (5 Suits),3,1
+White (5 Suits),2,1
+No Variant,1,1
+Muddy-Rainbow-Ones & Light Pink (5 Suits),1,1
+Omni & Cocoa Rainbow (5 Suits),1,1
+Gray (5 Suits),1,1
+Black & Pink (5 Suits),5,0
+Rainbow (5 Suits),4,0
+Brown (5 Suits),3,0
+Black & Omni (5 Suits),3,0
+Gray Reversed (5 Suits),3,0
+Muddy Rainbow (5 Suits),3,0
+Black & White (5 Suits),2,0
+Pink (5 Suits),1,0
+Black & Null (5 Suits),1,0
+Reversed (5 Suits),1,0
+Clue Starved (5 Suits),1,0
+Throw It in a Hole & Rainbow (5 Suits),1,0
+Black & Brown (5 Suits),1,0

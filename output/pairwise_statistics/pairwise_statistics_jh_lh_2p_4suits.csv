@@ -1,0 +1,12 @@
+variant,attempts,won
+Ambiguous (4 Suits),4,1
+Pink & Brown (4 Suits),4,1
+Pink-Fives (4 Suits),3,1
+Pink (4 Suits),3,1
+Rainbow & Brown (4 Suits),2,1
+4 Suits,1,1
+Pink-Fives & Rainbow (4 Suits),1,1
+Rainbow & Pink (4 Suits),1,1
+White & Brown (4 Suits),1,1
+Brown (4 Suits),4,0
+Pink & White (4 Suits),1,0

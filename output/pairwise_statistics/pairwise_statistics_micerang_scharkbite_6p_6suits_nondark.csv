@@ -1,0 +1,10 @@
+variant,attempts,won
+Rainbow (6 Suits),3,1
+White (6 Suits),1,1
+Up or Down (6 Suits),1,1
+6 Suits,2,0
+Brown (6 Suits),2,0
+Omni (6 Suits),2,0
+Ambiguous & Dual-Color,2,0
+Rainbow & White (6 Suits),1,0
+White-Fives & Light Pink (6 Suits),1,0
